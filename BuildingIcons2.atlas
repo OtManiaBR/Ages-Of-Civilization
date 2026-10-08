@@ -1,0 +1,901 @@
+BuildingIcons2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Instituto de Química
+rotate: false
+xy: 0, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede Elétrica
+rotate: false
+xy: 128, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto Nacional
+rotate: false
+xy: 256, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Aeródromo
+rotate: false
+xy: 384, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Estação de Rádio
+rotate: false
+xy: 512, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Laboratório Eletrônico
+rotate: false
+xy: 640, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro Aeronáutico
+rotate: false
+xy: 768, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Computação
+rotate: false
+xy: 896, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede de Mídia
+rotate: false
+xy: 1024, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto de Genética
+rotate: false
+xy: 1152, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro Espacial
+rotate: false
+xy: 1280, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede de Energia Avançada
+rotate: false
+xy: 1408, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Biotecnologia
+rotate: false
+xy: 1536, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto de Inteligência Artificial
+rotate: false
+xy: 1664, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Robótica
+rotate: false
+xy: 1792, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Laboratório de Nanotecnologia
+rotate: false
+xy: 1920, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro da Sociedade Digital
+rotate: false
+xy: 0, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola Filosófica
+rotate: false
+xy: 128, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto de Computação Quântica
+rotate: false
+xy: 256, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Agência Nacional de Cibersegurança
+rotate: false
+xy: 384, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro Nacional de Nuvem
+rotate: false
+xy: 512, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto de Biologia Sintética
+rotate: false
+xy: 640, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Propulsão Orbital
+rotate: false
+xy: 768, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Lunar Nacional
+rotate: false
+xy: 896, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Complexo de Mineração Espacial
+rotate: false
+xy: 1024, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Habitat Orbital Nacional
+rotate: false
+xy: 1152, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto de Terraformação
+rotate: false
+xy: 1280, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Engenharia Planetária
+rotate: false
+xy: 1408, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede Planetária Nacional
+rotate: false
+xy: 1536, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Conselho da Civilização Multiplanetária
+rotate: false
+xy: 1664, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede Nacional de Dados
+rotate: false
+xy: 1792, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Serviços Digitais
+rotate: false
+xy: 1920, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Bolsa de Tecnologia
+rotate: false
+xy: 0, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Educação Digital
+rotate: false
+xy: 128, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Laboratório de Sistemas Autônomos
+rotate: false
+xy: 256, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Complexo de Microeletrônica
+rotate: false
+xy: 384, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arquivo Digital Nacional
+rotate: false
+xy: 512, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Pesquisa Sintética
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Lançamento Orbital
+rotate: false
+xy: 768, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Estação Orbital
+rotate: false
+xy: 896, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Observatório Espacial
+rotate: false
+xy: 1024, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede de Satélites
+rotate: false
+xy: 1152, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Estaleiro Orbital
+rotate: false
+xy: 1280, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto de Astrobiologia
+rotate: false
+xy: 1408, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Navegação Espacial
+rotate: false
+xy: 1536, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Terminal Lunar
+rotate: false
+xy: 1664, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Complexo de Água Planetária
+rotate: false
+xy: 1792, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Estação de Clima Planetário
+rotate: false
+xy: 1920, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Ecologia Sintética
+rotate: false
+xy: 0, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede de Transporte Planetário
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Cidade Marciana
+rotate: false
+xy: 256, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Porto Lunar
+rotate: false
+xy: 384, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Recursos Asteroides
+rotate: false
+xy: 512, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Universidade Planetária
+rotate: false
+xy: 640, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Grande Elevador Orbital
+rotate: false
+xy: 768, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Cidade Lunar Permanente
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Megacentro de Computação Planetária
+rotate: false
+xy: 1024, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede de Terraformação Planetária
+rotate: false
+xy: 1152, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Siderúrgica Nacional
+rotate: false
+xy: 1280, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Usina de Laminação de Aço
+rotate: false
+xy: 1408, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica de Máquinas
+rotate: false
+xy: 1536, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Refinaria de Petróleo
+rotate: false
+xy: 1664, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Posto de Combustíveis
+rotate: false
+xy: 1792, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Usina de Etanol
+rotate: false
+xy: 1920, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Indústria Petroquímica
+rotate: false
+xy: 0, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fiação de Algodão
+rotate: false
+xy: 128, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica Têxtil
+rotate: false
+xy: 256, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa da Seda
+rotate: false
+xy: 384, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Ateliê de Alta Moda
+rotate: false
+xy: 512, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Curtume e Fábrica de Couro
+rotate: false
+xy: 640, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica de Pneus
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica de Bicicletas
+rotate: false
+xy: 896, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica de Automóveis
+rotate: false
+xy: 1024, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Indústria Aeronáutica
+rotate: false
+xy: 1152, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica de Alumínio
+rotate: false
+xy: 1280, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Usina Termelétrica
+rotate: false
+xy: 1408, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Usina de Gás Natural
+rotate: false
+xy: 1536, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Cooperativa de Café
+rotate: false
+xy: 1664, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa do Cacau
+rotate: false
+xy: 1792, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa de Chá
+rotate: false
+xy: 1920, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Central de Beneficiamento de Frutas
+rotate: false
+xy: 0, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Moinho de Arroz
+rotate: false
+xy: 128, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Usina de Açúcar
+rotate: false
+xy: 256, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Westminster
+rotate: false
+xy: 384, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Estaleiro de Portsmouth
+rotate: false
+xy: 512, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio das Tulherias
+rotate: false
+xy: 640, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola Politécnica Francesa
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Inverno
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Imperial Russa
+rotate: false
+xy: 1024, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Schönbrunn
+rotate: false
+xy: 1152, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia de Viena
+rotate: false
+xy: 1280, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Sanssouci
+rotate: false
+xy: 1408, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Militar de Berlim
+rotate: false
+xy: 1536, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Topkapi
+rotate: false
+xy: 1664, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola Militar de Istambul
+rotate: false
+xy: 1792, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio Real de Madri
+rotate: false
+xy: 1920, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa de Contratação de Cádiz
+rotate: false
+xy: 0, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio da Ajuda
+rotate: false
+xy: 128, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal Real de Lisboa
+rotate: false
+xy: 256, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Bolsa de Amsterdã
+rotate: false
+xy: 384, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Estaleiro de Roterdã
+rotate: false
+xy: 512, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio Real de Bruxelas
+rotate: false
+xy: 640, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Complexo Industrial de Liège
+rotate: false
+xy: 768, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Estocolmo
+rotate: false
+xy: 896, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto Tecnológico Sueco
+rotate: false
+xy: 1024, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Christiansborg
+rotate: false
+xy: 1152, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Companhia Asiática Dinamarquesa
+rotate: false
+xy: 1280, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Residenz de Munique
+rotate: false
+xy: 1408, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia de Belas-Artes de Munique
+rotate: false
+xy: 1536, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Turim
+rotate: false
+xy: 1664, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal de Turim
+rotate: false
+xy: 1792, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio Real de Nápoles
+rotate: false
+xy: 1920, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal de Nápoles
+rotate: false
+xy: 0, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Paço de São Cristóvão
+rotate: false
+xy: 128, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto Imperial Agrícola
+rotate: false
+xy: 256, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Capitólio de Washington
+rotate: false
+xy: 384, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal de Springfield
+rotate: false
+xy: 512, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Castelo de Chapultepec
+rotate: false
+xy: 640, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola de Mineração do México
+rotate: false
+xy: 768, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Capitólio de San Felipe
+rotate: false
+xy: 896, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rangers de San Antonio
+rotate: false
+xy: 1024, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Cabildo de Buenos Aires
+rotate: false
+xy: 1152, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Estâncias do Prata
+rotate: false
+xy: 1280, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de La Moneda
+rotate: false
+xy: 1408, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola de Mineração de Copiapó
+rotate: false
+xy: 1536, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio do Governo de Lima
+rotate: false
+xy: 1664, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola Militar de Chuquisaca
+rotate: false
+xy: 1792, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio Nacional do Haiti
+rotate: false
+xy: 1920, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1

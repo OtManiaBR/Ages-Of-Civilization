@@ -1,0 +1,3505 @@
+UnitSprites1.png
+size: 3264, 2880
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Units/Trabalhadores
+rotate: false
+xy: 0, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Trabalhadores
+rotate: false
+xy: 0, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fundadores
+rotate: false
+xy: 192, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fundadores
+rotate: false
+xy: 192, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fundador de Companhia
+rotate: false
+xy: 384, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fundador de Companhia
+rotate: false
+xy: 384, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Batedores
+rotate: false
+xy: 576, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Batedores
+rotate: false
+xy: 576, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guerreiro
+rotate: false
+xy: 768, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guerreiro
+rotate: false
+xy: 768, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fundeiro
+rotate: false
+xy: 960, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fundeiro
+rotate: false
+xy: 960, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Arqueiro
+rotate: false
+xy: 1152, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Arqueiro
+rotate: false
+xy: 1152, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guerreiro de Ferro
+rotate: false
+xy: 1344, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guerreiro de Ferro
+rotate: false
+xy: 1344, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Lanceiro
+rotate: false
+xy: 1536, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Lanceiro
+rotate: false
+xy: 1536, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavaleiro
+rotate: false
+xy: 1728, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavaleiro
+rotate: false
+xy: 1728, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Catapulta
+rotate: false
+xy: 1920, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Catapulta
+rotate: false
+xy: 1920, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Trirreme
+rotate: false
+xy: 2112, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Trirreme
+rotate: false
+xy: 2112, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guarda Real
+rotate: false
+xy: 2304, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guarda Real
+rotate: false
+xy: 2304, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Carro de Guerra
+rotate: false
+xy: 2496, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Carro de Guerra
+rotate: false
+xy: 2496, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Besteiro
+rotate: false
+xy: 2688, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Besteiro
+rotate: false
+xy: 2688, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavaleiro Feudal
+rotate: false
+xy: 0, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavaleiro Feudal
+rotate: false
+xy: 0, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Mosqueteiro
+rotate: false
+xy: 192, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Mosqueteiro
+rotate: false
+xy: 192, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Canhão
+rotate: false
+xy: 384, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Canhão
+rotate: false
+xy: 384, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Artilharia de Campo
+rotate: false
+xy: 576, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Artilharia de Campo
+rotate: false
+xy: 576, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria de Linha
+rotate: false
+xy: 768, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria de Linha
+rotate: false
+xy: 768, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Encouraçado
+rotate: false
+xy: 960, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Encouraçado
+rotate: false
+xy: 960, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Tanque
+rotate: false
+xy: 1152, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Tanque
+rotate: false
+xy: 1152, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Mecanizada
+rotate: false
+xy: 1344, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Mecanizada
+rotate: false
+xy: 1344, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Artilharia Autopropulsada
+rotate: false
+xy: 1536, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Artilharia Autopropulsada
+rotate: false
+xy: 1536, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Redcoat
+rotate: false
+xy: 1728, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Redcoat
+rotate: false
+xy: 1728, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Household
+rotate: false
+xy: 1920, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Household
+rotate: false
+xy: 1920, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria de Linha Francesa
+rotate: false
+xy: 2112, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria de Linha Francesa
+rotate: false
+xy: 2112, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Chasseurs
+rotate: false
+xy: 2304, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Chasseurs
+rotate: false
+xy: 2304, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Imperial Russa
+rotate: false
+xy: 2496, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Imperial Russa
+rotate: false
+xy: 2496, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cossacos Imperiais
+rotate: false
+xy: 2688, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cossacos Imperiais
+rotate: false
+xy: 2688, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Grenzer Austríacos
+rotate: false
+xy: 0, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Grenzer Austríacos
+rotate: false
+xy: 0, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Dragões Austríacos
+rotate: false
+xy: 192, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Dragões Austríacos
+rotate: false
+xy: 192, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Prussiana
+rotate: false
+xy: 384, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Prussiana
+rotate: false
+xy: 384, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Hussardos Prussianos
+rotate: false
+xy: 576, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Hussardos Prussianos
+rotate: false
+xy: 576, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Nizam-i Cedid Otomano
+rotate: false
+xy: 768, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Nizam-i Cedid Otomano
+rotate: false
+xy: 768, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Sipahi
+rotate: false
+xy: 960, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Sipahi
+rotate: false
+xy: 960, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Espanhola
+rotate: false
+xy: 1152, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Espanhola
+rotate: false
+xy: 1152, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Real Espanhola
+rotate: false
+xy: 1344, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Real Espanhola
+rotate: false
+xy: 1344, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caçadores Portugueses
+rotate: false
+xy: 1536, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caçadores Portugueses
+rotate: false
+xy: 1536, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Lusitana
+rotate: false
+xy: 1728, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Lusitana
+rotate: false
+xy: 1728, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Holandesa
+rotate: false
+xy: 1920, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Holandesa
+rotate: false
+xy: 1920, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fuzileiros Coloniais Holandeses
+rotate: false
+xy: 2112, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fuzileiros Coloniais Holandeses
+rotate: false
+xy: 2112, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Carabineiros Belgas
+rotate: false
+xy: 2304, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Carabineiros Belgas
+rotate: false
+xy: 2304, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Civis Belgas
+rotate: false
+xy: 2496, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Civis Belgas
+rotate: false
+xy: 2496, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caroleanos Suecos
+rotate: false
+xy: 2688, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caroleanos Suecos
+rotate: false
+xy: 2688, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Hussardos Suecos
+rotate: false
+xy: 0, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Hussardos Suecos
+rotate: false
+xy: 0, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Dinamarqueses
+rotate: false
+xy: 192, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Dinamarqueses
+rotate: false
+xy: 192, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Dinamarquesa
+rotate: false
+xy: 384, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Dinamarquesa
+rotate: false
+xy: 384, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Bávara
+rotate: false
+xy: 576, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Bávara
+rotate: false
+xy: 576, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Bávara
+rotate: false
+xy: 768, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Bávara
+rotate: false
+xy: 768, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Bersaglieri Piemonteses
+rotate: false
+xy: 960, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Bersaglieri Piemonteses
+rotate: false
+xy: 960, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Piemonte
+rotate: false
+xy: 1152, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Piemonte
+rotate: false
+xy: 1152, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Bourbon
+rotate: false
+xy: 1344, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Bourbon
+rotate: false
+xy: 1344, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Bourbon
+rotate: false
+xy: 1536, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Bourbon
+rotate: false
+xy: 1536, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Imperiais Brasileiros
+rotate: false
+xy: 1728, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Imperiais Brasileiros
+rotate: false
+xy: 1728, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Imperial Brasileira
+rotate: false
+xy: 1920, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Imperial Brasileira
+rotate: false
+xy: 1920, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Regular Americana
+rotate: false
+xy: 2112, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Regular Americana
+rotate: false
+xy: 2112, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Dragões Americanos
+rotate: false
+xy: 2304, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Dragões Americanos
+rotate: false
+xy: 2304, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Mexicana
+rotate: false
+xy: 2496, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Mexicana
+rotate: false
+xy: 2496, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Lanceiros Mexicanos
+rotate: false
+xy: 2688, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Lanceiros Mexicanos
+rotate: false
+xy: 2688, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Texas Rangers
+rotate: false
+xy: 0, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Texas Rangers
+rotate: false
+xy: 0, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Texana
+rotate: false
+xy: 192, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Texana
+rotate: false
+xy: 192, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Granadeiros Argentinos
+rotate: false
+xy: 384, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Granadeiros Argentinos
+rotate: false
+xy: 384, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Montoneros de Cavalaria
+rotate: false
+xy: 576, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Montoneros de Cavalaria
+rotate: false
+xy: 576, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Chilena
+rotate: false
+xy: 768, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Chilena
+rotate: false
+xy: 768, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Chilena
+rotate: false
+xy: 960, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Chilena
+rotate: false
+xy: 960, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Legião Andina
+rotate: false
+xy: 1152, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Legião Andina
+rotate: false
+xy: 1152, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Granadeiros Bolivianos
+rotate: false
+xy: 1344, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Granadeiros Bolivianos
+rotate: false
+xy: 1344, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guarda Haitiana
+rotate: false
+xy: 1536, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guarda Haitiana
+rotate: false
+xy: 1536, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Haitiana
+rotate: false
+xy: 1728, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Haitiana
+rotate: false
+xy: 1728, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Exército do Estandarte Verde
+rotate: false
+xy: 1920, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Exército do Estandarte Verde
+rotate: false
+xy: 1920, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Manchu
+rotate: false
+xy: 2112, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Manchu
+rotate: false
+xy: 2112, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Samurai do Bakufu
+rotate: false
+xy: 2304, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Samurai do Bakufu
+rotate: false
+xy: 2304, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Gosho Cavalaria
+rotate: false
+xy: 2496, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Gosho Cavalaria
+rotate: false
+xy: 2496, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Qajar
+rotate: false
+xy: 2688, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Qajar
+rotate: false
+xy: 2688, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Qajar
+rotate: false
+xy: 0, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Qajar
+rotate: false
+xy: 0, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Ghilzai Afegãos
+rotate: false
+xy: 192, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Ghilzai Afegãos
+rotate: false
+xy: 192, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Afegã
+rotate: false
+xy: 384, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Afegã
+rotate: false
+xy: 384, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Nizam-i Jadid Egípcio
+rotate: false
+xy: 576, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Nizam-i Jadid Egípcio
+rotate: false
+xy: 576, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Egípcia
+rotate: false
+xy: 768, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Egípcia
+rotate: false
+xy: 768, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guarda Sultanina Marroquina
+rotate: false
+xy: 960, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guarda Sultanina Marroquina
+rotate: false
+xy: 960, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Marroquina
+rotate: false
+xy: 1152, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Marroquina
+rotate: false
+xy: 1152, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Reais Siameses
+rotate: false
+xy: 1344, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Reais Siameses
+rotate: false
+xy: 1344, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Siamesa
+rotate: false
+xy: 1536, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Siamesa
+rotate: false
+xy: 1536, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Imperial Vietnamita
+rotate: false
+xy: 1728, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Imperial Vietnamita
+rotate: false
+xy: 1728, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Dai Nam
+rotate: false
+xy: 1920, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Dai Nam
+rotate: false
+xy: 1920, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Joseon
+rotate: false
+xy: 2112, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Joseon
+rotate: false
+xy: 2112, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Joseon
+rotate: false
+xy: 2304, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Joseon
+rotate: false
+xy: 2304, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Khalsa Infantry
+rotate: false
+xy: 2496, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Khalsa Infantry
+rotate: false
+xy: 2496, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Khalsa Cavalry
+rotate: false
+xy: 2688, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Khalsa Cavalry
+rotate: false
+xy: 2688, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guerreiros Etíopes
+rotate: false
+xy: 0, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guerreiros Etíopes
+rotate: false
+xy: 0, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Etíope
+rotate: false
+xy: 192, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Etíope
+rotate: false
+xy: 192, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Batalhão Cabanagem
+rotate: false
+xy: 384, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Batalhão Cabanagem
+rotate: false
+xy: 384, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Ribeirinhos do Pará
+rotate: false
+xy: 576, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Ribeirinhos do Pará
+rotate: false
+xy: 576, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Lanceiros Farroupilhas
+rotate: false
+xy: 768, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Lanceiros Farroupilhas
+rotate: false
+xy: 768, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Corpo de Infantaria de Piratini
+rotate: false
+xy: 960, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Corpo de Infantaria de Piratini
+rotate: false
+xy: 960, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Confederada
+rotate: false
+xy: 1152, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Confederada
+rotate: false
+xy: 1152, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Confederada
+rotate: false
+xy: 1344, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Confederada
+rotate: false
+xy: 1344, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Evzones
+rotate: false
+xy: 1536, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Evzones
+rotate: false
+xy: 1536, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Grega
+rotate: false
+xy: 1728, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Grega
+rotate: false
+xy: 1728, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guarda Hanoveriana
+rotate: false
+xy: 1920, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guarda Hanoveriana
+rotate: false
+xy: 1920, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Hanoveriana
+rotate: false
+xy: 2112, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Hanoveriana
+rotate: false
+xy: 2112, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Saxônica
+rotate: false
+xy: 2304, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Saxônica
+rotate: false
+xy: 2304, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Saxônica
+rotate: false
+xy: 2496, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Saxônica
+rotate: false
+xy: 2496, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria de Württemberg
+rotate: false
+xy: 2688, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria de Württemberg
+rotate: false
+xy: 2688, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria de Württemberg
+rotate: false
+xy: 0, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria de Württemberg
+rotate: false
+xy: 0, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Suíços
+rotate: false
+xy: 192, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Suíços
+rotate: false
+xy: 192, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caçadores Alpinos
+rotate: false
+xy: 384, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caçadores Alpinos
+rotate: false
+xy: 384, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guarda Suíça Pontifícia
+rotate: false
+xy: 576, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guarda Suíça Pontifícia
+rotate: false
+xy: 576, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Pontifícios
+rotate: false
+xy: 768, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Pontifícios
+rotate: false
+xy: 768, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Toscanos
+rotate: false
+xy: 960, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Toscanos
+rotate: false
+xy: 960, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Toscana
+rotate: false
+xy: 1152, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Toscana
+rotate: false
+xy: 1152, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Legião Neogranadina
+rotate: false
+xy: 1344, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Legião Neogranadina
+rotate: false
+xy: 1344, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Lanceiros de Nova Granada
+rotate: false
+xy: 1536, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Lanceiros de Nova Granada
+rotate: false
+xy: 1536, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Kanuri
+rotate: false
+xy: 1728, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Kanuri
+rotate: false
+xy: 1728, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Kanuri
+rotate: false
+xy: 1920, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Kanuri
+rotate: false
+xy: 1920, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria de Oió
+rotate: false
+xy: 2112, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria de Oió
+rotate: false
+xy: 2112, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria de Oió
+rotate: false
+xy: 2304, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria de Oió
+rotate: false
+xy: 2304, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Agojie do Daomé
+rotate: false
+xy: 2496, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Agojie do Daomé
+rotate: false
+xy: 2496, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria de Daomé
+rotate: false
+xy: 2688, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria de Daomé
+rotate: false
+xy: 2688, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria de Sokoto
+rotate: false
+xy: 0, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria de Sokoto
+rotate: false
+xy: 0, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria de Sokoto
+rotate: false
+xy: 192, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria de Sokoto
+rotate: false
+xy: 192, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fuzileiros Merina
+rotate: false
+xy: 384, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fuzileiros Merina
+rotate: false
+xy: 384, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Merina
+rotate: false
+xy: 576, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Merina
+rotate: false
+xy: 576, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fuzileiros Ingleses
+rotate: false
+xy: 768, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fuzileiros Ingleses
+rotate: false
+xy: 768, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Yeoman Inglesa
+rotate: false
+xy: 960, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Yeoman Inglesa
+rotate: false
+xy: 960, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Highlanders Escoceses
+rotate: false
+xy: 1152, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Highlanders Escoceses
+rotate: false
+xy: 1152, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Dragões Escoceses
+rotate: false
+xy: 1344, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Dragões Escoceses
+rotate: false
+xy: 1344, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fuzileiros Galeses
+rotate: false
+xy: 1536, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fuzileiros Galeses
+rotate: false
+xy: 1536, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Voluntários de Glamorgan
+rotate: false
+xy: 1728, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Voluntários de Glamorgan
+rotate: false
+xy: 1728, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Voluntários Irlandeses
+rotate: false
+xy: 1920, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Voluntários Irlandeses
+rotate: false
+xy: 1920, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria de Leinster
+rotate: false
+xy: 2112, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria de Leinster
+rotate: false
+xy: 2112, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria da Linha Polonesa
+rotate: false
+xy: 2304, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria da Linha Polonesa
+rotate: false
+xy: 2304, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Lanceiros Poloneses
+rotate: false
+xy: 2496, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Lanceiros Poloneses
+rotate: false
+xy: 2496, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Voluntários Sabinos
+rotate: false
+xy: 2688, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Voluntários Sabinos
+rotate: false
+xy: 2688, 1536
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Lanceiros da Bahia
+rotate: false
+xy: 0, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Lanceiros da Bahia
+rotate: false
+xy: 0, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Batalhões de Pernambuco
+rotate: false
+xy: 192, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Batalhões de Pernambuco
+rotate: false
+xy: 192, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria do Agreste
+rotate: false
+xy: 384, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria do Agreste
+rotate: false
+xy: 384, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas de Alagoas
+rotate: false
+xy: 576, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas de Alagoas
+rotate: false
+xy: 576, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria das Lagoas
+rotate: false
+xy: 768, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria das Lagoas
+rotate: false
+xy: 768, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Batalhão de Laranjeiras
+rotate: false
+xy: 960, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Batalhão de Laranjeiras
+rotate: false
+xy: 960, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria do Cotinguiba
+rotate: false
+xy: 1152, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria do Cotinguiba
+rotate: false
+xy: 1152, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Batalhão de Oeiras
+rotate: false
+xy: 1344, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Batalhão de Oeiras
+rotate: false
+xy: 1344, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Sertaneja do Piauí
+rotate: false
+xy: 1536, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Sertaneja do Piauí
+rotate: false
+xy: 1536, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Batalhão Paraibano
+rotate: false
+xy: 1728, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Batalhão Paraibano
+rotate: false
+xy: 1728, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria do Brejo
+rotate: false
+xy: 1920, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria do Brejo
+rotate: false
+xy: 1920, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Lanceiros do Seridó
+rotate: false
+xy: 2112, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Lanceiros do Seridó
+rotate: false
+xy: 2112, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Corpo Policial Potiguar
+rotate: false
+xy: 2304, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Corpo Policial Potiguar
+rotate: false
+xy: 2304, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caminhão Militar
+rotate: false
+xy: 2496, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caminhão Militar
+rotate: false
+xy: 2496, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Carro Blindado
+rotate: false
+xy: 2688, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Carro Blindado
+rotate: false
+xy: 2688, 1728
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caça
+rotate: false
+xy: 0, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caça
+rotate: false
+xy: 0, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Bombardeiro
+rotate: false
+xy: 192, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Bombardeiro
+rotate: false
+xy: 192, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caça a Jato
+rotate: false
+xy: 384, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caça a Jato
+rotate: false
+xy: 384, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Helicóptero de Combate
+rotate: false
+xy: 576, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Helicóptero de Combate
+rotate: false
+xy: 576, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Drone de Reconhecimento
+rotate: false
+xy: 768, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Drone de Reconhecimento
+rotate: false
+xy: 768, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Bárbaro
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Bárbaro
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Escaramuçador Bárbaro
+rotate: false
+xy: 1152, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Escaramuçador Bárbaro
+rotate: false
+xy: 1152, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Saqueador Bárbaro
+rotate: false
+xy: 1344, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Saqueador Bárbaro
+rotate: false
+xy: 1344, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Trirreme Bárbara
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Trirreme Bárbara
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Barco de Trabalho
+rotate: false
+xy: 1728, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Barco de Trabalho
+rotate: false
+xy: 1728, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Trirreme de Guerra
+rotate: false
+xy: 1920, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Trirreme de Guerra
+rotate: false
+xy: 1920, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Navio Mercante
+rotate: false
+xy: 2112, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Navio Mercante
+rotate: false
+xy: 2112, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caravela
+rotate: false
+xy: 2304, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caravela
+rotate: false
+xy: 2304, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fragata
+rotate: false
+xy: 2496, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fragata
+rotate: false
+xy: 2496, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Navio de Linha
+rotate: false
+xy: 2688, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Navio de Linha
+rotate: false
+xy: 2688, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cruzador
+rotate: false
+xy: 0, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cruzador
+rotate: false
+xy: 0, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cruzador Moderno
+rotate: false
+xy: 192, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cruzador Moderno
+rotate: false
+xy: 192, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Destróier de Mísseis
+rotate: false
+xy: 384, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Destróier de Mísseis
+rotate: false
+xy: 384, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Arqueiro Montado
+rotate: false
+xy: 576, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Arqueiro Montado
+rotate: false
+xy: 576, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavaleiro Couraçado
+rotate: false
+xy: 768, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavaleiro Couraçado
+rotate: false
+xy: 768, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria de Couraça
+rotate: false
+xy: 960, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria de Couraça
+rotate: false
+xy: 960, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria de Reconhecimento
+rotate: false
+xy: 1152, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria de Reconhecimento
+rotate: false
+xy: 1152, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Carro Blindado de Reconhecimento
+rotate: false
+xy: 1344, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Carro Blindado de Reconhecimento
+rotate: false
+xy: 1344, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Tanque de Primeira Geração
+rotate: false
+xy: 1536, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Tanque de Primeira Geração
+rotate: false
+xy: 1536, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Tanque de Batalha Principal
+rotate: false
+xy: 1728, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Tanque de Batalha Principal
+rotate: false
+xy: 1728, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Tanque Avançado
+rotate: false
+xy: 1920, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Tanque Avançado
+rotate: false
+xy: 1920, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Metralhadora
+rotate: false
+xy: 2112, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Metralhadora
+rotate: false
+xy: 2112, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria de Assalto
+rotate: false
+xy: 2304, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria de Assalto
+rotate: false
+xy: 2304, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Paraquedistas
+rotate: false
+xy: 2496, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Paraquedistas
+rotate: false
+xy: 2496, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Avião de Reconhecimento
+rotate: false
+xy: 2688, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Avião de Reconhecimento
+rotate: false
+xy: 2688, 2112
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caça a Hélice
+rotate: false
+xy: 0, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caça a Hélice
+rotate: false
+xy: 0, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Bombardeiro Estratégico
+rotate: false
+xy: 192, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Bombardeiro Estratégico
+rotate: false
+xy: 192, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Bombardeiro a Jato
+rotate: false
+xy: 384, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Bombardeiro a Jato
+rotate: false
+xy: 384, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Helicóptero de Transporte
+rotate: false
+xy: 576, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Helicóptero de Transporte
+rotate: false
+xy: 576, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Drone de Combate
+rotate: false
+xy: 768, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Drone de Combate
+rotate: false
+xy: 768, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Nave de Transporte Orbital
+rotate: false
+xy: 960, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Nave de Transporte Orbital
+rotate: false
+xy: 960, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Profeta
+rotate: false
+xy: 1152, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Profeta
+rotate: false
+xy: 1152, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Missionário
+rotate: false
+xy: 1344, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Missionário
+rotate: false
+xy: 1344, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Gerente de Companhias
+rotate: false
+xy: 1536, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Gerente de Companhias
+rotate: false
+xy: 1536, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Executivo de Companhias
+rotate: false
+xy: 1728, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Executivo de Companhias
+rotate: false
+xy: 1728, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Emissário Diplomático
+rotate: false
+xy: 1920, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Emissário Diplomático
+rotate: false
+xy: 1920, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Agente de Expansão Empresarial
+rotate: false
+xy: 2112, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Agente de Expansão Empresarial
+rotate: false
+xy: 2112, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fundador Marítimo
+rotate: false
+xy: 2304, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fundador Marítimo
+rotate: false
+xy: 2304, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Executivo Marítimo de Companhias
+rotate: false
+xy: 2496, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Executivo Marítimo de Companhias
+rotate: false
+xy: 2496, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Comissário Político
+rotate: false
+xy: 2688, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Comissário Político
+rotate: false
+xy: 2688, 2304
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guarda Vermelha
+rotate: false
+xy: 0, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guarda Vermelha
+rotate: false
+xy: 0, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guarda Vermelha Chinesa
+rotate: false
+xy: 192, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guarda Vermelha Chinesa
+rotate: false
+xy: 192, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria do Exército Popular
+rotate: false
+xy: 384, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria do Exército Popular
+rotate: false
+xy: 384, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Celestiais
+rotate: false
+xy: 576, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Celestiais
+rotate: false
+xy: 576, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Exército da Grande Paz
+rotate: false
+xy: 768, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Exército da Grande Paz
+rotate: false
+xy: 768, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Housecarls de Wessex
+rotate: false
+xy: 960, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Housecarls de Wessex
+rotate: false
+xy: 960, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria de Wessex
+rotate: false
+xy: 1152, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria de Wessex
+rotate: false
+xy: 1152, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas de Mercia
+rotate: false
+xy: 1344, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas de Mercia
+rotate: false
+xy: 1344, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Merciana
+rotate: false
+xy: 1536, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Merciana
+rotate: false
+xy: 1536, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas de Northumbria
+rotate: false
+xy: 1728, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas de Northumbria
+rotate: false
+xy: 1728, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavaleiros da Nortúmbria
+rotate: false
+xy: 1920, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavaleiros da Nortúmbria
+rotate: false
+xy: 1920, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas de East Anglia
+rotate: false
+xy: 2112, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas de East Anglia
+rotate: false
+xy: 2112, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Barcos de Anglia Oriental
+rotate: false
+xy: 2304, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Barcos de Anglia Oriental
+rotate: false
+xy: 2304, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavaleiros Occitanos
+rotate: false
+xy: 2496, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavaleiros Occitanos
+rotate: false
+xy: 2496, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Besteiros de Toulouse
+rotate: false
+xy: 2688, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Besteiros de Toulouse
+rotate: false
+xy: 2688, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guardas Bretões
+rotate: false
+xy: 0, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guardas Bretões
+rotate: false
+xy: 0, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavaleiros de Brocéliande
+rotate: false
+xy: 192, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavaleiros de Brocéliande
+rotate: false
+xy: 192, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Mesnadas Castelhanas
+rotate: false
+xy: 384, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Mesnadas Castelhanas
+rotate: false
+xy: 384, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Castelhana
+rotate: false
+xy: 576, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Castelhana
+rotate: false
+xy: 576, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Bersaglieri do Reino da Itália
+rotate: false
+xy: 2880, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Bersaglieri do Reino da Itália
+rotate: false
+xy: 2880, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Arditi do Reino da Itália
+rotate: false
+xy: 3072, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Arditi do Reino da Itália
+rotate: false
+xy: 3072, 0
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Imperial Japonesa
+rotate: false
+xy: 2880, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Imperial Japonesa
+rotate: false
+xy: 2880, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Artilharia de Campanha do Exército Imperial
+rotate: false
+xy: 3072, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Artilharia de Campanha do Exército Imperial
+rotate: false
+xy: 3072, 192
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Legionários Gran-Colombianos
+rotate: false
+xy: 2880, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Legionários Gran-Colombianos
+rotate: false
+xy: 2880, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Llaneros da Gran Colombia
+rotate: false
+xy: 3072, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Llaneros da Gran Colombia
+rotate: false
+xy: 3072, 384
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Grenztruppen da Alemanha Oriental
+rotate: false
+xy: 2880, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Grenztruppen da Alemanha Oriental
+rotate: false
+xy: 2880, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Artilharia Popular da Alemanha Oriental
+rotate: false
+xy: 3072, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Artilharia Popular da Alemanha Oriental
+rotate: false
+xy: 3072, 576
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Panzergrenadiere da Alemanha Ocidental
+rotate: false
+xy: 2880, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Panzergrenadiere da Alemanha Ocidental
+rotate: false
+xy: 2880, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Leopard da Alemanha Ocidental
+rotate: false
+xy: 3072, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Leopard da Alemanha Ocidental
+rotate: false
+xy: 3072, 768
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Federal Centro-Americana
+rotate: false
+xy: 2880, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Federal Centro-Americana
+rotate: false
+xy: 2880, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cavalaria Federal Centro-Americana
+rotate: false
+xy: 3072, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cavalaria Federal Centro-Americana
+rotate: false
+xy: 3072, 960
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caçadores Reais Luso-Brasileiros
+rotate: false
+xy: 2880, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caçadores Reais Luso-Brasileiros
+rotate: false
+xy: 2880, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Dragões Luso-Brasileiros
+rotate: false
+xy: 3072, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Dragões Luso-Brasileiros
+rotate: false
+xy: 3072, 1152
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Housecarls do Mar do Norte
+rotate: false
+xy: 2880, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Housecarls do Mar do Norte
+rotate: false
+xy: 2880, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Drakkar do Mar do Norte
+rotate: false
+xy: 3072, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Drakkar do Mar do Norte
+rotate: false
+xy: 3072, 1344
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Barcos da Anglia Oriental
+rotate: false
+xy: 2304, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Barcos da Anglia Oriental
+rotate: false
+xy: 2304, 2496
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Guerreiro de Ferro Bárbaro
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Mosqueteiro Bárbaro
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Bárbara
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Infantaria Mecanizada Bárbara
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Besteiro Bárbaro
+rotate: false
+xy: 1152, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Metralhadora Bárbara
+rotate: false
+xy: 1152, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Piqueiro Bárbaro
+rotate: false
+xy: 1344, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Caravela Bárbara
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Fragata Bárbara
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cruzador Bárbaro
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Cruzador Moderno Bárbaro
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Destróier Bárbaro
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Guerreiro de Ferro Bárbaro
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Mosqueteiro Bárbaro
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Bárbara
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Infantaria Mecanizada Bárbara
+rotate: false
+xy: 960, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Besteiro Bárbaro
+rotate: false
+xy: 1152, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Metralhadora Bárbara
+rotate: false
+xy: 1152, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Piqueiro Bárbaro
+rotate: false
+xy: 1344, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Caravela Bárbara
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Fragata Bárbara
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cruzador Bárbaro
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Cruzador Moderno Bárbaro
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Destróier Bárbaro
+rotate: false
+xy: 1536, 1920
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Grande Artista
+rotate: false
+xy: 768, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Grande Artista
+rotate: false
+xy: 768, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Grande Cientista
+rotate: false
+xy: 960, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Grande Cientista
+rotate: false
+xy: 960, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Grande Mercador
+rotate: false
+xy: 1152, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Grande Mercador
+rotate: false
+xy: 1152, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Grande Engenheiro
+rotate: false
+xy: 1344, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Grande Engenheiro
+rotate: false
+xy: 1344, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Grande General
+rotate: false
+xy: 1536, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Grande General
+rotate: false
+xy: 1536, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Grande Almirante
+rotate: false
+xy: 1728, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Grande Almirante
+rotate: false
+xy: 1728, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/HexaRealm/Units/Grande Profeta
+rotate: false
+xy: 1920, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1
+TileSets/FantasyHex/Units/Grande Profeta
+rotate: false
+xy: 1920, 2688
+size: 192, 192
+orig: 192, 192
+offset: 0, 0
+index: -1

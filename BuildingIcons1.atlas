@@ -1,0 +1,901 @@
+BuildingIcons1.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Palácio
+rotate: false
+xy: 0, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Monumento
+rotate: false
+xy: 128, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Celeiro
+rotate: false
+xy: 256, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Templo
+rotate: false
+xy: 384, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Biblioteca
+rotate: false
+xy: 512, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Muralhas
+rotate: false
+xy: 640, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Porto
+rotate: false
+xy: 768, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Mercado
+rotate: false
+xy: 896, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Aqueduto
+rotate: false
+xy: 1024, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Grande Biblioteca
+rotate: false
+xy: 1152, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Pirâmides
+rotate: false
+xy: 1280, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Colosso
+rotate: false
+xy: 1408, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Moinho
+rotate: false
+xy: 1536, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fundição
+rotate: false
+xy: 1664, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Feitoria
+rotate: false
+xy: 1792, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Observatório
+rotate: false
+xy: 1920, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Anfiteatro
+rotate: false
+xy: 0, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal
+rotate: false
+xy: 128, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Armazém de Grãos
+rotate: false
+xy: 256, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa de Moeda
+rotate: false
+xy: 384, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Mercado de Sal
+rotate: false
+xy: 512, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Adega
+rotate: false
+xy: 640, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Olival Real
+rotate: false
+xy: 768, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa do Incenso
+rotate: false
+xy: 896, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Oficina de Tecelagem
+rotate: false
+xy: 1024, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Entreposto de Marfim
+rotate: false
+xy: 1152, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Oficina de Bronze
+rotate: false
+xy: 1280, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Forja Estatal
+rotate: false
+xy: 1408, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arquivo Estatal
+rotate: false
+xy: 1536, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Tribunal
+rotate: false
+xy: 1664, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Aqueduto Imperial
+rotate: false
+xy: 1792, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Prefeitura Provincial
+rotate: false
+xy: 1920, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Grande Mercado
+rotate: false
+xy: 0, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Santuário
+rotate: false
+xy: 128, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa dos Sacerdotes
+rotate: false
+xy: 256, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Templo Monumental
+rotate: false
+xy: 384, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arquivo Sacerdotal
+rotate: false
+xy: 512, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Santuário Real
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Mosteiro
+rotate: false
+xy: 768, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Peregrinação
+rotate: false
+xy: 896, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Grande Templo
+rotate: false
+xy: 1024, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Biblioteca Sacerdotal
+rotate: false
+xy: 1152, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Santuário do Estado
+rotate: false
+xy: 1280, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa da Assembleia
+rotate: false
+xy: 1408, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia de Retórica
+rotate: false
+xy: 1536, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arquivo Cívico
+rotate: false
+xy: 1664, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Praça Pública
+rotate: false
+xy: 1792, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Oficina de Arquitetura
+rotate: false
+xy: 1920, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa das Leis
+rotate: false
+xy: 0, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Monumento dos Ancestrais
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Grande Assembleia
+rotate: false
+xy: 256, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Biblioteca dos Povos
+rotate: false
+xy: 384, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa dos Escribas
+rotate: false
+xy: 512, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola Cívica
+rotate: false
+xy: 640, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia
+rotate: false
+xy: 768, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Universidade
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa dos Curandeiros
+rotate: false
+xy: 1024, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Banhos Públicos
+rotate: false
+xy: 1152, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Hospital
+rotate: false
+xy: 1280, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola de Cartografia
+rotate: false
+xy: 1408, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Conselho Municipal
+rotate: false
+xy: 1536, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Tribunal Civil
+rotate: false
+xy: 1664, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Burocracia Central
+rotate: false
+xy: 1792, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Administração Provincial
+rotate: false
+xy: 1920, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Hospital Civil
+rotate: false
+xy: 0, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Nacional
+rotate: false
+xy: 128, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Universidade Nacional
+rotate: false
+xy: 256, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Guilda dos Artesãos
+rotate: false
+xy: 384, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Banco Público
+rotate: false
+xy: 512, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Companhia Comercial
+rotate: false
+xy: 640, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto Científico
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Estação Central
+rotate: false
+xy: 896, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Ministério da Saúde
+rotate: false
+xy: 1024, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica Estatal
+rotate: false
+xy: 1152, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Comunicações
+rotate: false
+xy: 1280, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Cartório Provincial
+rotate: false
+xy: 1408, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa do Governador
+rotate: false
+xy: 1536, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Assembleia Regional
+rotate: false
+xy: 1664, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Conselho Federal
+rotate: false
+xy: 1792, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Chancelaria Imperial
+rotate: false
+xy: 1920, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Câmara de Comércio
+rotate: false
+xy: 0, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Tesouro Nacional
+rotate: false
+xy: 128, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Censo Nacional
+rotate: false
+xy: 256, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Ministério do Interior
+rotate: false
+xy: 384, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto de Administração Pública
+rotate: false
+xy: 512, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Conselho de Planejamento
+rotate: false
+xy: 640, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arquivo Nacional
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Feira Local
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Mercado Regional
+rotate: false
+xy: 1024, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa de Comércio
+rotate: false
+xy: 1152, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Entreposto Continental
+rotate: false
+xy: 1280, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Bolsa Mercantil
+rotate: false
+xy: 1408, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Câmara de Crédito
+rotate: false
+xy: 1536, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Banco Central
+rotate: false
+xy: 1664, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Ministério da Economia
+rotate: false
+xy: 1792, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Conselho Econômico Nacional
+rotate: false
+xy: 1920, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Agência de Planejamento
+rotate: false
+xy: 0, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro Logístico
+rotate: false
+xy: 128, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede de Armazéns
+rotate: false
+xy: 256, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Departamento de Obras Públicas
+rotate: false
+xy: 384, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Oficina de Infraestrutura
+rotate: false
+xy: 512, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Distrito Agrícola
+rotate: false
+xy: 640, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro Metalúrgico
+rotate: false
+xy: 768, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro Têxtil
+rotate: false
+xy: 896, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro Vinícola
+rotate: false
+xy: 1024, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Exportação
+rotate: false
+xy: 1152, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Tesouro Econômico
+rotate: false
+xy: 1280, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Quartel Permanente
+rotate: false
+xy: 1408, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa dos Veteranos
+rotate: false
+xy: 1536, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Militar
+rotate: false
+xy: 1664, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Oficina de Cerco
+rotate: false
+xy: 1792, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal Nacional
+rotate: false
+xy: 1920, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Depósito Militar
+rotate: false
+xy: 0, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fortaleza de Fronteira
+rotate: false
+xy: 128, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Comando Central
+rotate: false
+xy: 256, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola de Oficiais
+rotate: false
+xy: 384, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Corpo de Engenharia Militar
+rotate: false
+xy: 512, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Ministério da Defesa
+rotate: false
+xy: 640, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Complexo Industrial Militar
+rotate: false
+xy: 768, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Rede Logística Nacional
+rotate: false
+xy: 896, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Comando Estratégico
+rotate: false
+xy: 1024, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Defesa Nacional
+rotate: false
+xy: 1152, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa da Matemática
+rotate: false
+xy: 1280, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa dos Ancestrais
+rotate: false
+xy: 1408, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Oficina Mecânica
+rotate: false
+xy: 1536, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Companhia de Navegação
+rotate: false
+xy: 1664, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia do Iluminismo
+rotate: false
+xy: 1792, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica a Vapor
+rotate: false
+xy: 1920, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1

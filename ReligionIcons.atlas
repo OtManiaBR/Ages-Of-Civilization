@@ -1,0 +1,117 @@
+ReligionIcons.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Catolicismo
+rotate: false
+xy: 0, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Protestantismo
+rotate: false
+xy: 130, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Cristianismo Ortodoxo
+rotate: false
+xy: 260, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Anglicanismo
+rotate: false
+xy: 390, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Islamismo Sunita
+rotate: false
+xy: 0, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Islamismo Xiita
+rotate: false
+xy: 130, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Islamismo Ibadita
+rotate: false
+xy: 260, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Hinduísmo
+rotate: false
+xy: 390, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Budismo
+rotate: false
+xy: 0, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Confucionismo
+rotate: false
+xy: 130, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Xintoísmo
+rotate: false
+xy: 260, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Siquismo
+rotate: false
+xy: 390, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Religião Iorubá
+rotate: false
+xy: 0, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Vodun
+rotate: false
+xy: 130, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Religião Akan
+rotate: false
+xy: 260, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ReligionIcons/Tradições Ancestrais Africanas
+rotate: false
+xy: 390, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1

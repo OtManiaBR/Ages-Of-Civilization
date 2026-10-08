@@ -1,0 +1,698 @@
+TechIcons.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TechIcons/Agricultura
+rotate: false
+xy: 0, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Arco e Flecha
+rotate: false
+xy: 128, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Criação de Animais
+rotate: false
+xy: 256, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Cerâmica
+rotate: false
+xy: 384, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Mineração
+rotate: false
+xy: 512, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Roda
+rotate: false
+xy: 640, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Escrita
+rotate: false
+xy: 768, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Navegação
+rotate: false
+xy: 896, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Metalurgia
+rotate: false
+xy: 1024, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Matemática
+rotate: false
+xy: 1152, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Cavalaria
+rotate: false
+xy: 1280, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Moeda
+rotate: false
+xy: 1408, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Alvenaria
+rotate: false
+xy: 1536, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Engenharia
+rotate: false
+xy: 1664, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Cartografia
+rotate: false
+xy: 1792, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Filosofia
+rotate: false
+xy: 1920, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Cerco
+rotate: false
+xy: 0, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Construção
+rotate: false
+xy: 128, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Agronomia
+rotate: false
+xy: 256, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Direito
+rotate: false
+xy: 384, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Metalurgia Avançada
+rotate: false
+xy: 512, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Retórica
+rotate: false
+xy: 640, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Administração
+rotate: false
+xy: 768, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Estratégia
+rotate: false
+xy: 896, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Engenharia Hidráulica
+rotate: false
+xy: 1024, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Teologia Antiga
+rotate: false
+xy: 1152, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Burocracia
+rotate: false
+xy: 1280, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Comércio Internacional
+rotate: false
+xy: 1408, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Administração Imperial
+rotate: false
+xy: 1536, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Instituições Sacerdotais
+rotate: false
+xy: 1664, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Cidadania
+rotate: false
+xy: 1792, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Guildas
+rotate: false
+xy: 1920, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Filosofia Religiosa
+rotate: false
+xy: 0, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Feudalismo
+rotate: false
+xy: 128, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Tradição e Identidade
+rotate: false
+xy: 256, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Arquitetura
+rotate: false
+xy: 384, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Economia Monetária
+rotate: false
+xy: 512, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Educação
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Administração Urbana
+rotate: false
+xy: 768, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Engenharia Militar
+rotate: false
+xy: 896, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Patrimônio Histórico
+rotate: false
+xy: 1024, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Instituições Cívicas
+rotate: false
+xy: 1152, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Navegação Oceânica
+rotate: false
+xy: 1280, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Ciência Renascentista
+rotate: false
+xy: 1408, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Pólvora
+rotate: false
+xy: 1536, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Banca
+rotate: false
+xy: 1664, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Mecânica
+rotate: false
+xy: 1792, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Imprensa
+rotate: false
+xy: 1920, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Mercantilismo
+rotate: false
+xy: 0, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Estado Centralizado
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Exploração Marítima
+rotate: false
+xy: 256, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Método Científico
+rotate: false
+xy: 384, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Artilharia
+rotate: false
+xy: 512, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Iluminismo
+rotate: false
+xy: 640, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Administração Colonial
+rotate: false
+xy: 768, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Revolução Industrial
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Química Industrial
+rotate: false
+xy: 1024, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Nacionalismo
+rotate: false
+xy: 1152, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Máquinas a Vapor
+rotate: false
+xy: 1280, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Aço
+rotate: false
+xy: 1408, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Economia Industrial
+rotate: false
+xy: 1536, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Ferrovias
+rotate: false
+xy: 1664, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Eletricidade
+rotate: false
+xy: 1792, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Medicina Moderna
+rotate: false
+xy: 1920, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Comunicações
+rotate: false
+xy: 0, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Produção em Massa
+rotate: false
+xy: 128, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Combustão
+rotate: false
+xy: 256, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Rádio
+rotate: false
+xy: 384, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Ciência Moderna
+rotate: false
+xy: 512, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Automóvel
+rotate: false
+xy: 640, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Aviação
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Eletrônica
+rotate: false
+xy: 896, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Estado Social
+rotate: false
+xy: 1024, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Mídia de Massa
+rotate: false
+xy: 1152, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Aeronáutica
+rotate: false
+xy: 1280, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Energia Nuclear
+rotate: false
+xy: 1408, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Computação
+rotate: false
+xy: 1536, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Genética
+rotate: false
+xy: 1664, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Informática
+rotate: false
+xy: 1792, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Tecnologia Espacial
+rotate: false
+xy: 1920, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Automação
+rotate: false
+xy: 0, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Energia Avançada
+rotate: false
+xy: 128, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Inteligência Artificial
+rotate: false
+xy: 256, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Robótica
+rotate: false
+xy: 384, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Biotecnologia
+rotate: false
+xy: 512, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Computação Quântica
+rotate: false
+xy: 640, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Sociedade Digital
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Biologia Sintética
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Nanotecnologia
+rotate: false
+xy: 1024, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Cibersegurança
+rotate: false
+xy: 1152, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Infraestrutura em Nuvem
+rotate: false
+xy: 1280, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Propulsão Orbital
+rotate: false
+xy: 1408, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Colônias Lunares
+rotate: false
+xy: 1536, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Mineração Asteroidal
+rotate: false
+xy: 1664, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Habitats Espaciais
+rotate: false
+xy: 1792, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Terraformação
+rotate: false
+xy: 1920, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Engenharia Planetária
+rotate: false
+xy: 0, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Rede Planetária
+rotate: false
+xy: 128, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+TechIcons/Civilização Multiplanetária
+rotate: false
+xy: 256, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1

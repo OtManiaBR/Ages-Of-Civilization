@@ -1,0 +1,5437 @@
+AoC_CustomTilesets.png
+size: 2048, 4096
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Companhia Comercial de Café
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 36, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Café
+  rotate: false
+  xy: 72, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 108, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Café
+  rotate: false
+  xy: 144, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 180, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Café
+  rotate: false
+  xy: 216, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 252, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Café
+  rotate: false
+  xy: 288, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 324, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Cacau
+  rotate: false
+  xy: 360, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 396, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Cacau
+  rotate: false
+  xy: 432, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 468, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Cacau
+  rotate: false
+  xy: 504, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 540, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Cacau
+  rotate: false
+  xy: 576, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 612, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Cacau
+  rotate: false
+  xy: 648, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 684, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Chá
+  rotate: false
+  xy: 720, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 756, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Chá
+  rotate: false
+  xy: 792, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 828, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Chá
+  rotate: false
+  xy: 864, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 900, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Chá
+  rotate: false
+  xy: 936, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 972, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Chá
+  rotate: false
+  xy: 1008, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 1044, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Seda
+  rotate: false
+  xy: 1080, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 1116, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Seda
+  rotate: false
+  xy: 1152, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 1188, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Seda
+  rotate: false
+  xy: 1224, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 1260, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Seda
+  rotate: false
+  xy: 1296, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 1332, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Seda
+  rotate: false
+  xy: 1368, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 1404, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Industrial de Ferro
+  rotate: false
+  xy: 1440, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 1476, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Industrial de Ferro
+  rotate: false
+  xy: 1512, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 1548, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Industrial de Ferro
+  rotate: false
+  xy: 1584, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 1620, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Industrial de Ferro
+  rotate: false
+  xy: 1656, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 1692, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Industrial de Ferro
+  rotate: false
+  xy: 1728, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 1764, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Industrial de Carvão
+  rotate: false
+  xy: 1800, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 1836, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Industrial de Carvão
+  rotate: false
+  xy: 1872, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 1908, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Industrial de Carvão
+  rotate: false
+  xy: 1944, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 1980, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Industrial de Carvão
+  rotate: false
+  xy: 2016, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 0, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Industrial de Carvão
+  rotate: false
+  xy: 36, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 72, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Industrial de Cobre
+  rotate: false
+  xy: 108, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 144, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Industrial de Cobre
+  rotate: false
+  xy: 180, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 216, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Industrial de Cobre
+  rotate: false
+  xy: 252, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 288, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Industrial de Cobre
+  rotate: false
+  xy: 324, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 360, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Industrial de Cobre
+  rotate: false
+  xy: 396, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 432, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Industrial de Níquel
+  rotate: false
+  xy: 468, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 504, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Industrial de Níquel
+  rotate: false
+  xy: 540, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 576, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Industrial de Níquel
+  rotate: false
+  xy: 612, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 648, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Industrial de Níquel
+  rotate: false
+  xy: 684, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 720, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Industrial de Níquel
+  rotate: false
+  xy: 756, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 792, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Financeira de Ouro
+  rotate: false
+  xy: 828, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 864, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Financeira de Ouro
+  rotate: false
+  xy: 900, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 936, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Financeira de Ouro
+  rotate: false
+  xy: 972, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 1008, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Financeira de Ouro
+  rotate: false
+  xy: 1044, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 1080, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Financeira de Ouro
+  rotate: false
+  xy: 1116, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 1152, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Financeira de Prata
+  rotate: false
+  xy: 1188, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 1224, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Financeira de Prata
+  rotate: false
+  xy: 1260, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 1296, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Financeira de Prata
+  rotate: false
+  xy: 1332, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 1368, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Financeira de Prata
+  rotate: false
+  xy: 1404, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 1440, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Financeira de Prata
+  rotate: false
+  xy: 1476, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 1512, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Financeira de Gemas
+  rotate: false
+  xy: 1548, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 1584, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Financeira de Gemas
+  rotate: false
+  xy: 1620, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 1656, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Financeira de Gemas
+  rotate: false
+  xy: 1692, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 1728, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Financeira de Gemas
+  rotate: false
+  xy: 1764, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 1800, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Financeira de Gemas
+  rotate: false
+  xy: 1836, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 1872, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Colonial de Madeira
+  rotate: false
+  xy: 1908, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 1944, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Colonial de Madeira
+  rotate: false
+  xy: 1980, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 2016, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Colonial de Madeira
+  rotate: false
+  xy: 0, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 36, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Colonial de Madeira
+  rotate: false
+  xy: 72, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 108, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Colonial de Madeira
+  rotate: false
+  xy: 144, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 180, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Colonial de Borracha
+  rotate: false
+  xy: 216, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 252, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Colonial de Borracha
+  rotate: false
+  xy: 288, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 324, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Colonial de Borracha
+  rotate: false
+  xy: 360, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 396, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Colonial de Borracha
+  rotate: false
+  xy: 432, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 468, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Colonial de Borracha
+  rotate: false
+  xy: 504, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 540, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Colonial de Marfim
+  rotate: false
+  xy: 576, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 612, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Colonial de Marfim
+  rotate: false
+  xy: 648, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 684, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Colonial de Marfim
+  rotate: false
+  xy: 720, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 756, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Colonial de Marfim
+  rotate: false
+  xy: 792, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 828, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Colonial de Marfim
+  rotate: false
+  xy: 864, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 900, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Sal
+  rotate: false
+  xy: 936, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 972, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Sal
+  rotate: false
+  xy: 1008, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 1044, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Sal
+  rotate: false
+  xy: 1080, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 1116, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Sal
+  rotate: false
+  xy: 1152, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 1188, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Sal
+  rotate: false
+  xy: 1224, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 1260, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 1296, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 1332, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 1368, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 1404, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 1440, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 1476, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 1512, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 1548, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 1584, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 1620, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Uvas
+  rotate: false
+  xy: 1656, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 1692, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Uvas
+  rotate: false
+  xy: 1728, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 1764, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Uvas
+  rotate: false
+  xy: 1800, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 1836, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Uvas
+  rotate: false
+  xy: 1872, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 1908, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Uvas
+  rotate: false
+  xy: 1944, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 1980, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Incenso
+  rotate: false
+  xy: 2016, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 0, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Incenso
+  rotate: false
+  xy: 36, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 72, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Incenso
+  rotate: false
+  xy: 108, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 144, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Incenso
+  rotate: false
+  xy: 180, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 216, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Incenso
+  rotate: false
+  xy: 252, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 288, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Corantes
+  rotate: false
+  xy: 324, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 360, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Corantes
+  rotate: false
+  xy: 396, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 432, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Corantes
+  rotate: false
+  xy: 468, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 504, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Corantes
+  rotate: false
+  xy: 540, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 576, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Corantes
+  rotate: false
+  xy: 612, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 648, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Industrial de Mármore
+  rotate: false
+  xy: 684, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 720, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Industrial de Mármore
+  rotate: false
+  xy: 756, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 792, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Industrial de Mármore
+  rotate: false
+  xy: 828, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 864, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Industrial de Mármore
+  rotate: false
+  xy: 900, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 936, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Industrial de Mármore
+  rotate: false
+  xy: 972, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 1008, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Alimentar de Carne
+  rotate: false
+  xy: 1044, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 1080, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Alimentar de Carne
+  rotate: false
+  xy: 1116, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 1152, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Alimentar de Carne
+  rotate: false
+  xy: 1188, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 1224, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Alimentar de Carne
+  rotate: false
+  xy: 1260, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 1296, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Alimentar de Carne
+  rotate: false
+  xy: 1332, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 1368, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Colonial de Peles
+  rotate: false
+  xy: 1404, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 1440, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Colonial de Peles
+  rotate: false
+  xy: 1476, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 1512, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Colonial de Peles
+  rotate: false
+  xy: 1548, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 1584, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Colonial de Peles
+  rotate: false
+  xy: 1620, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 1656, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Colonial de Peles
+  rotate: false
+  xy: 1692, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 1728, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Especiarias
+  rotate: false
+  xy: 1764, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 1800, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Especiarias
+  rotate: false
+  xy: 1836, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 1872, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Especiarias
+  rotate: false
+  xy: 1908, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 1944, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Especiarias
+  rotate: false
+  xy: 1980, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 2016, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Especiarias
+  rotate: false
+  xy: 0, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 36, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Trufas
+  rotate: false
+  xy: 72, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 108, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Trufas
+  rotate: false
+  xy: 144, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 180, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Trufas
+  rotate: false
+  xy: 216, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 252, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Trufas
+  rotate: false
+  xy: 288, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 324, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Trufas
+  rotate: false
+  xy: 360, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 396, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 432, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 468, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 504, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 540, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 576, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 612, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 648, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 684, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 720, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 756, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Alimentar de Pesca
+  rotate: false
+  xy: 792, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 828, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Alimentar de Pesca
+  rotate: false
+  xy: 864, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 900, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Alimentar de Pesca
+  rotate: false
+  xy: 936, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 972, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Alimentar de Pesca
+  rotate: false
+  xy: 1008, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 1044, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Alimentar de Pesca
+  rotate: false
+  xy: 1080, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 1116, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Colonial de Baleação
+  rotate: false
+  xy: 1152, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 1188, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Colonial de Baleação
+  rotate: false
+  xy: 1224, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 1260, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Colonial de Baleação
+  rotate: false
+  xy: 1296, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 1332, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Colonial de Baleação
+  rotate: false
+  xy: 1368, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 1404, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Colonial de Baleação
+  rotate: false
+  xy: 1440, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 1476, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1512, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1548, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Filial da Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1584, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1620, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Indústria Secundária da Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1656, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1692, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sede Regional da Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1728, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1764, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Escritório Internacional da Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1800, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1836, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Café
+  rotate: false
+  xy: 0, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 72, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Café
+  rotate: false
+  xy: 144, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 216, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Café-Pillaged
+  rotate: false
+  xy: 288, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Café
+  rotate: false
+  xy: 360, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 432, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Café-Pillaged
+  rotate: false
+  xy: 504, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Café
+  rotate: false
+  xy: 576, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 648, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Café-Pillaged
+  rotate: false
+  xy: 720, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Café
+  rotate: false
+  xy: 792, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Cafe
+  rotate: false
+  xy: 864, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Cacau
+  rotate: false
+  xy: 936, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 1008, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Cacau
+  rotate: false
+  xy: 1080, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 1152, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Cacau-Pillaged
+  rotate: false
+  xy: 1224, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Cacau
+  rotate: false
+  xy: 1296, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 1368, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Cacau-Pillaged
+  rotate: false
+  xy: 1440, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Cacau
+  rotate: false
+  xy: 1512, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 1584, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Cacau-Pillaged
+  rotate: false
+  xy: 1656, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Cacau
+  rotate: false
+  xy: 1728, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Cacau
+  rotate: false
+  xy: 1800, 1050
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Chá
+  rotate: false
+  xy: 1872, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 1944, 1050
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Chá
+  rotate: false
+  xy: 0, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 72, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Chá-Pillaged
+  rotate: false
+  xy: 144, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Chá
+  rotate: false
+  xy: 216, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 288, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Chá-Pillaged
+  rotate: false
+  xy: 360, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Chá
+  rotate: false
+  xy: 432, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 504, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Chá-Pillaged
+  rotate: false
+  xy: 576, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Chá
+  rotate: false
+  xy: 648, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Cha
+  rotate: false
+  xy: 720, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Seda
+  rotate: false
+  xy: 792, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 864, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Seda
+  rotate: false
+  xy: 936, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 1008, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Seda-Pillaged
+  rotate: false
+  xy: 1080, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Seda
+  rotate: false
+  xy: 1152, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 1224, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Seda-Pillaged
+  rotate: false
+  xy: 1296, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Seda
+  rotate: false
+  xy: 1368, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 1440, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Seda-Pillaged
+  rotate: false
+  xy: 1512, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Seda
+  rotate: false
+  xy: 1584, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Seda
+  rotate: false
+  xy: 1656, 1114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Industrial de Ferro
+  rotate: false
+  xy: 1728, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 1800, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Ferro
+  rotate: false
+  xy: 1872, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 1944, 1114
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Ferro-Pillaged
+  rotate: false
+  xy: 0, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Ferro
+  rotate: false
+  xy: 72, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 144, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Ferro-Pillaged
+  rotate: false
+  xy: 216, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Ferro
+  rotate: false
+  xy: 288, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 360, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Ferro-Pillaged
+  rotate: false
+  xy: 432, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Industrial de Ferro
+  rotate: false
+  xy: 504, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Ferro
+  rotate: false
+  xy: 576, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Industrial de Carvão
+  rotate: false
+  xy: 648, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 720, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Carvão
+  rotate: false
+  xy: 792, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 864, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Carvão-Pillaged
+  rotate: false
+  xy: 936, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Carvão
+  rotate: false
+  xy: 1008, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 1080, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Carvão-Pillaged
+  rotate: false
+  xy: 1152, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Carvão
+  rotate: false
+  xy: 1224, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 1296, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Carvão-Pillaged
+  rotate: false
+  xy: 1368, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Industrial de Carvão
+  rotate: false
+  xy: 1440, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Carvao
+  rotate: false
+  xy: 1512, 1178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Industrial de Cobre
+  rotate: false
+  xy: 1584, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 1656, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Cobre
+  rotate: false
+  xy: 1728, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 1800, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Cobre-Pillaged
+  rotate: false
+  xy: 1872, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Cobre
+  rotate: false
+  xy: 1944, 1178
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 0, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Cobre-Pillaged
+  rotate: false
+  xy: 72, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Cobre
+  rotate: false
+  xy: 144, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 216, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Cobre-Pillaged
+  rotate: false
+  xy: 288, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Industrial de Cobre
+  rotate: false
+  xy: 360, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Cobre
+  rotate: false
+  xy: 432, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Industrial de Níquel
+  rotate: false
+  xy: 504, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 576, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Níquel
+  rotate: false
+  xy: 648, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 720, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Níquel-Pillaged
+  rotate: false
+  xy: 792, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Níquel
+  rotate: false
+  xy: 864, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 936, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Níquel-Pillaged
+  rotate: false
+  xy: 1008, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Níquel
+  rotate: false
+  xy: 1080, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 1152, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Níquel-Pillaged
+  rotate: false
+  xy: 1224, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Industrial de Níquel
+  rotate: false
+  xy: 1296, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Niquel
+  rotate: false
+  xy: 1368, 1242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Financeira de Ouro
+  rotate: false
+  xy: 1440, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 1512, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Financeira de Ouro
+  rotate: false
+  xy: 1584, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 1656, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Financeira de Ouro-Pillaged
+  rotate: false
+  xy: 1728, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Financeira de Ouro
+  rotate: false
+  xy: 1800, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 1872, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Financeira de Ouro-Pillaged
+  rotate: false
+  xy: 1944, 1242
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Financeira de Ouro
+  rotate: false
+  xy: 0, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 72, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Financeira de Ouro-Pillaged
+  rotate: false
+  xy: 144, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Financeira de Ouro
+  rotate: false
+  xy: 216, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Financeira_de_Ouro
+  rotate: false
+  xy: 288, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Financeira de Prata
+  rotate: false
+  xy: 360, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 432, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Financeira de Prata
+  rotate: false
+  xy: 504, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 576, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Financeira de Prata-Pillaged
+  rotate: false
+  xy: 648, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Financeira de Prata
+  rotate: false
+  xy: 720, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 792, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Financeira de Prata-Pillaged
+  rotate: false
+  xy: 864, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Financeira de Prata
+  rotate: false
+  xy: 936, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 1008, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Financeira de Prata-Pillaged
+  rotate: false
+  xy: 1080, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Financeira de Prata
+  rotate: false
+  xy: 1152, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Financeira_de_Prata
+  rotate: false
+  xy: 1224, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Financeira de Gemas
+  rotate: false
+  xy: 1296, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 1368, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Financeira de Gemas
+  rotate: false
+  xy: 1440, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 1512, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Financeira de Gemas-Pillaged
+  rotate: false
+  xy: 1584, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Financeira de Gemas
+  rotate: false
+  xy: 1656, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 1728, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Financeira de Gemas-Pillaged
+  rotate: false
+  xy: 1800, 1306
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Financeira de Gemas
+  rotate: false
+  xy: 1872, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 1944, 1306
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Financeira de Gemas-Pillaged
+  rotate: false
+  xy: 0, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Financeira de Gemas
+  rotate: false
+  xy: 72, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Financeira_de_Gemas
+  rotate: false
+  xy: 144, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Colonial de Madeira
+  rotate: false
+  xy: 216, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 288, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Madeira
+  rotate: false
+  xy: 360, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 432, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Madeira-Pillaged
+  rotate: false
+  xy: 504, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Madeira
+  rotate: false
+  xy: 576, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 648, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Madeira-Pillaged
+  rotate: false
+  xy: 720, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Madeira
+  rotate: false
+  xy: 792, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 864, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Madeira-Pillaged
+  rotate: false
+  xy: 936, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Colonial de Madeira
+  rotate: false
+  xy: 1008, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Madeira
+  rotate: false
+  xy: 1080, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Colonial de Borracha
+  rotate: false
+  xy: 1152, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 1224, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Borracha
+  rotate: false
+  xy: 1296, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 1368, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Borracha-Pillaged
+  rotate: false
+  xy: 1440, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Borracha
+  rotate: false
+  xy: 1512, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 1584, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Borracha-Pillaged
+  rotate: false
+  xy: 1656, 1370
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Borracha
+  rotate: false
+  xy: 1728, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 1800, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Borracha-Pillaged
+  rotate: false
+  xy: 1872, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Colonial de Borracha
+  rotate: false
+  xy: 1944, 1370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Borracha
+  rotate: false
+  xy: 0, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Colonial de Marfim
+  rotate: false
+  xy: 72, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 144, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Marfim
+  rotate: false
+  xy: 216, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 288, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Marfim-Pillaged
+  rotate: false
+  xy: 360, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Marfim
+  rotate: false
+  xy: 432, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 504, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Marfim-Pillaged
+  rotate: false
+  xy: 576, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Marfim
+  rotate: false
+  xy: 648, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 720, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Marfim-Pillaged
+  rotate: false
+  xy: 792, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Colonial de Marfim
+  rotate: false
+  xy: 864, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Marfim
+  rotate: false
+  xy: 936, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Sal
+  rotate: false
+  xy: 1008, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 1080, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Sal
+  rotate: false
+  xy: 1152, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 1224, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Sal-Pillaged
+  rotate: false
+  xy: 1296, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Sal
+  rotate: false
+  xy: 1368, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 1440, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Sal-Pillaged
+  rotate: false
+  xy: 1512, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Sal
+  rotate: false
+  xy: 1584, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 1656, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Sal-Pillaged
+  rotate: false
+  xy: 1728, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Sal
+  rotate: false
+  xy: 1800, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Sal
+  rotate: false
+  xy: 1872, 1434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 1944, 1434
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 0, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 72, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 144, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Azeitonas-Pillaged
+  rotate: false
+  xy: 216, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 288, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 360, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Azeitonas-Pillaged
+  rotate: false
+  xy: 432, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 504, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 576, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Azeitonas-Pillaged
+  rotate: false
+  xy: 648, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Azeitonas
+  rotate: false
+  xy: 720, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Azeitonas
+  rotate: false
+  xy: 792, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Uvas
+  rotate: false
+  xy: 864, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 936, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Uvas
+  rotate: false
+  xy: 1008, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 1080, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Uvas-Pillaged
+  rotate: false
+  xy: 1152, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Uvas
+  rotate: false
+  xy: 1224, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 1296, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Uvas-Pillaged
+  rotate: false
+  xy: 1368, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Uvas
+  rotate: false
+  xy: 1440, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 1512, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Uvas-Pillaged
+  rotate: false
+  xy: 1584, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Uvas
+  rotate: false
+  xy: 1656, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Uvas
+  rotate: false
+  xy: 1728, 1498
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Incenso
+  rotate: false
+  xy: 1800, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 1872, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Incenso
+  rotate: false
+  xy: 1944, 1498
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 0, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Incenso-Pillaged
+  rotate: false
+  xy: 72, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Incenso
+  rotate: false
+  xy: 144, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 216, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Incenso-Pillaged
+  rotate: false
+  xy: 288, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Incenso
+  rotate: false
+  xy: 360, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 432, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Incenso-Pillaged
+  rotate: false
+  xy: 504, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Incenso
+  rotate: false
+  xy: 576, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Incenso
+  rotate: false
+  xy: 648, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Corantes
+  rotate: false
+  xy: 720, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 792, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Corantes
+  rotate: false
+  xy: 864, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 936, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Corantes-Pillaged
+  rotate: false
+  xy: 1008, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Corantes
+  rotate: false
+  xy: 1080, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 1152, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Corantes-Pillaged
+  rotate: false
+  xy: 1224, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Corantes
+  rotate: false
+  xy: 1296, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 1368, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Corantes-Pillaged
+  rotate: false
+  xy: 1440, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Corantes
+  rotate: false
+  xy: 1512, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Corantes
+  rotate: false
+  xy: 1584, 1562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Industrial de Mármore
+  rotate: false
+  xy: 1656, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 1728, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Mármore
+  rotate: false
+  xy: 1800, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 1872, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Industrial de Mármore-Pillaged
+  rotate: false
+  xy: 1944, 1562
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Mármore
+  rotate: false
+  xy: 0, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 72, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Industrial de Mármore-Pillaged
+  rotate: false
+  xy: 144, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Mármore
+  rotate: false
+  xy: 216, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 288, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Industrial de Mármore-Pillaged
+  rotate: false
+  xy: 360, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Industrial de Mármore
+  rotate: false
+  xy: 432, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Industrial_de_Marmore
+  rotate: false
+  xy: 504, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Alimentar de Carne
+  rotate: false
+  xy: 576, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 648, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Alimentar de Carne
+  rotate: false
+  xy: 720, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 792, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Alimentar de Carne-Pillaged
+  rotate: false
+  xy: 864, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Alimentar de Carne
+  rotate: false
+  xy: 936, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 1008, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Alimentar de Carne-Pillaged
+  rotate: false
+  xy: 1080, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Alimentar de Carne
+  rotate: false
+  xy: 1152, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 1224, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Alimentar de Carne-Pillaged
+  rotate: false
+  xy: 1296, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Alimentar de Carne
+  rotate: false
+  xy: 1368, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Alimentar_de_Carne
+  rotate: false
+  xy: 1440, 1626
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Colonial de Peles
+  rotate: false
+  xy: 1512, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 1584, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Peles
+  rotate: false
+  xy: 1656, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 1728, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Peles-Pillaged
+  rotate: false
+  xy: 1800, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Peles
+  rotate: false
+  xy: 1872, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 1944, 1626
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Peles-Pillaged
+  rotate: false
+  xy: 0, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Peles
+  rotate: false
+  xy: 72, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 144, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Peles-Pillaged
+  rotate: false
+  xy: 216, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Colonial de Peles
+  rotate: false
+  xy: 288, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Peles
+  rotate: false
+  xy: 360, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Especiarias
+  rotate: false
+  xy: 432, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 504, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Especiarias
+  rotate: false
+  xy: 576, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 648, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Especiarias-Pillaged
+  rotate: false
+  xy: 720, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Especiarias
+  rotate: false
+  xy: 792, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 864, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Especiarias-Pillaged
+  rotate: false
+  xy: 936, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Especiarias
+  rotate: false
+  xy: 1008, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 1080, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Especiarias-Pillaged
+  rotate: false
+  xy: 1152, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Especiarias
+  rotate: false
+  xy: 1224, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Especiarias
+  rotate: false
+  xy: 1296, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Trufas
+  rotate: false
+  xy: 1368, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 1440, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Trufas
+  rotate: false
+  xy: 1512, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 1584, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Trufas-Pillaged
+  rotate: false
+  xy: 1656, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Trufas
+  rotate: false
+  xy: 1728, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 1800, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Trufas-Pillaged
+  rotate: false
+  xy: 1872, 1690
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Trufas
+  rotate: false
+  xy: 1944, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 0, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Trufas-Pillaged
+  rotate: false
+  xy: 72, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Trufas
+  rotate: false
+  xy: 144, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Trufas
+  rotate: false
+  xy: 216, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 288, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 360, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 432, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 504, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Alimentar de Cítricos-Pillaged
+  rotate: false
+  xy: 576, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 648, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 720, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Alimentar de Cítricos-Pillaged
+  rotate: false
+  xy: 792, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 864, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 936, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Alimentar de Cítricos-Pillaged
+  rotate: false
+  xy: 1008, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Alimentar de Cítricos
+  rotate: false
+  xy: 1080, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Alimentar_de_Citricos
+  rotate: false
+  xy: 1152, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Alimentar de Pesca
+  rotate: false
+  xy: 1224, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 1296, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Alimentar de Pesca
+  rotate: false
+  xy: 1368, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 1440, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Alimentar de Pesca-Pillaged
+  rotate: false
+  xy: 1512, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Alimentar de Pesca
+  rotate: false
+  xy: 1584, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 1656, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Alimentar de Pesca-Pillaged
+  rotate: false
+  xy: 1728, 1754
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Alimentar de Pesca
+  rotate: false
+  xy: 1800, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 1872, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Alimentar de Pesca-Pillaged
+  rotate: false
+  xy: 1944, 1754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Alimentar de Pesca
+  rotate: false
+  xy: 0, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Alimentar_de_Pesca
+  rotate: false
+  xy: 72, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Colonial de Baleação
+  rotate: false
+  xy: 144, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 216, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Baleação
+  rotate: false
+  xy: 288, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 360, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Colonial de Baleação-Pillaged
+  rotate: false
+  xy: 432, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Baleação
+  rotate: false
+  xy: 504, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 576, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Colonial de Baleação-Pillaged
+  rotate: false
+  xy: 648, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Baleação
+  rotate: false
+  xy: 720, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 792, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Colonial de Baleação-Pillaged
+  rotate: false
+  xy: 864, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Colonial de Baleação
+  rotate: false
+  xy: 936, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Colonial_de_Baleacao
+  rotate: false
+  xy: 1008, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1080, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1152, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1224, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Filial_da_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1296, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Filial da Companhia Comercial de Pérolas-Pillaged
+  rotate: false
+  xy: 1368, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1440, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Industria_Secundaria_da_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1512, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Indústria Secundária da Companhia Comercial de Pérolas-Pillaged
+  rotate: false
+  xy: 1584, 1818
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1656, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sede_Regional_da_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1728, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sede Regional da Companhia Comercial de Pérolas-Pillaged
+  rotate: false
+  xy: 1800, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Escritório Internacional da Companhia Comercial de Pérolas
+  rotate: false
+  xy: 1872, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Escritorio_Internacional_da_Companhia_Comercial_de_Perolas
+  rotate: false
+  xy: 1944, 1818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Acampamento de Caça
+  rotate: false
+  xy: 1872, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Acampamento de Caça-Pillaged
+  rotate: false
+  xy: 1908, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Acampamento de Caça
+  rotate: false
+  xy: 0, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Acampamento de Caça-Pillaged
+  rotate: false
+  xy: 72, 1882
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Acampamento_de_Caca
+  rotate: false
+  xy: 1944, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Acampamento_de_Caca
+  rotate: false
+  xy: 144, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Acampamento_de_Marfim
+  rotate: false
+  xy: 1980, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Acampamento_de_Marfim
+  rotate: false
+  xy: 216, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_Truffles
+  rotate: false
+  xy: 2016, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_TrufflesPlusCamp
+  rotate: false
+  xy: 0, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_TrufflesPlusCamp-Industrial_era
+  rotate: false
+  xy: 36, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_TrufflesPlusCamp-Pillaged
+  rotate: false
+  xy: 72, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCRes_Trufas
+  rotate: false
+  xy: 108, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Forest+Truffles+Camp
+  rotate: false
+  xy: 144, 180
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Truffles
+  rotate: false
+  xy: 180, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Truffles+Camp
+  rotate: false
+  xy: 216, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Forest+Truffles+Camp
+  rotate: false
+  xy: 252, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_Truffles
+  rotate: false
+  xy: 288, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_TrufflesPlusCamp
+  rotate: false
+  xy: 360, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_TrufflesPlusCamp-Industrial_era
+  rotate: false
+  xy: 432, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_TrufflesPlusCamp-Pillaged
+  rotate: false
+  xy: 504, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCRes_Trufas
+  rotate: false
+  xy: 576, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Truffles
+  rotate: false
+  xy: 648, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Truffles+Camp
+  rotate: false
+  xy: 720, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Truffles+Camp-Industrial era
+  rotate: false
+  xy: 792, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Truffles+Camp-Pillaged
+  rotate: false
+  xy: 864, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Truffles+CampT
+  rotate: false
+  xy: 936, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Truffles+CampT-Industrial era
+  rotate: false
+  xy: 1008, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Truffles+CampT-Pillaged
+  rotate: false
+  xy: 1080, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCPatch_TrufflesCampClean
+  rotate: false
+  xy: 1152, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCPatch_TrufflesCampCleanIndustrial
+  rotate: false
+  xy: 1224, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCPatch_TrufflesCampCleanPillaged
+  rotate: false
+  xy: 1296, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCPatch_TrufflesClean
+  rotate: false
+  xy: 1368, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCPatch_TrufflesCampClean
+  rotate: false
+  xy: 288, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCPatch_TrufflesCampCleanIndustrial
+  rotate: false
+  xy: 324, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCPatch_TrufflesCampCleanPillaged
+  rotate: false
+  xy: 360, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCPatch_TrufflesClean
+  rotate: false
+  xy: 396, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Trufas
+  rotate: false
+  xy: 432, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Trufas+Camp
+  rotate: false
+  xy: 468, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Trufas
+  rotate: false
+  xy: 1440, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Trufas+Camp
+  rotate: false
+  xy: 1512, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Trufas+Camp-Industrial era
+  rotate: false
+  xy: 1584, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Trufas+Camp-Pillaged
+  rotate: false
+  xy: 1656, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Trufas+CampT
+  rotate: false
+  xy: 1728, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Trufas+CampT-Industrial era
+  rotate: false
+  xy: 1800, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Trufas+CampT-Pillaged
+  rotate: false
+  xy: 1872, 1882
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Olivas
+  rotate: false
+  xy: 0, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Olivas
+  rotate: false
+  xy: 40, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_OlivesPlusPlantation
+  rotate: false
+  xy: 80, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Incenso
+  rotate: false
+  xy: 120, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Incenso
+  rotate: false
+  xy: 160, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_IncensePlusPlantation
+  rotate: false
+  xy: 200, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Corantes
+  rotate: false
+  xy: 240, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Corantes
+  rotate: false
+  xy: 280, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_DyesPlusPlantation
+  rotate: false
+  xy: 320, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Papiro
+  rotate: false
+  xy: 360, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Papiro
+  rotate: false
+  xy: 400, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_PapyrusPlusPlantation
+  rotate: false
+  xy: 440, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Algodão
+  rotate: false
+  xy: 480, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Algodao
+  rotate: false
+  xy: 520, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_CottonPlusPlantation
+  rotate: false
+  xy: 560, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Cana
+  rotate: false
+  xy: 600, 3832
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Cana
+  rotate: false
+  xy: 640, 3832
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_SugarPlusPlantation
+  rotate: false
+  xy: 680, 3832
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Cânhamo
+  rotate: false
+  xy: 720, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Canhamo
+  rotate: false
+  xy: 760, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sericultura
+  rotate: false
+  xy: 800, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Sericultura
+  rotate: false
+  xy: 840, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Especiarias
+  rotate: false
+  xy: 880, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Especiarias
+  rotate: false
+  xy: 920, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_SpicesPlusPlantation
+  rotate: false
+  xy: 960, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação Tropical
+  rotate: false
+  xy: 1000, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_Tropical
+  rotate: false
+  xy: 1040, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_BananasPlusPlantation
+  rotate: false
+  xy: 1080, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pomar de Cítricos
+  rotate: false
+  xy: 1120, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Pomar_de_Citricos
+  rotate: false
+  xy: 1160, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCNew_CitrusPlusPlantation
+  rotate: false
+  xy: 1200, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vinhedo
+  rotate: false
+  xy: 1240, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Vinhedo
+  rotate: false
+  xy: 1280, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Cacau
+  rotate: false
+  xy: 1320, 3832
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Cacau
+  rotate: false
+  xy: 1360, 3832
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Cacau-Pillaged
+  rotate: false
+  xy: 1400, 3832
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Ópio
+  rotate: false
+  xy: 1440, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCImp_Plantacao_de_Opio
+  rotate: false
+  xy: 1480, 3832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantação de Ópio-Pillaged
+  rotate: false
+  xy: 1520, 3832
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Olivas
+  rotate: false
+  xy: 1560, 3832
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Olivas
+  rotate: false
+  xy: 1632, 3832
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_OlivesPlusPlantation
+  rotate: false
+  xy: 1704, 3832
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Incenso
+  rotate: false
+  xy: 1776, 3832
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Incenso
+  rotate: false
+  xy: 1848, 3832
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_IncensePlusPlantation
+  rotate: false
+  xy: 1920, 3832
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Corantes
+  rotate: false
+  xy: 0, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Corantes
+  rotate: false
+  xy: 72, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_DyesPlusPlantation
+  rotate: false
+  xy: 144, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Papiro
+  rotate: false
+  xy: 216, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Papiro
+  rotate: false
+  xy: 288, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_PapyrusPlusPlantation
+  rotate: false
+  xy: 360, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Algodão
+  rotate: false
+  xy: 432, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Algodao
+  rotate: false
+  xy: 504, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_CottonPlusPlantation
+  rotate: false
+  xy: 576, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Cana
+  rotate: false
+  xy: 648, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Cana
+  rotate: false
+  xy: 720, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_SugarPlusPlantation
+  rotate: false
+  xy: 792, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Cânhamo
+  rotate: false
+  xy: 864, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Canhamo
+  rotate: false
+  xy: 936, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sericultura
+  rotate: false
+  xy: 1008, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Sericultura
+  rotate: false
+  xy: 1080, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Especiarias
+  rotate: false
+  xy: 1152, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Especiarias
+  rotate: false
+  xy: 1224, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_SpicesPlusPlantation
+  rotate: false
+  xy: 1296, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação Tropical
+  rotate: false
+  xy: 1368, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_Tropical
+  rotate: false
+  xy: 1440, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_BananasPlusPlantation
+  rotate: false
+  xy: 1512, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Pomar de Cítricos
+  rotate: false
+  xy: 1584, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Pomar_de_Citricos
+  rotate: false
+  xy: 1656, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCNew_CitrusPlusPlantation
+  rotate: false
+  xy: 1728, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Vinhedo
+  rotate: false
+  xy: 1800, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Vinhedo
+  rotate: false
+  xy: 1872, 3896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Cacau
+  rotate: false
+  xy: 1944, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Cacau
+  rotate: false
+  xy: 0, 3968
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Cacau-Pillaged
+  rotate: false
+  xy: 72, 3968
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Ópio
+  rotate: false
+  xy: 144, 3968
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCImp_Plantacao_de_Opio
+  rotate: false
+  xy: 216, 3968
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plantação de Ópio-Pillaged
+  rotate: false
+  xy: 288, 3968
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCCityCenter-Era Atômica
+  rotate: false
+  xy: 360, 3968
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCCityCenter-Era Digital
+  rotate: false
+  xy: 401, 3968
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCCityCenter-Era Espacial
+  rotate: false
+  xy: 442, 3968
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AoCCityCenter-Era Planetária
+  rotate: false
+  xy: 483, 3968
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCCityCenter-Era Atômica
+  rotate: false
+  xy: 524, 3968
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCCityCenter-Era Digital
+  rotate: false
+  xy: 598, 3968
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCCityCenter-Era Espacial
+  rotate: false
+  xy: 672, 3968
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/AoCCityCenter-Era Planetária
+  rotate: false
+  xy: 746, 3968
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1

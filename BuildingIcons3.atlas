@@ -1,0 +1,1104 @@
+BuildingIcons3.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Cooperativas Agrícolas Haitianas
+rotate: false
+xy: 0, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio Imperial de Pequim
+rotate: false
+xy: 128, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal de Jiangnan
+rotate: false
+xy: 256, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Castelo de Edo
+rotate: false
+xy: 384, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Escola de Artilharia de Nagasaki
+rotate: false
+xy: 512, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio do Golestan
+rotate: false
+xy: 640, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Bazar de Tabriz
+rotate: false
+xy: 768, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Bala Hissar
+rotate: false
+xy: 896, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal de Cabul
+rotate: false
+xy: 1024, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Abdeen
+rotate: false
+xy: 1152, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica Têxtil do Nilo
+rotate: false
+xy: 1280, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio El Badi
+rotate: false
+xy: 1408, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Feira de Fez
+rotate: false
+xy: 1536, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Grande Palácio de Bangkok
+rotate: false
+xy: 1664, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Porto de Bangkok
+rotate: false
+xy: 1792, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Cidade Imperial de Huế
+rotate: false
+xy: 1920, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Celeiro Imperial do Mekong
+rotate: false
+xy: 0, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Gyeongbokgung
+rotate: false
+xy: 128, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Seowon Nacional
+rotate: false
+xy: 256, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Harmandir Sahib
+rotate: false
+xy: 384, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Khalsa College de Lahore
+rotate: false
+xy: 512, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Palácio de Gondar
+rotate: false
+xy: 640, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Mosteiro de Debre Libanos
+rotate: false
+xy: 768, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Conselho de Estado
+rotate: false
+xy: 896, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Parlamento Nacional
+rotate: false
+xy: 1024, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Constituição Nacional
+rotate: false
+xy: 1152, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Suprema Corte
+rotate: false
+xy: 1280, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Ministério da Guerra
+rotate: false
+xy: 1408, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Tesouro do Estado
+rotate: false
+xy: 1536, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Seminário Religioso
+rotate: false
+xy: 1664, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Catedral Nacional
+rotate: false
+xy: 1792, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Sede Patriarcal
+rotate: false
+xy: 1920, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Conselho Inter-religioso
+rotate: false
+xy: 0, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa de Peregrinação
+rotate: false
+xy: 128, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Ministério das Relações Exteriores
+rotate: false
+xy: 256, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Diplomática
+rotate: false
+xy: 384, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Embaixada Permanente
+rotate: false
+xy: 512, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Consulado
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Liga Diplomática
+rotate: false
+xy: 768, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Tribunal Internacional
+rotate: false
+xy: 896, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Congresso das Nações
+rotate: false
+xy: 1024, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Grão-Pará
+rotate: false
+xy: 1152, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Grão-Pará
+rotate: false
+xy: 1280, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Grão-Pará
+rotate: false
+xy: 1408, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de República Rio-Grandense
+rotate: false
+xy: 1536, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de República Rio-Grandense
+rotate: false
+xy: 1664, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de República Rio-Grandense
+rotate: false
+xy: 1792, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Estados Confederados da América
+rotate: false
+xy: 1920, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Estados Confederados da América
+rotate: false
+xy: 0, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Estados Confederados da América
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Reino da Grécia
+rotate: false
+xy: 256, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Reino da Grécia
+rotate: false
+xy: 384, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Reino da Grécia
+rotate: false
+xy: 512, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Reino de Hanôver
+rotate: false
+xy: 640, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Reino de Hanôver
+rotate: false
+xy: 768, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Reino de Hanôver
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Reino da Saxônia
+rotate: false
+xy: 1024, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Reino da Saxônia
+rotate: false
+xy: 1152, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Reino da Saxônia
+rotate: false
+xy: 1280, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Reino de Württemberg
+rotate: false
+xy: 1408, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Reino de Württemberg
+rotate: false
+xy: 1536, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Reino de Württemberg
+rotate: false
+xy: 1664, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Confederação Suíça
+rotate: false
+xy: 1792, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Confederação Suíça
+rotate: false
+xy: 1920, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Confederação Suíça
+rotate: false
+xy: 0, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Estados Pontifícios
+rotate: false
+xy: 128, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Estados Pontifícios
+rotate: false
+xy: 256, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Estados Pontifícios
+rotate: false
+xy: 384, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Grão-Ducado da Toscana
+rotate: false
+xy: 512, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Grão-Ducado da Toscana
+rotate: false
+xy: 640, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Grão-Ducado da Toscana
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de República da Nova Granada
+rotate: false
+xy: 896, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de República da Nova Granada
+rotate: false
+xy: 1024, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de República da Nova Granada
+rotate: false
+xy: 1152, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Império de Bornu
+rotate: false
+xy: 1280, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Império de Bornu
+rotate: false
+xy: 1408, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Império de Bornu
+rotate: false
+xy: 1536, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Império de Oió
+rotate: false
+xy: 1664, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Império de Oió
+rotate: false
+xy: 1792, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Império de Oió
+rotate: false
+xy: 1920, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Reino de Daomé
+rotate: false
+xy: 0, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Reino de Daomé
+rotate: false
+xy: 128, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Reino de Daomé
+rotate: false
+xy: 256, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Califado de Sokoto
+rotate: false
+xy: 384, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Califado de Sokoto
+rotate: false
+xy: 512, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Califado de Sokoto
+rotate: false
+xy: 640, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional de Reino de Madagascar
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica de Reino de Madagascar
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha de Reino de Madagascar
+rotate: false
+xy: 1024, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Confecção de Roupas
+rotate: false
+xy: 1152, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Farmácia
+rotate: false
+xy: 1280, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Indústria Farmacêutica
+rotate: false
+xy: 1408, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Projeto da Utopia
+rotate: false
+xy: 1536, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Secretaria de Estado
+rotate: false
+xy: 1664, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Complexo Metalúrgico
+rotate: false
+xy: 1792, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Especialização Urbana
+rotate: false
+xy: 1920, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Chancelaria Diplomática
+rotate: false
+xy: 0, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituto de Identidade Nacional
+rotate: false
+xy: 128, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arquivo Nacional e Museu
+rotate: false
+xy: 256, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Complexo de Criação de Animais
+rotate: false
+xy: 384, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Indústria de Processamento de Alimentos
+rotate: false
+xy: 512, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica de Veículos Militares
+rotate: false
+xy: 640, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica de Aeronaves Militares
+rotate: false
+xy: 768, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fábrica de Baterias
+rotate: false
+xy: 896, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Centro de Microeletrônica
+rotate: false
+xy: 1024, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Complexo de Combustíveis Sintéticos
+rotate: false
+xy: 1152, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Matadouro Industrial
+rotate: false
+xy: 1280, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Indústria de Carne Suína
+rotate: false
+xy: 1408, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Avicultura Industrial
+rotate: false
+xy: 1536, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Grão-Pará
+rotate: false
+xy: 1152, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Grão-Pará
+rotate: false
+xy: 1280, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Grão-Pará
+rotate: false
+xy: 1408, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional da República Rio-Grandense
+rotate: false
+xy: 1536, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica da República Rio-Grandense
+rotate: false
+xy: 1664, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha da República Rio-Grandense
+rotate: false
+xy: 1792, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional dos Estados Confederados da América
+rotate: false
+xy: 1920, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica dos Estados Confederados da América
+rotate: false
+xy: 0, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha dos Estados Confederados da América
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Reino da Grécia
+rotate: false
+xy: 256, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Reino da Grécia
+rotate: false
+xy: 384, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Reino da Grécia
+rotate: false
+xy: 512, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Reino de Hanôver
+rotate: false
+xy: 640, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Reino de Hanôver
+rotate: false
+xy: 768, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Reino de Hanôver
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Reino da Saxônia
+rotate: false
+xy: 1024, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Reino da Saxônia
+rotate: false
+xy: 1152, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Reino da Saxônia
+rotate: false
+xy: 1280, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Reino de Württemberg
+rotate: false
+xy: 1408, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Reino de Württemberg
+rotate: false
+xy: 1536, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Reino de Württemberg
+rotate: false
+xy: 1664, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional da Confederação Suíça
+rotate: false
+xy: 1792, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica da Confederação Suíça
+rotate: false
+xy: 1920, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha da Confederação Suíça
+rotate: false
+xy: 0, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional dos Estados Pontifícios
+rotate: false
+xy: 128, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica dos Estados Pontifícios
+rotate: false
+xy: 256, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha dos Estados Pontifícios
+rotate: false
+xy: 384, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Grão-Ducado da Toscana
+rotate: false
+xy: 512, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Grão-Ducado da Toscana
+rotate: false
+xy: 640, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Grão-Ducado da Toscana
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional da República da Nova Granada
+rotate: false
+xy: 896, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica da República da Nova Granada
+rotate: false
+xy: 1024, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha da República da Nova Granada
+rotate: false
+xy: 1152, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Império de Bornu
+rotate: false
+xy: 1280, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Império de Bornu
+rotate: false
+xy: 1408, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Império de Bornu
+rotate: false
+xy: 1536, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Império de Oió
+rotate: false
+xy: 1664, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Império de Oió
+rotate: false
+xy: 1792, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Império de Oió
+rotate: false
+xy: 1920, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Reino de Daomé
+rotate: false
+xy: 0, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Reino de Daomé
+rotate: false
+xy: 128, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Reino de Daomé
+rotate: false
+xy: 256, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Califado de Sokoto
+rotate: false
+xy: 384, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Califado de Sokoto
+rotate: false
+xy: 512, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Califado de Sokoto
+rotate: false
+xy: 640, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Instituição Nacional do Reino de Madagascar
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Academia Histórica do Reino de Madagascar
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Maravilha do Reino de Madagascar
+rotate: false
+xy: 1024, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1

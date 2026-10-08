@@ -1,0 +1,929 @@
+ResourceIcons.png
+size: 1024, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/Trigo
+rotate: false
+xy: 0, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Peixe
+rotate: false
+xy: 102, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Bovinos
+rotate: false
+xy: 204, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Sal
+rotate: false
+xy: 306, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Azeitonas
+rotate: false
+xy: 408, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Uvas
+rotate: false
+xy: 510, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Incenso
+rotate: false
+xy: 612, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Prata
+rotate: false
+xy: 714, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Gemas
+rotate: false
+xy: 816, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Marfim
+rotate: false
+xy: 918, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Corantes
+rotate: false
+xy: 0, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Papiro
+rotate: false
+xy: 102, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cobre
+rotate: false
+xy: 204, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Bronze
+rotate: false
+xy: 306, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Ferro
+rotate: false
+xy: 408, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cavalos
+rotate: false
+xy: 510, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Madeira
+rotate: false
+xy: 612, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Mármore
+rotate: false
+xy: 714, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Ouro
+rotate: false
+xy: 816, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Ervas Medicinais
+rotate: false
+xy: 918, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Arroz
+rotate: false
+xy: 0, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Milho
+rotate: false
+xy: 102, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Frutas
+rotate: false
+xy: 204, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Algodão
+rotate: false
+xy: 306, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cana-de-açúcar
+rotate: false
+xy: 408, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Café
+rotate: false
+xy: 510, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cacau
+rotate: false
+xy: 612, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Chá
+rotate: false
+xy: 714, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Seda
+rotate: false
+xy: 816, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Lã
+rotate: false
+xy: 918, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Carvão
+rotate: false
+xy: 0, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Petróleo
+rotate: false
+xy: 102, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Gás Natural
+rotate: false
+xy: 204, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Borracha
+rotate: false
+xy: 306, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Bauxita
+rotate: false
+xy: 408, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Níquel
+rotate: false
+xy: 510, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cânhamo
+rotate: false
+xy: 612, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cannabis
+rotate: false
+xy: 714, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Ópio
+rotate: false
+xy: 816, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Feijão
+rotate: false
+xy: 918, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Batata
+rotate: false
+xy: 0, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Mandioca
+rotate: false
+xy: 102, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Bananas
+rotate: false
+xy: 204, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Lentilhas
+rotate: false
+xy: 306, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Porcos
+rotate: false
+xy: 408, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Aves Domésticas
+rotate: false
+xy: 510, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cromo
+rotate: false
+xy: 612, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Tungstênio
+rotate: false
+xy: 714, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Enxofre
+rotate: false
+xy: 816, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Urânio
+rotate: false
+xy: 918, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Lítio
+rotate: false
+xy: 0, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Terras Raras
+rotate: false
+xy: 102, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Silício
+rotate: false
+xy: 204, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Fosfato
+rotate: false
+xy: 306, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Pessoas Escravizadas
+rotate: false
+xy: 408, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Infâmia
+rotate: false
+xy: 510, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Protetorados
+rotate: false
+xy: 612, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Estados Tributários
+rotate: false
+xy: 714, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Estados Fantoches
+rotate: false
+xy: 816, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Membros de Bloco
+rotate: false
+xy: 918, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Lucro Empresarial
+rotate: false
+xy: 0, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Prosperidade Empresarial
+rotate: false
+xy: 102, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Produtividade Empresarial
+rotate: false
+xy: 204, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Lealdade Empresarial
+rotate: false
+xy: 306, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Café Premium
+rotate: false
+xy: 408, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Chocolate Fino
+rotate: false
+xy: 510, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Chá Imperial
+rotate: false
+xy: 612, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Seda Imperial
+rotate: false
+xy: 714, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Aço Especial
+rotate: false
+xy: 816, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Carvão Selecionado
+rotate: false
+xy: 918, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cobre de Precisão
+rotate: false
+xy: 0, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Liga Especial de Níquel
+rotate: false
+xy: 102, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Certificados de Ouro
+rotate: false
+xy: 204, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Títulos de Prata
+rotate: false
+xy: 306, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Gemas de Coleção
+rotate: false
+xy: 408, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Madeira Naval de Seleção
+rotate: false
+xy: 510, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Borracha Premium
+rotate: false
+xy: 612, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Marfim de Coleção
+rotate: false
+xy: 714, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Sal de Alta Pureza
+rotate: false
+xy: 816, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Azeite Extra Virgem
+rotate: false
+xy: 918, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Vinho de Safra Especial
+rotate: false
+xy: 0, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Incenso de Santuário
+rotate: false
+xy: 102, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Corante de Alta Fixação
+rotate: false
+xy: 204, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Mármore Monumental
+rotate: false
+xy: 306, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Café
+rotate: false
+xy: 408, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Cacau
+rotate: false
+xy: 510, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Chá
+rotate: false
+xy: 612, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Seda
+rotate: false
+xy: 714, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Sal
+rotate: false
+xy: 816, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Azeitonas
+rotate: false
+xy: 918, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Uvas
+rotate: false
+xy: 0, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Incenso
+rotate: false
+xy: 102, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Corantes
+rotate: false
+xy: 204, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Industrial de Ferro
+rotate: false
+xy: 306, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Industrial de Carvão
+rotate: false
+xy: 408, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Industrial de Cobre
+rotate: false
+xy: 510, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Industrial de Níquel
+rotate: false
+xy: 612, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Industrial de Mármore
+rotate: false
+xy: 714, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Financeira de Ouro
+rotate: false
+xy: 816, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Financeira de Prata
+rotate: false
+xy: 918, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Financeira de Gemas
+rotate: false
+xy: 0, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Colonial de Madeira
+rotate: false
+xy: 102, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Colonial de Borracha
+rotate: false
+xy: 204, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Colonial de Marfim
+rotate: false
+xy: 306, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Veados
+rotate: false
+xy: 408, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Pedra
+rotate: false
+xy: 510, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Peles
+rotate: false
+xy: 612, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Trufas
+rotate: false
+xy: 714, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Especiarias
+rotate: false
+xy: 816, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cítricos
+rotate: false
+xy: 918, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Baleias
+rotate: false
+xy: 0, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Pérolas
+rotate: false
+xy: 102, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Caranguejos
+rotate: false
+xy: 204, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Carne Curada Selecionada
+rotate: false
+xy: 306, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Peles Nobres
+rotate: false
+xy: 408, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Especiarias Raras
+rotate: false
+xy: 510, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Trufas Selecionadas
+rotate: false
+xy: 612, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Cítricos de Exportação
+rotate: false
+xy: 714, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Pescado em Conserva
+rotate: false
+xy: 816, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Óleo de Baleia Refinado
+rotate: false
+xy: 918, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Pérolas Selecionadas
+rotate: false
+xy: 0, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Alimentar de Carne
+rotate: false
+xy: 102, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Colonial de Peles
+rotate: false
+xy: 204, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Especiarias
+rotate: false
+xy: 306, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Trufas
+rotate: false
+xy: 408, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Alimentar de Cítricos
+rotate: false
+xy: 510, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Alimentar de Pesca
+rotate: false
+xy: 612, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Colonial de Baleação
+rotate: false
+xy: 714, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Regime da Companhia Comercial de Pérolas
+rotate: false
+xy: 816, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Empresas Alimentares Ativas
+rotate: false
+xy: 918, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Capital Privado
+rotate: false
+xy: 0, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Prazo do Investimento Privado
+rotate: false
+xy: 102, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1

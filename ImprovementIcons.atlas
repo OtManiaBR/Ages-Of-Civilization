@@ -1,0 +1,1377 @@
+ImprovementIcons.png
+size: 1024, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Fazenda
+rotate: false
+xy: 0, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Mina
+rotate: false
+xy: 102, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Estrada
+rotate: false
+xy: 204, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Pedreira
+rotate: false
+xy: 306, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Campo de Pastagem
+rotate: false
+xy: 408, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Barco Pesqueiro
+rotate: false
+xy: 510, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Olivas
+rotate: false
+xy: 612, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Vinhedo
+rotate: false
+xy: 714, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Salina
+rotate: false
+xy: 816, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Mina de Metais
+rotate: false
+xy: 918, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Porto Comercial
+rotate: false
+xy: 0, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Estrada Real
+rotate: false
+xy: 102, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Feira Regional
+rotate: false
+xy: 204, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Entreposto Terrestre
+rotate: false
+xy: 306, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Armazém Regional
+rotate: false
+xy: 408, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Estrada Nacional
+rotate: false
+xy: 510, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Distrito Industrial
+rotate: false
+xy: 612, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Terminal Portuário
+rotate: false
+xy: 714, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Centro de Dados
+rotate: false
+xy: 816, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plataforma Orbital
+rotate: false
+xy: 918, 102
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Distrito Lunar
+rotate: false
+xy: 0, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Complexo de Terraformação
+rotate: false
+xy: 102, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Incenso
+rotate: false
+xy: 204, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Acampamento de Marfim
+rotate: false
+xy: 306, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Corantes
+rotate: false
+xy: 408, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Papiro
+rotate: false
+xy: 510, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Acampamento Madeireiro
+rotate: false
+xy: 612, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Horta Medicinal
+rotate: false
+xy: 714, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Algodão
+rotate: false
+xy: 816, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Cana
+rotate: false
+xy: 918, 204
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Café
+rotate: false
+xy: 0, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Cacau
+rotate: false
+xy: 102, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Chá
+rotate: false
+xy: 204, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sericultura
+rotate: false
+xy: 306, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Poço de Petróleo
+rotate: false
+xy: 408, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plataforma Petrolífera
+rotate: false
+xy: 510, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Poço de Gás Natural
+rotate: false
+xy: 612, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Borracha
+rotate: false
+xy: 714, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Cânhamo
+rotate: false
+xy: 816, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Cannabis
+rotate: false
+xy: 918, 306
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Ópio
+rotate: false
+xy: 0, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Chiqueiro
+rotate: false
+xy: 102, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Galinheiro
+rotate: false
+xy: 204, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Raízes
+rotate: false
+xy: 306, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação Tropical
+rotate: false
+xy: 408, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Mina de Fosfato
+rotate: false
+xy: 510, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Café
+rotate: false
+xy: 612, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Cacau
+rotate: false
+xy: 714, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Chá
+rotate: false
+xy: 816, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Seda
+rotate: false
+xy: 918, 408
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Industrial de Ferro
+rotate: false
+xy: 0, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Industrial de Carvão
+rotate: false
+xy: 102, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Industrial de Cobre
+rotate: false
+xy: 204, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Industrial de Níquel
+rotate: false
+xy: 306, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Financeira de Ouro
+rotate: false
+xy: 408, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Financeira de Prata
+rotate: false
+xy: 510, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Financeira de Gemas
+rotate: false
+xy: 612, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Colonial de Madeira
+rotate: false
+xy: 714, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Colonial de Borracha
+rotate: false
+xy: 816, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Colonial de Marfim
+rotate: false
+xy: 918, 510
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Café
+rotate: false
+xy: 0, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Café
+rotate: false
+xy: 102, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Café
+rotate: false
+xy: 204, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Café
+rotate: false
+xy: 306, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Cacau
+rotate: false
+xy: 408, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Cacau
+rotate: false
+xy: 510, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Cacau
+rotate: false
+xy: 612, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Cacau
+rotate: false
+xy: 714, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Chá
+rotate: false
+xy: 816, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Chá
+rotate: false
+xy: 918, 612
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Chá
+rotate: false
+xy: 0, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Chá
+rotate: false
+xy: 102, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Seda
+rotate: false
+xy: 204, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Seda
+rotate: false
+xy: 306, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Seda
+rotate: false
+xy: 408, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Seda
+rotate: false
+xy: 510, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Industrial de Ferro
+rotate: false
+xy: 612, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Industrial de Ferro
+rotate: false
+xy: 714, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Industrial de Ferro
+rotate: false
+xy: 816, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Industrial de Ferro
+rotate: false
+xy: 918, 714
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Industrial de Carvão
+rotate: false
+xy: 0, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Industrial de Carvão
+rotate: false
+xy: 102, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Industrial de Carvão
+rotate: false
+xy: 204, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Industrial de Carvão
+rotate: false
+xy: 306, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Industrial de Cobre
+rotate: false
+xy: 408, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Industrial de Cobre
+rotate: false
+xy: 510, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Industrial de Cobre
+rotate: false
+xy: 612, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Industrial de Cobre
+rotate: false
+xy: 714, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Industrial de Níquel
+rotate: false
+xy: 816, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Industrial de Níquel
+rotate: false
+xy: 918, 816
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Industrial de Níquel
+rotate: false
+xy: 0, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Industrial de Níquel
+rotate: false
+xy: 102, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Financeira de Ouro
+rotate: false
+xy: 204, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Financeira de Ouro
+rotate: false
+xy: 306, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Financeira de Ouro
+rotate: false
+xy: 408, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Financeira de Ouro
+rotate: false
+xy: 510, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Financeira de Prata
+rotate: false
+xy: 612, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Financeira de Prata
+rotate: false
+xy: 714, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Financeira de Prata
+rotate: false
+xy: 816, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Financeira de Prata
+rotate: false
+xy: 918, 918
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Financeira de Gemas
+rotate: false
+xy: 0, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Financeira de Gemas
+rotate: false
+xy: 102, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Financeira de Gemas
+rotate: false
+xy: 204, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Financeira de Gemas
+rotate: false
+xy: 306, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Colonial de Madeira
+rotate: false
+xy: 408, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Colonial de Madeira
+rotate: false
+xy: 510, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Colonial de Madeira
+rotate: false
+xy: 612, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Colonial de Madeira
+rotate: false
+xy: 714, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Colonial de Borracha
+rotate: false
+xy: 816, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Colonial de Borracha
+rotate: false
+xy: 918, 1020
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Colonial de Borracha
+rotate: false
+xy: 0, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Colonial de Borracha
+rotate: false
+xy: 102, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Colonial de Marfim
+rotate: false
+xy: 204, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Colonial de Marfim
+rotate: false
+xy: 306, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Colonial de Marfim
+rotate: false
+xy: 408, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Colonial de Marfim
+rotate: false
+xy: 510, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Sal
+rotate: false
+xy: 612, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Sal
+rotate: false
+xy: 714, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Sal
+rotate: false
+xy: 816, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Sal
+rotate: false
+xy: 918, 1122
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Azeitonas
+rotate: false
+xy: 0, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Azeitonas
+rotate: false
+xy: 102, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Azeitonas
+rotate: false
+xy: 204, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Azeitonas
+rotate: false
+xy: 306, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Uvas
+rotate: false
+xy: 408, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Uvas
+rotate: false
+xy: 510, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Uvas
+rotate: false
+xy: 612, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Uvas
+rotate: false
+xy: 714, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Incenso
+rotate: false
+xy: 816, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Incenso
+rotate: false
+xy: 918, 1224
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Incenso
+rotate: false
+xy: 0, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Incenso
+rotate: false
+xy: 102, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Corantes
+rotate: false
+xy: 204, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Corantes
+rotate: false
+xy: 306, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Corantes
+rotate: false
+xy: 408, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Corantes
+rotate: false
+xy: 510, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Industrial de Mármore
+rotate: false
+xy: 612, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Industrial de Mármore
+rotate: false
+xy: 714, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Industrial de Mármore
+rotate: false
+xy: 816, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Industrial de Mármore
+rotate: false
+xy: 918, 1326
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Sal
+rotate: false
+xy: 0, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Azeitonas
+rotate: false
+xy: 102, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Uvas
+rotate: false
+xy: 204, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Incenso
+rotate: false
+xy: 306, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Corantes
+rotate: false
+xy: 408, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Industrial de Mármore
+rotate: false
+xy: 510, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Acampamento de Caça
+rotate: false
+xy: 612, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Plantação de Especiarias
+rotate: false
+xy: 714, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Pomar de Cítricos
+rotate: false
+xy: 816, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Alimentar de Carne
+rotate: false
+xy: 918, 1428
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Alimentar de Carne
+rotate: false
+xy: 0, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Alimentar de Carne
+rotate: false
+xy: 102, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Alimentar de Carne
+rotate: false
+xy: 204, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Alimentar de Carne
+rotate: false
+xy: 306, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Colonial de Peles
+rotate: false
+xy: 408, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Colonial de Peles
+rotate: false
+xy: 510, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Colonial de Peles
+rotate: false
+xy: 612, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Colonial de Peles
+rotate: false
+xy: 714, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Colonial de Peles
+rotate: false
+xy: 816, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Especiarias
+rotate: false
+xy: 918, 1530
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Especiarias
+rotate: false
+xy: 0, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Especiarias
+rotate: false
+xy: 102, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Especiarias
+rotate: false
+xy: 204, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Especiarias
+rotate: false
+xy: 306, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Trufas
+rotate: false
+xy: 408, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Trufas
+rotate: false
+xy: 510, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Trufas
+rotate: false
+xy: 612, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Trufas
+rotate: false
+xy: 714, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Trufas
+rotate: false
+xy: 816, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Alimentar de Cítricos
+rotate: false
+xy: 918, 1632
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Alimentar de Cítricos
+rotate: false
+xy: 0, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Alimentar de Cítricos
+rotate: false
+xy: 102, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Alimentar de Cítricos
+rotate: false
+xy: 204, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Alimentar de Cítricos
+rotate: false
+xy: 306, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Alimentar de Pesca
+rotate: false
+xy: 408, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Alimentar de Pesca
+rotate: false
+xy: 510, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Alimentar de Pesca
+rotate: false
+xy: 612, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Alimentar de Pesca
+rotate: false
+xy: 714, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Alimentar de Pesca
+rotate: false
+xy: 816, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Colonial de Baleação
+rotate: false
+xy: 918, 1734
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Colonial de Baleação
+rotate: false
+xy: 0, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Colonial de Baleação
+rotate: false
+xy: 102, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Colonial de Baleação
+rotate: false
+xy: 204, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Colonial de Baleação
+rotate: false
+xy: 306, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Companhia Comercial de Pérolas
+rotate: false
+xy: 408, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Filial da Companhia Comercial de Pérolas
+rotate: false
+xy: 510, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Indústria Secundária da Companhia Comercial de Pérolas
+rotate: false
+xy: 612, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Sede Regional da Companhia Comercial de Pérolas
+rotate: false
+xy: 714, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Escritório Internacional da Companhia Comercial de Pérolas
+rotate: false
+xy: 816, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Ancient ruins
+rotate: false
+xy: 918, 1836
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Academia
+rotate: false
+xy: 0, 1938
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Marco Cultural
+rotate: false
+xy: 102, 1938
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Manufatura
+rotate: false
+xy: 204, 1938
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Alfândega
+rotate: false
+xy: 306, 1938
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Lugar Sagrado
+rotate: false
+xy: 408, 1938
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Cidadela
+rotate: false
+xy: 510, 1938
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1

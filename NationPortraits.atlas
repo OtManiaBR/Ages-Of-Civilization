@@ -1,0 +1,1230 @@
+NationPortraits.png
+size: 2048, 5888
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationPortraits/Reino Unido
+rotate: false
+xy: 0, 0
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da França
+rotate: false
+xy: 256, 0
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império Russo
+rotate: false
+xy: 512, 0
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império Austríaco
+rotate: false
+xy: 768, 0
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Prússia
+rotate: false
+xy: 1024, 0
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império Otomano
+rotate: false
+xy: 1280, 0
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Espanha
+rotate: false
+xy: 1536, 0
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino de Portugal
+rotate: false
+xy: 1792, 0
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino dos Países Baixos
+rotate: false
+xy: 0, 256
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Bélgica
+rotate: false
+xy: 256, 256
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Suécia
+rotate: false
+xy: 512, 256
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Dinamarca
+rotate: false
+xy: 768, 256
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Baviera
+rotate: false
+xy: 1024, 256
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Sardenha-Piemonte
+rotate: false
+xy: 1280, 256
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino das Duas Sicílias
+rotate: false
+xy: 1536, 256
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império do Brasil
+rotate: false
+xy: 1792, 256
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Estados Unidos da América
+rotate: false
+xy: 0, 512
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/República do México
+rotate: false
+xy: 256, 512
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/República do Texas
+rotate: false
+xy: 512, 512
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Confederação Argentina
+rotate: false
+xy: 768, 512
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/República do Chile
+rotate: false
+xy: 1024, 512
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Confederação Peru-Boliviana
+rotate: false
+xy: 1280, 512
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/República do Haiti
+rotate: false
+xy: 1536, 512
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Grande Qing
+rotate: false
+xy: 1792, 512
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Xogunato Tokugawa
+rotate: false
+xy: 0, 768
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Pérsia Qajar
+rotate: false
+xy: 256, 768
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Emirado do Afeganistão
+rotate: false
+xy: 512, 768
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Egito de Muhammad Ali
+rotate: false
+xy: 768, 768
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Sultanato de Marrocos
+rotate: false
+xy: 1024, 768
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino do Sião
+rotate: false
+xy: 1280, 768
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império de Dai Nam
+rotate: false
+xy: 1536, 768
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino de Joseon
+rotate: false
+xy: 1792, 768
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império Sikh
+rotate: false
+xy: 0, 1024
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Etiópia
+rotate: false
+xy: 256, 1024
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Andorra
+rotate: false
+xy: 512, 1024
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/San Marino
+rotate: false
+xy: 768, 1024
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Mônaco
+rotate: false
+xy: 1024, 1024
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Liechtenstein
+rotate: false
+xy: 1280, 1024
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Luxemburgo
+rotate: false
+xy: 1536, 1024
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Cidade Livre de Bremen
+rotate: false
+xy: 1792, 1024
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Cidade Livre de Hamburgo
+rotate: false
+xy: 0, 1280
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Cidade Livre de Lübeck
+rotate: false
+xy: 256, 1280
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Cidade Livre de Frankfurt
+rotate: false
+xy: 512, 1280
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Grão-Ducado de Baden
+rotate: false
+xy: 768, 1280
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Ducado de Brunswick
+rotate: false
+xy: 1024, 1280
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Ducado de Nassau
+rotate: false
+xy: 1280, 1280
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Grão-Ducado de Oldenburg
+rotate: false
+xy: 1536, 1280
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Principado de Montenegro
+rotate: false
+xy: 1792, 1280
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Principado da Sérvia
+rotate: false
+xy: 0, 1536
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Principado da Moldávia
+rotate: false
+xy: 256, 1536
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Principado da Valáquia
+rotate: false
+xy: 512, 1536
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Uruguai
+rotate: false
+xy: 768, 1536
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Paraguai
+rotate: false
+xy: 1024, 1536
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino do Havaí
+rotate: false
+xy: 1280, 1536
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Butão
+rotate: false
+xy: 1536, 1536
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Nepal
+rotate: false
+xy: 1792, 1536
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Emirado de Bucara
+rotate: false
+xy: 0, 1792
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Canato de Khiva
+rotate: false
+xy: 256, 1792
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Canato de Cocande
+rotate: false
+xy: 512, 1792
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Brunei
+rotate: false
+xy: 768, 1792
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Sultanato de Aceh
+rotate: false
+xy: 1024, 1792
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Sultanato de Johor
+rotate: false
+xy: 1280, 1792
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Sultanato de Sulu
+rotate: false
+xy: 1536, 1792
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Zanzibar
+rotate: false
+xy: 1792, 1792
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Grão-Pará
+rotate: false
+xy: 0, 2048
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/República Rio-Grandense
+rotate: false
+xy: 256, 2048
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Estados Confederados da América
+rotate: false
+xy: 512, 2048
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Grécia
+rotate: false
+xy: 768, 2048
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino de Hanôver
+rotate: false
+xy: 1024, 2048
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Saxônia
+rotate: false
+xy: 1280, 2048
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino de Württemberg
+rotate: false
+xy: 1536, 2048
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Confederação Suíça
+rotate: false
+xy: 1792, 2048
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Estados Pontifícios
+rotate: false
+xy: 0, 2304
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Grão-Ducado da Toscana
+rotate: false
+xy: 256, 2304
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/República da Nova Granada
+rotate: false
+xy: 512, 2304
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império de Bornu
+rotate: false
+xy: 768, 2304
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império de Oió
+rotate: false
+xy: 1024, 2304
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino de Daomé
+rotate: false
+xy: 1280, 2304
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Califado de Sokoto
+rotate: false
+xy: 1536, 2304
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino de Madagascar
+rotate: false
+xy: 1792, 2304
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Inglaterra
+rotate: false
+xy: 0, 2560
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Escócia
+rotate: false
+xy: 256, 2560
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Principado de Gales
+rotate: false
+xy: 512, 2560
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Irlanda
+rotate: false
+xy: 768, 2560
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Polônia
+rotate: false
+xy: 1024, 2560
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Estado da Bahia
+rotate: false
+xy: 1280, 2560
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Estado de Pernambuco
+rotate: false
+xy: 1536, 2560
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Estado de Alagoas
+rotate: false
+xy: 1792, 2560
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Estado de Sergipe
+rotate: false
+xy: 0, 2816
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Estado do Piauí
+rotate: false
+xy: 256, 2816
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Estado da Paraíba
+rotate: false
+xy: 512, 2816
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/República Rio-Grandense do Norte
+rotate: false
+xy: 768, 2816
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/República de Cracóvia
+rotate: false
+xy: 1024, 2816
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Ducado de Parma
+rotate: false
+xy: 1280, 2816
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Ducado de Modena
+rotate: false
+xy: 1536, 2816
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Ducado de Lucca
+rotate: false
+xy: 1792, 2816
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Ducado de Massa-Carrara
+rotate: false
+xy: 0, 3072
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Eleitorado de Hesse
+rotate: false
+xy: 256, 3072
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Grão-Ducado de Hesse
+rotate: false
+xy: 512, 3072
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Mecklenburg-Schwerin
+rotate: false
+xy: 768, 3072
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Mecklenburg-Strelitz
+rotate: false
+xy: 1024, 3072
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Saxe-Weimar-Eisenach
+rotate: false
+xy: 1280, 3072
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Saxe-Coburgo-Gota
+rotate: false
+xy: 1536, 3072
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Saxe-Meiningen
+rotate: false
+xy: 1792, 3072
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Saxe-Altenburgo
+rotate: false
+xy: 0, 3328
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Anhalt-Dessau
+rotate: false
+xy: 256, 3328
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Anhalt-Bernburg
+rotate: false
+xy: 512, 3328
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Lippe
+rotate: false
+xy: 768, 3328
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Schaumburg-Lippe
+rotate: false
+xy: 1024, 3328
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Waldeck
+rotate: false
+xy: 1280, 3328
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reuss-Greiz
+rotate: false
+xy: 1536, 3328
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reuss-Schleiz
+rotate: false
+xy: 1792, 3328
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Schwarzburg-Rudolstadt
+rotate: false
+xy: 0, 3584
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Schwarzburg-Sondershausen
+rotate: false
+xy: 256, 3584
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Hesse-Homburg
+rotate: false
+xy: 512, 3584
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Ilha de Man
+rotate: false
+xy: 768, 3584
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Jersey
+rotate: false
+xy: 1024, 3584
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Guernsey
+rotate: false
+xy: 1280, 3584
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Hyderabad
+rotate: false
+xy: 1536, 3584
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino de Mysore
+rotate: false
+xy: 1792, 3584
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Travancore
+rotate: false
+xy: 0, 3840
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Awadh
+rotate: false
+xy: 256, 3840
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Gwalior
+rotate: false
+xy: 512, 3840
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Jaipur
+rotate: false
+xy: 768, 3840
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Jodhpur
+rotate: false
+xy: 1024, 3840
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Indore
+rotate: false
+xy: 1280, 3840
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Baroda
+rotate: false
+xy: 1536, 3840
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Bhopal
+rotate: false
+xy: 1792, 3840
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Sultanato de Omã
+rotate: false
+xy: 0, 4096
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Bahrein
+rotate: false
+xy: 256, 4096
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Kuwait
+rotate: false
+xy: 512, 4096
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Qatar
+rotate: false
+xy: 768, 4096
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Najd
+rotate: false
+xy: 1024, 4096
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império Ashanti
+rotate: false
+xy: 1280, 4096
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Futa Jallon
+rotate: false
+xy: 1536, 4096
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Futa Toro
+rotate: false
+xy: 1792, 4096
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Darfur
+rotate: false
+xy: 0, 4352
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Wadai
+rotate: false
+xy: 256, 4352
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Harar
+rotate: false
+xy: 512, 4352
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Buganda
+rotate: false
+xy: 768, 4352
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Ruanda
+rotate: false
+xy: 1024, 4352
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Burundi
+rotate: false
+xy: 1280, 4352
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Basotho
+rotate: false
+xy: 1536, 4352
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Kedah
+rotate: false
+xy: 1792, 4352
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Perak
+rotate: false
+xy: 0, 4608
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Selangor
+rotate: false
+xy: 256, 4608
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Kelantan
+rotate: false
+xy: 512, 4608
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Terengganu
+rotate: false
+xy: 768, 4608
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Patani
+rotate: false
+xy: 1024, 4608
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Luang Prabang
+rotate: false
+xy: 1280, 4608
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Champasak
+rotate: false
+xy: 1536, 4608
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Guatemala
+rotate: false
+xy: 1792, 4608
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/El Salvador
+rotate: false
+xy: 0, 4864
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Honduras
+rotate: false
+xy: 256, 4864
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Nicarágua
+rotate: false
+xy: 512, 4864
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Costa Rica
+rotate: false
+xy: 768, 4864
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Barbarians
+rotate: false
+xy: 1024, 4864
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/União Soviética
+rotate: false
+xy: 0, 5120
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/China Comunista
+rotate: false
+xy: 256, 5120
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino Celestial da China
+rotate: false
+xy: 512, 5120
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Wessex
+rotate: false
+xy: 768, 5120
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Mercia
+rotate: false
+xy: 1024, 5120
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Northumbria
+rotate: false
+xy: 1280, 5120
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Anglia Oriental
+rotate: false
+xy: 1536, 5120
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Occitânia
+rotate: false
+xy: 1792, 5120
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Bretanha
+rotate: false
+xy: 0, 5376
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Castela
+rotate: false
+xy: 256, 5376
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino da Itália
+rotate: false
+xy: 512, 5376
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império do Japão
+rotate: false
+xy: 768, 5376
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Gran Colombia
+rotate: false
+xy: 1024, 5376
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Alemanha Oriental
+rotate: false
+xy: 1280, 5376
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Alemanha Ocidental
+rotate: false
+xy: 1536, 5376
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/América Central
+rotate: false
+xy: 1792, 5376
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Reino Unido do Brasil e Portugal
+rotate: false
+xy: 0, 5632
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1
+NationPortraits/Império do Mar do Norte
+rotate: false
+xy: 256, 5632
+size: 256, 256
+orig: 256, 256
+offset: 0, 0
+index: -1

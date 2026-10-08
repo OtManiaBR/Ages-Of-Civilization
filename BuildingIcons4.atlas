@@ -1,0 +1,306 @@
+BuildingIcons4.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Universidade de Londres
+rotate: false
+xy: 0, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal de Woolwich
+rotate: false
+xy: 130, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Bolsa de Manchester
+rotate: false
+xy: 260, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Universidade de Edimburgo
+rotate: false
+xy: 390, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Oficinas do Clyde
+rotate: false
+xy: 520, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Sociedade Real de Edimburgo
+rotate: false
+xy: 650, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Salão do Eisteddfod
+rotate: false
+xy: 0, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Ferrarias de Merthyr
+rotate: false
+xy: 130, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Aqueduto de Pontcysyllte
+rotate: false
+xy: 260, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Custom House de Dublin
+rotate: false
+xy: 390, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Quatro Tribunais de Dublin
+rotate: false
+xy: 520, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Porto de Belfast
+rotate: false
+xy: 650, 130
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Universidade de Varsóvia
+rotate: false
+xy: 0, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Banco da Polônia
+rotate: false
+xy: 130, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal de Varsóvia
+rotate: false
+xy: 260, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Faculdade de Medicina da Bahia
+rotate: false
+xy: 390, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal da Marinha da Bahia
+rotate: false
+xy: 520, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Porto de Salvador
+rotate: false
+xy: 650, 260
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Curso Jurídico de Olinda
+rotate: false
+xy: 0, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Arsenal de Pernambuco
+rotate: false
+xy: 130, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Porto do Recife
+rotate: false
+xy: 260, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Porto de Jaraguá
+rotate: false
+xy: 390, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Engenhos do Mundaú
+rotate: false
+xy: 520, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Empório de Maceió
+rotate: false
+xy: 650, 390
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Alfândega de Laranjeiras
+rotate: false
+xy: 0, 520
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Engenhos do Cotinguiba
+rotate: false
+xy: 130, 520
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Porto de Laranjeiras
+rotate: false
+xy: 260, 520
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fazendas de Gado do Piauí
+rotate: false
+xy: 390, 520
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Casa do Governo de Oeiras
+rotate: false
+xy: 520, 520
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Mercado do Parnaíba
+rotate: false
+xy: 650, 520
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Porto de Cabedelo
+rotate: false
+xy: 0, 650
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Engenhos do Brejo
+rotate: false
+xy: 130, 650
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Mosteiro de São Bento da Paraíba
+rotate: false
+xy: 260, 650
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Fortaleza dos Reis Magos
+rotate: false
+xy: 390, 650
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Salinas de Macau
+rotate: false
+xy: 520, 650
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+BuildingIcons/Oficinas de Sal do Açu
+rotate: false
+xy: 650, 650
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ImprovementIcons/Remove Forest
+rotate: false
+xy: 0, 790
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Remove Jungle
+rotate: false
+xy: 102, 790
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ImprovementIcons/Remove Marsh
+rotate: false
+xy: 204, 790
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Empresas Comerciais Ativas
+rotate: false
+xy: 306, 790
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Empresas Industriais Ativas
+rotate: false
+xy: 408, 790
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Empresas Financeiras Ativas
+rotate: false
+xy: 510, 790
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+ResourceIcons/Empresas Coloniais Ativas
+rotate: false
+xy: 612, 790
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1

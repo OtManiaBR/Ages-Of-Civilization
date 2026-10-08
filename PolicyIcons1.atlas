@@ -1,0 +1,2343 @@
+PolicyIcons1.png
+size: 1024, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyBranchIcons/Leis e Estado
+rotate: false
+xy: 384, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Leis e Estado
+rotate: false
+xy: 384, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselho dos Clãs
+rotate: false
+xy: 896, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselho dos Nobres
+rotate: false
+xy: 640, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselho Sacerdotal
+rotate: false
+xy: 384, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Terras Comunais
+rotate: false
+xy: 128, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Privilégios da Nobreza
+rotate: false
+xy: 512, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Culto Estatal
+rotate: false
+xy: 256, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Código Tribal
+rotate: false
+xy: 512, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Lei Aristocrática
+rotate: false
+xy: 384, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Lei Sagrada
+rotate: false
+xy: 768, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Assembleia Cívica
+rotate: false
+xy: 768, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselho Real
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselho Confederativo
+rotate: false
+xy: 512, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Magistraturas
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Sucessão Hereditária
+rotate: false
+xy: 0, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Pacto Confederativo
+rotate: false
+xy: 512, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/República de Cidadãos
+rotate: false
+xy: 384, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Exército da Coroa
+rotate: false
+xy: 256, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Autonomia dos Membros
+rotate: false
+xy: 768, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Carta de Direitos
+rotate: false
+xy: 512, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Chancelaria Imperial
+rotate: false
+xy: 512, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselho Federal
+rotate: false
+xy: 0, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Senado Permanente
+rotate: false
+xy: 896, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Administração Provincial
+rotate: false
+xy: 0, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Pacto Federal
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Cidadania Universal
+rotate: false
+xy: 256, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Exército Imperial
+rotate: false
+xy: 896, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Autonomia Regional
+rotate: false
+xy: 256, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Parlamento Nacional
+rotate: false
+xy: 384, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Serviço Nacional
+rotate: false
+xy: 512, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Proteção Social
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Direitos Civis
+rotate: false
+xy: 768, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Planejamento Industrial
+rotate: false
+xy: 640, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Educação Pública
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Mercado Nacional
+rotate: false
+xy: 256, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Mobilização Estatal
+rotate: false
+xy: 128, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Serviços Comunitários
+rotate: false
+xy: 128, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Cidadania Digital
+rotate: false
+xy: 256, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselho Técnico
+rotate: false
+xy: 512, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Redes Comunitárias
+rotate: false
+xy: 0, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Transparência Pública
+rotate: false
+xy: 128, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Planejamento Algorítmico
+rotate: false
+xy: 0, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Serviços Universais
+rotate: false
+xy: 384, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Participação em Rede
+rotate: false
+xy: 384, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Administração por Dados
+rotate: false
+xy: 512, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselhos Participativos
+rotate: false
+xy: 896, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Corte Dinástica
+rotate: false
+xy: 512, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Casa Real
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Casa Aristocrática
+rotate: false
+xy: 384, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Casa de Estado
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Casamento Real
+rotate: false
+xy: 384, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Casamento Aristocrático
+rotate: false
+xy: 384, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Casamento de Estado
+rotate: false
+xy: 384, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reivindicação Real
+rotate: false
+xy: 256, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reivindicação Aristocrática
+rotate: false
+xy: 768, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reivindicação de Estado
+rotate: false
+xy: 0, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/União Real
+rotate: false
+xy: 512, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/União Aristocrática
+rotate: false
+xy: 512, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/União de Estado
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Integração Real
+rotate: false
+xy: 256, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Integração Aristocrática
+rotate: false
+xy: 0, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Integração de Estado
+rotate: false
+xy: 0, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Diplomacia Dinástica
+rotate: false
+xy: 640, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Estatuto de Proteção
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Pacto de Aliança
+rotate: false
+xy: 512, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Casamento Dinástico
+rotate: false
+xy: 384, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Estatuto de Integração
+rotate: false
+xy: 256, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Questão Religiosa
+rotate: false
+xy: 768, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Religião de Estado
+rotate: false
+xy: 384, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tolerância Religiosa
+rotate: false
+xy: 0, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Estado Laico
+rotate: false
+xy: 768, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Regime Religioso
+rotate: false
+xy: 768, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Patronato Religioso
+rotate: false
+xy: 384, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Academias Confessionais
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Clero Imperial
+rotate: false
+xy: 640, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Governo Sacro
+rotate: false
+xy: 128, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Liberdade Religiosa
+rotate: false
+xy: 640, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Clero Nacional
+rotate: false
+xy: 640, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Educação Confessional
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Sínodo Imperial
+rotate: false
+xy: 896, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tribunais Religiosos
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Pluralismo Religioso
+rotate: false
+xy: 768, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Questão da Reforma
+rotate: false
+xy: 128, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reafirmação da Tradição
+rotate: false
+xy: 256, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reforma Interna
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ecumenismo
+rotate: false
+xy: 768, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Legações Permanentes
+rotate: false
+xy: 768, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Sistema de Dependências
+rotate: false
+xy: 256, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Protetorados
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Sistema Tributário
+rotate: false
+xy: 896, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Governos Fantoches
+rotate: false
+xy: 0, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conferência das Potências
+rotate: false
+xy: 896, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Blocos de Poder
+rotate: false
+xy: 0, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Hegemonia Diplomática
+rotate: false
+xy: 640, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/República
+rotate: false
+xy: 384, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Monarquia
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Teocracia / Estado Sacral
+rotate: false
+xy: 384, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Confederação
+rotate: false
+xy: 512, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Constitucionalismo
+rotate: false
+xy: 512, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Império
+rotate: false
+xy: 640, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Federalismo
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Estado Nacional
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Liberalismo
+rotate: false
+xy: 128, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Nacionalismo
+rotate: false
+xy: 256, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Socialismo / Comunismo
+rotate: false
+xy: 128, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Democracia
+rotate: false
+xy: 512, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Autoritarismo
+rotate: false
+xy: 896, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Estado Social
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Totalitarismo
+rotate: false
+xy: 896, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tecnocracia
+rotate: false
+xy: 896, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Estado Digital
+rotate: false
+xy: 256, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Esfera de Influência
+rotate: false
+xy: 768, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Governo Global
+rotate: false
+xy: 256, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Federação
+rotate: false
+xy: 256, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Propriedade Social
+rotate: false
+xy: 384, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Planejamento Econômico
+rotate: false
+xy: 256, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Cooperativas de Produção
+rotate: false
+xy: 512, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselhos Operários
+rotate: false
+xy: 128, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Saúde Pública
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Educação Pública Universal
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Previdência Universal
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Seguro-Desemprego
+rotate: false
+xy: 256, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Serviços Públicos Integrados
+rotate: false
+xy: 384, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Leis e Estado Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Regime de Trabalho
+rotate: false
+xy: 128, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Regime de Trabalho
+rotate: false
+xy: 128, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Escravidão Legalizada
+rotate: false
+xy: 512, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Comércio de Escravos
+rotate: false
+xy: 0, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Economia Escravista
+rotate: false
+xy: 384, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reformas Abolicionistas
+rotate: false
+xy: 128, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Abolição
+rotate: false
+xy: 640, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Abolição Negociada
+rotate: false
+xy: 512, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Abolição Imediata
+rotate: false
+xy: 640, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Emancipação Gradual
+rotate: false
+xy: 128, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Servidão Legalizada
+rotate: false
+xy: 512, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Obrigações Senhoriais
+rotate: false
+xy: 512, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Domínio Senhorial
+rotate: false
+xy: 640, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Corveia e Rendas
+rotate: false
+xy: 384, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Justiça Senhorial
+rotate: false
+xy: 768, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Registros Senhoriais
+rotate: false
+xy: 512, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Comutação de Obrigações
+rotate: false
+xy: 256, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Arrendamento Rural
+rotate: false
+xy: 128, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reforma Servil
+rotate: false
+xy: 256, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Direitos Camponeses
+rotate: false
+xy: 0, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Emancipação Camponesa
+rotate: false
+xy: 640, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Abolição da Servidão
+rotate: false
+xy: 640, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Propriedade Camponesa
+rotate: false
+xy: 128, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Trabalho Assalariado
+rotate: false
+xy: 256, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Mercado de Trabalho
+rotate: false
+xy: 0, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Associações Profissionais
+rotate: false
+xy: 512, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Contratos de Trabalho
+rotate: false
+xy: 384, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Mobilidade do Trabalho
+rotate: false
+xy: 128, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Proteção Trabalhista
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Organização Trabalhista
+rotate: false
+xy: 128, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Negociação Coletiva
+rotate: false
+xy: 512, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Jornada de Trabalho
+rotate: false
+xy: 896, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Sindicalismo
+rotate: false
+xy: 0, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Direitos Trabalhistas
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Legislação Fabril
+rotate: false
+xy: 640, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Seguridade do Trabalho
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Seguro Operário
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Mercado Camponês
+rotate: false
+xy: 128, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conselhos Rurais
+rotate: false
+xy: 896, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reforma Agrária
+rotate: false
+xy: 128, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Salário Mínimo
+rotate: false
+xy: 384, 0
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Arbitragem Trabalhista
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Previdência Social
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Formação Profissional
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Inspeção do Trabalho
+rotate: false
+xy: 896, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Cooperativas de Trabalho
+rotate: false
+xy: 768, 512
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Acordos Setoriais
+rotate: false
+xy: 512, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tribunais do Trabalho
+rotate: false
+xy: 128, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Regime de Trabalho Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Akan
+rotate: false
+xy: 256, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Akan
+rotate: false
+xy: 256, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Nyame e os Ancestrais
+rotate: false
+xy: 256, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Trono de Ouro
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Abosom e Terra
+rotate: false
+xy: 128, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Memória dos Ancestrais
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tesouro do Trono
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Bosques Sagrados
+rotate: false
+xy: 128, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tambores Falantes
+rotate: false
+xy: 128, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Akan Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Ancestral
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Ancestral
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição dos Antepassados
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Autoridade Sagrada
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ciclo Agrário
+rotate: false
+xy: 128, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Memória Oral
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reis-Sacerdotes
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Celeiros Comunais
+rotate: false
+xy: 128, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Griôs e Conselheiros
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Ancestral Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Anglicana
+rotate: false
+xy: 640, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Anglicana
+rotate: false
+xy: 640, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Igreja Estabelecida
+rotate: false
+xy: 640, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Coroa e Altar
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Via Média Nacional
+rotate: false
+xy: 640, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Colégios e Universidades
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Supremacia Real
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Paróquias e Vicariatos
+rotate: false
+xy: 640, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Universidades e Catedrais
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Anglicana Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Budista
+rotate: false
+xy: 640, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Budista
+rotate: false
+xy: 640, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Três Joias
+rotate: false
+xy: 640, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Sangha Monástica
+rotate: false
+xy: 0, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Realeza Budista
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Compaixão e Caridade
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Universidades Monásticas
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Dhammaraja
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Hospedarias dos Monges
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Budista Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Católica
+rotate: false
+xy: 256, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Católica
+rotate: false
+xy: 256, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Cristandade Católica
+rotate: false
+xy: 256, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Patronato Régio
+rotate: false
+xy: 256, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ordens Religiosas
+rotate: false
+xy: 0, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Obras de Misericórdia
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Concordata
+rotate: false
+xy: 256, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Universidades Católicas
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Santas Casas
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Católica Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Confuciana
+rotate: false
+xy: 256, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Confuciana
+rotate: false
+xy: 256, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Mandato Confuciano
+rotate: false
+xy: 256, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Exames Imperiais
+rotate: false
+xy: 768, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Filialidade e Ordem
+rotate: false
+xy: 256, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Mérito e Burocracia
+rotate: false
+xy: 768, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Academias Imperiais
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ritos Ancestrais
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Censo e Registro
+rotate: false
+xy: 768, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Confuciana Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Hindu
+rotate: false
+xy: 512, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Hindu
+rotate: false
+xy: 512, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Dharma
+rotate: false
+xy: 512, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Patrocínio dos Templos
+rotate: false
+xy: 512, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Mathas e Ordens Ascéticas
+rotate: false
+xy: 0, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Comunidades Devocionais
+rotate: false
+xy: 512, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Grandes Templos e Festivais
+rotate: false
+xy: 128, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Gurukulas e Mathas
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Melas e Peregrinações
+rotate: false
+xy: 128, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Hindu Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Ibadita
+rotate: false
+xy: 768, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Ibadita
+rotate: false
+xy: 768, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Comunidade Ibadita
+rotate: false
+xy: 768, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Imamato e Shura
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Comércio e Mar
+rotate: false
+xy: 896, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Escolas de Estudo
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Imã Eleito
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Frotas e Entrepostos
+rotate: false
+xy: 896, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Jurisprudência Ibadita
+rotate: false
+xy: 512, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Ibadita Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Iorubá
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Iorubá
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Orixás e Cidades
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ṣàngó e a Realeza
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ifá e os Babalaôs
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Egúngún e Comunidade
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Cavaleiros do Alaafin
+rotate: false
+xy: 896, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Babalaôs Conselheiros
+rotate: false
+xy: 768, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Festivais de Máscaras
+rotate: false
+xy: 128, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Iorubá Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Ortodoxa
+rotate: false
+xy: 384, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Ortodoxa
+rotate: false
+xy: 384, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Fé Ortodoxa
+rotate: false
+xy: 384, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Sinfonia Igreja-Estado
+rotate: false
+xy: 384, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Mosteiros e Escrituras
+rotate: false
+xy: 512, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ícones e Liturgia
+rotate: false
+xy: 384, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Autocefalia
+rotate: false
+xy: 384, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Scriptoria Monásticos
+rotate: false
+xy: 512, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Procissões e Catedrais
+rotate: false
+xy: 128, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Ortodoxa Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Protestante
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Protestante
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Reforma e Escrituras
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Igrejas Nacionais
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Educação Universal
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Vocação e Labor
+rotate: false
+xy: 640, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Consistório
+rotate: false
+xy: 896, 640
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Escolas Paroquiais e Universidades
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Espírito de Empreendimento
+rotate: false
+xy: 896, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Protestante Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Sikh
+rotate: false
+xy: 0, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Sikh
+rotate: false
+xy: 0, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Panth Sikh
+rotate: false
+xy: 0, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ordem do Khalsa
+rotate: false
+xy: 896, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Seva e Langar
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Guru Granth
+rotate: false
+xy: 512, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Guerreiros-Santos
+rotate: false
+xy: 896, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Gurdwaras Comunitários
+rotate: false
+xy: 0, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Escolas Gurmukhi
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Sikh Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Sunita
+rotate: false
+xy: 384, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Sunita
+rotate: false
+xy: 384, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Comunidade Sunita
+rotate: false
+xy: 384, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Jurisprudência e Estado
+rotate: false
+xy: 512, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Waqf e Caridade
+rotate: false
+xy: 896, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Madrasas
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Cádis e Tribunais
+rotate: false
+xy: 768, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Hospitais e Fontes Pias
+rotate: false
+xy: 0, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Casas da Sabedoria
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Sunita Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Vodun
+rotate: false
+xy: 128, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Vodun
+rotate: false
+xy: 128, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Voduns e Linhagens
+rotate: false
+xy: 128, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Culto Real dos Voduns
+rotate: false
+xy: 896, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Voduns da Guerra
+rotate: false
+xy: 896, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Sociedades Religiosas
+rotate: false
+xy: 128, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Costumes Reais
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Consagração das Armas
+rotate: false
+xy: 896, 128
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Conventos de Iniciados
+rotate: false
+xy: 128, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Vodun Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Xiita
+rotate: false
+xy: 256, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Xiita
+rotate: false
+xy: 256, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Imamita
+rotate: false
+xy: 256, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ulemás e Marja'iyya
+rotate: false
+xy: 256, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Justiça e Equidade
+rotate: false
+xy: 768, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Escolas de Najaf e Qom
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Marja' e Fiéis
+rotate: false
+xy: 256, 768
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tribunais de Equidade
+rotate: false
+xy: 768, 1024
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Seminários (Hawza)
+rotate: false
+xy: 640, 256
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Xiita Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyBranchIcons/Tradição Xinto
+rotate: false
+xy: 768, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Xinto
+rotate: false
+xy: 768, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Caminho dos Kami
+rotate: false
+xy: 768, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Santuários do Estado
+rotate: false
+xy: 768, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Pureza e Ritual
+rotate: false
+xy: 256, 384
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Ancestralidade e Clã
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Grandes Santuários
+rotate: false
+xy: 768, 1280
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Festivais Matsuri
+rotate: false
+xy: 128, 896
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Casa e Linhagem
+rotate: false
+xy: 128, 1408
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+PolicyIcons/Tradição Xinto Complete
+rotate: false
+xy: 640, 1152
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
