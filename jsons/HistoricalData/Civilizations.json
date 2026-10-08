@@ -1,0 +1,74 @@
+[
+  {
+    "id": "civilization_egyptian",
+    "name": "Egípcia",
+    "era": "ANTIGUIDADE",
+    "tags": [
+      "Nile",
+      "AncientState"
+    ]
+  },
+  {
+    "id": "civilization_macedonian",
+    "name": "Macedônica",
+    "era": "ANTIGUIDADE",
+    "tags": [
+      "Hellenic",
+      "Kingdom"
+    ]
+  },
+  {
+    "id": "civilization_persian",
+    "name": "Persa",
+    "era": "ANTIGUIDADE",
+    "tags": [
+      "Iranian",
+      "Imperial"
+    ]
+  },
+  {
+    "id": "civilization_roman",
+    "name": "Romana",
+    "era": "ANTIGUIDADE",
+    "tags": [
+      "Italic",
+      "Imperial"
+    ]
+  },
+  {
+    "id": "civilization_carthaginian",
+    "name": "Cartaginesa",
+    "era": "ANTIGUIDADE",
+    "tags": [
+      "Punic",
+      "Maritime"
+    ]
+  },
+  {
+    "id": "civilization_chinese",
+    "name": "Chinesa",
+    "era": "ANTIGUIDADE",
+    "tags": [
+      "Sinitic",
+      "Imperial"
+    ]
+  },
+  {
+    "id": "civilization_indian",
+    "name": "Indiana",
+    "era": "ANTIGUIDADE",
+    "tags": [
+      "Indic",
+      "Subcontinental"
+    ]
+  },
+  {
+    "id": "civilization_phoenician",
+    "name": "Fenícia",
+    "era": "ANTIGUIDADE",
+    "tags": [
+      "Levantine",
+      "Maritime"
+    ]
+  }
+]

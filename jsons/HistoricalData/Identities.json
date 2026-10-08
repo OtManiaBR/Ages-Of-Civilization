@@ -1,0 +1,42 @@
+[
+  {
+    "id": "identity_egyptian",
+    "name": "Identidade Egípcia",
+    "civilizationId": "civilization_egyptian"
+  },
+  {
+    "id": "identity_macedonian",
+    "name": "Identidade Macedônica",
+    "civilizationId": "civilization_macedonian"
+  },
+  {
+    "id": "identity_persian",
+    "name": "Identidade Persa",
+    "civilizationId": "civilization_persian"
+  },
+  {
+    "id": "identity_roman",
+    "name": "Identidade Romana",
+    "civilizationId": "civilization_roman"
+  },
+  {
+    "id": "identity_carthaginian",
+    "name": "Identidade Cartaginesa",
+    "civilizationId": "civilization_carthaginian"
+  },
+  {
+    "id": "identity_chinese",
+    "name": "Identidade Chinesa",
+    "civilizationId": "civilization_chinese"
+  },
+  {
+    "id": "identity_indian",
+    "name": "Identidade Indiana",
+    "civilizationId": "civilization_indian"
+  },
+  {
+    "id": "identity_phoenician",
+    "name": "Identidade Fenícia",
+    "civilizationId": "civilization_phoenician"
+  }
+]

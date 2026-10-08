@@ -1,0 +1,2068 @@
+[
+  {
+    "columnNumber": 0,
+    "era": "Pré-História",
+    "techCost": 20,
+    "buildingCost": 120,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Agricultura",
+        "row": 10,
+        "cost": 20,
+        "civilopediaText": [
+          {
+            "text": "Agricultura representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 1,
+    "era": "Antiguidade",
+    "techCost": 30,
+    "buildingCost": 180,
+    "wonderCost": 500,
+    "techs": [
+      {
+        "name": "Arco e Flecha",
+        "row": 9,
+        "cost": 30,
+        "prerequisites": [
+          "Agricultura"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Arco e Flecha representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Criação de Animais",
+        "row": 6,
+        "cost": 40,
+        "prerequisites": [
+          "Agricultura"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Criação de Animais representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Cerâmica",
+        "row": 11,
+        "cost": 25,
+        "prerequisites": [
+          "Agricultura"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Cerâmica representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Mineração",
+        "row": 5,
+        "cost": 35,
+        "prerequisites": [
+          "Agricultura"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Mineração representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 2,
+    "era": "Antiguidade",
+    "techCost": 40,
+    "buildingCost": 180,
+    "wonderCost": 500,
+    "techs": [
+      {
+        "name": "Roda",
+        "row": 7,
+        "cost": 50,
+        "prerequisites": [
+          "Criação de Animais"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Roda representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Escrita",
+        "row": 14,
+        "cost": 40,
+        "prerequisites": [
+          "Cerâmica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Escrita representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Navegação",
+        "row": 8,
+        "cost": 35,
+        "prerequisites": [
+          "Cerâmica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Navegação representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História de Mônaco] event <for [Mônaco] Civilizations>",
+          "Triggers a [História da Cidade Livre de Bremen] event <for [Cidade Livre de Bremen] Civilizations>",
+          "Triggers a [História da Cidade Livre de Hamburgo] event <for [Cidade Livre de Hamburgo] Civilizations>",
+          "Triggers a [História da Cidade Livre de Lübeck] event <for [Cidade Livre de Lübeck] Civilizations>",
+          "Triggers a [História do Grão-Ducado de Oldenburg] event <for [Grão-Ducado de Oldenburg] Civilizations>",
+          "Triggers a [História do Uruguai] event <for [Uruguai] Civilizations>",
+          "Triggers a [História do Reino do Havaí] event <for [Reino do Havaí] Civilizations>",
+          "Triggers a [História de Brunei] event <for [Brunei] Civilizations>",
+          "Triggers a [História do Sultanato de Aceh] event <for [Sultanato de Aceh] Civilizations>",
+          "Triggers a [História do Sultanato de Johor] event <for [Sultanato de Johor] Civilizations>",
+          "Triggers a [História do Sultanato de Sulu] event <for [Sultanato de Sulu] Civilizations>",
+          "Triggers a [História de Zanzibar] event <for [Zanzibar] Civilizations>",
+          "Triggers a [Comércio de Ópio e Interesses Britânicos] event <for [Reino Unido] Civilizations>",
+          "Triggers a [Macau e a Tensão Comercial no Sul da China] event <for [Reino de Portugal] Civilizations>",
+          "Triggers a [História do Reino Unido] event <for [Reino Unido] Civilizations>",
+          "Triggers a [História do Império Otomano] event <for [Império Otomano] Civilizations>",
+          "Triggers a [História do Reino de Portugal] event <for [Reino de Portugal] Civilizations>",
+          "Triggers a [História do Reino da Dinamarca] event <for [Reino da Dinamarca] Civilizations>",
+          "Triggers a [História do Reino das Duas Sicílias] event <for [Reino das Duas Sicílias] Civilizations>",
+          "Triggers a [História da República do Chile] event <for [República do Chile] Civilizations>",
+          "Triggers a [História da Anglia Oriental] event <for [Anglia Oriental] Civilizations>",
+          "Triggers a [História da Bretanha] event <for [Bretanha] Civilizations>",
+          "Triggers a [História do Império do Mar do Norte] event <for [Império do Mar do Norte] Civilizations>"
+        ]
+      },
+      {
+        "name": "Metalurgia",
+        "row": 3,
+        "cost": 45,
+        "prerequisites": [
+          "Mineração"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Metalurgia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História do Império Russo] event <for [Império Russo] Civilizations>",
+          "Triggers a [História do Reino da Prússia] event <for [Reino da Prússia] Civilizations>",
+          "Triggers a [História do Reino da Suécia] event <for [Reino da Suécia] Civilizations>",
+          "Triggers a [História da República Rio-Grandense] event <for [República Rio-Grandense] Civilizations>",
+          "Triggers a [História do Reino da Saxônia] event <for [Reino da Saxônia] Civilizations>",
+          "Triggers a [História do Principado de Gales] event <for [Principado de Gales] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 3,
+    "era": "Antiguidade",
+    "techCost": 50,
+    "buildingCost": 180,
+    "wonderCost": 500,
+    "techs": [
+      {
+        "name": "Matemática",
+        "row": 9,
+        "cost": 60,
+        "prerequisites": [
+          "Arco e Flecha",
+          "Roda"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Matemática representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Cavalaria",
+        "row": 6,
+        "cost": 55,
+        "prerequisites": [
+          "Roda"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Cavalaria representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História do Principado de Montenegro] event <for [Principado de Montenegro] Civilizations>",
+          "Triggers a [História do Nepal] event <for [Nepal] Civilizations>",
+          "Triggers a [História da República do Texas] event <for [República do Texas] Civilizations>",
+          "Triggers a [História do Emirado do Afeganistão] event <for [Emirado do Afeganistão] Civilizations>",
+          "Triggers a [História do Império de Bornu] event <for [Império de Bornu] Civilizations>",
+          "Triggers a [História do Império de Oió] event <for [Império de Oió] Civilizations>"
+        ]
+      },
+      {
+        "name": "Moeda",
+        "row": 11,
+        "cost": 50,
+        "prerequisites": [
+          "Escrita"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Moeda representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Alvenaria",
+        "row": 5,
+        "cost": 45,
+        "prerequisites": [
+          "Mineração"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Alvenaria representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 4,
+    "era": "Antiguidade",
+    "techCost": 70,
+    "buildingCost": 180,
+    "wonderCost": 500,
+    "techs": [
+      {
+        "name": "Engenharia",
+        "row": 4,
+        "cost": 70,
+        "prerequisites": [
+          "Metalurgia",
+          "Matemática"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Engenharia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Cartografia",
+        "row": 8,
+        "cost": 65,
+        "prerequisites": [
+          "Navegação",
+          "Matemática"
+        ],
+        "uniques": [
+          "Enables embarkation for land units"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Cartografia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Filosofia",
+        "row": 13,
+        "cost": 75,
+        "prerequisites": [
+          "Matemática",
+          "Moeda"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Filosofia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História do Reino da França] event <for [Reino da França] Civilizations>",
+          "Triggers a [História do Grão-Ducado da Toscana] event <for [Grão-Ducado da Toscana] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 5,
+    "era": "Era Clássica",
+    "techCost": 100,
+    "buildingCost": 260,
+    "wonderCost": 700,
+    "techs": [
+      {
+        "name": "Cerco",
+        "row": 5,
+        "cost": 95,
+        "prerequisites": [
+          "Engenharia"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Cerco representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Construção",
+        "row": 6,
+        "cost": 90,
+        "prerequisites": [
+          "Engenharia",
+          "Alvenaria"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Construção representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Agronomia",
+        "row": 10,
+        "cost": 100,
+        "prerequisites": [
+          "Matemática"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Agronomia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História do Paraguai] event <for [Paraguai] Civilizations>",
+          "Triggers a [História do Império do Brasil] event <for [Império do Brasil] Civilizations>",
+          "Triggers a [História da República do Haiti] event <for [República do Haiti] Civilizations>",
+          "Triggers a [História do Egito de Muhammad Ali] event <for [Egito de Muhammad Ali] Civilizations>",
+          "Triggers a [História do Reino de Madagascar] event <for [Reino de Madagascar] Civilizations>",
+          "Triggers a [História do Reino da Irlanda] event <for [Reino da Irlanda] Civilizations>",
+          "Triggers a [História do Estado de Pernambuco] event <for [Estado de Pernambuco] Civilizations>",
+          "Triggers a [História do Estado de Alagoas] event <for [Estado de Alagoas] Civilizations>",
+          "Triggers a [História do Estado de Sergipe] event <for [Estado de Sergipe] Civilizations>",
+          "Triggers a [História do Estado do Piauí] event <for [Estado do Piauí] Civilizations>",
+          "Triggers a [História do Estado da Paraíba] event <for [Estado da Paraíba] Civilizations>",
+          "Triggers a [História da República Rio-Grandense do Norte] event <for [República Rio-Grandense do Norte] Civilizations>",
+          "Triggers a [História dos Estados Confederados da América] event <for [Estados Confederados da América] Civilizations>"
+        ]
+      },
+      {
+        "name": "Direito",
+        "row": 16,
+        "cost": 105,
+        "prerequisites": [
+          "Filosofia"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Direito representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 6,
+    "era": "Era Clássica",
+    "techCost": 130,
+    "buildingCost": 260,
+    "wonderCost": 700,
+    "techs": [
+      {
+        "name": "Metalurgia Avançada",
+        "row": 3,
+        "cost": 125,
+        "prerequisites": [
+          "Engenharia"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Metalurgia Avançada representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Retórica",
+        "row": 15,
+        "cost": 120,
+        "prerequisites": [
+          "Filosofia"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Retórica representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Administração",
+        "row": 12,
+        "cost": 140,
+        "prerequisites": [
+          "Filosofia"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Administração representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino da Etiópia] event <for [Reino da Etiópia] Civilizations>",
+          "Triggers a [Consolidação do Reino de Madagascar] event <for [Reino de Madagascar] Civilizations>",
+          "Triggers a [História de Andorra] event <for [Andorra] Civilizations>",
+          "Triggers a [História de San Marino] event <for [San Marino] Civilizations>",
+          "Triggers a [História de Liechtenstein] event <for [Liechtenstein] Civilizations>",
+          "Triggers a [História de Luxemburgo] event <for [Luxemburgo] Civilizations>",
+          "Triggers a [História do Grão-Ducado de Baden] event <for [Grão-Ducado de Baden] Civilizations>",
+          "Triggers a [História do Ducado de Brunswick] event <for [Ducado de Brunswick] Civilizations>",
+          "Triggers a [História do Ducado de Nassau] event <for [Ducado de Nassau] Civilizations>",
+          "Triggers a [História do Principado da Sérvia] event <for [Principado da Sérvia] Civilizations>",
+          "Triggers a [História do Principado da Moldávia] event <for [Principado da Moldávia] Civilizations>",
+          "Triggers a [História do Principado da Valáquia] event <for [Principado da Valáquia] Civilizations>",
+          "Triggers a [Consolidação do Butão] event <for [Butão] Civilizations>",
+          "Triggers a [Consolidação do Nepal] event <for [Nepal] Civilizations>",
+          "Triggers a [Mercadores Americanos no Comércio da China] event <for [Estados Unidos da América] Civilizations>",
+          "Triggers a [História do Império Austríaco] event <for [Império Austríaco] Civilizations>",
+          "Triggers a [História do Reino da Baviera] event <for [Reino da Baviera] Civilizations>",
+          "Triggers a [História do Reino da Sardenha-Piemonte] event <for [Reino da Sardenha-Piemonte] Civilizations>",
+          "Triggers a [História dos Estados Unidos da América] event <for [Estados Unidos da América] Civilizations>",
+          "Triggers a [História da República do México] event <for [República do México] Civilizations>",
+          "Triggers a [História da Confederação Argentina] event <for [Confederação Argentina] Civilizations>",
+          "Triggers a [História da Confederação Peru-Boliviana] event <for [Confederação Peru-Boliviana] Civilizations>",
+          "Triggers a [História do Xogunato Tokugawa] event <for [Xogunato Tokugawa] Civilizations>",
+          "Triggers a [História do Reino de Hanôver] event <for [Reino de Hanôver] Civilizations>",
+          "Triggers a [História do Reino de Württemberg] event <for [Reino de Württemberg] Civilizations>",
+          "Triggers a [História da República da Nova Granada] event <for [República da Nova Granada] Civilizations>",
+          "Triggers a [História do Reino da Escócia] event <for [Reino da Escócia] Civilizations>",
+          "Triggers a [História do Reino da Polônia] event <for [Reino da Polônia] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 7,
+    "era": "Antiguidade Tardia",
+    "techCost": 165,
+    "buildingCost": 350,
+    "wonderCost": 850,
+    "techs": [
+      {
+        "name": "Estratégia",
+        "row": 5,
+        "cost": 170,
+        "prerequisites": [
+          "Metalurgia Avançada",
+          "Cerco"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Estratégia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Emirado do Afeganistão] event <for [Emirado do Afeganistão] Civilizations>",
+          "Triggers a [Consolidação do Império Sikh] event <for [Império Sikh] Civilizations>",
+          "Triggers a [História do Império Sikh] event <for [Império Sikh] Civilizations>"
+        ]
+      },
+      {
+        "name": "Engenharia Hidráulica",
+        "row": 11,
+        "cost": 145,
+        "prerequisites": [
+          "Agronomia",
+          "Construção"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Engenharia Hidráulica representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Teologia Antiga",
+        "row": 14,
+        "cost": 175,
+        "prerequisites": [
+          "Filosofia"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Teologia Antiga representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Religião do Reino Unido] event <for [Reino Unido] Civilizations>",
+          "Triggers a [Religião do Reino da França] event <for [Reino da França] Civilizations>",
+          "Triggers a [Religião do Império Russo] event <for [Império Russo] Civilizations>",
+          "Triggers a [Religião do Império Austríaco] event <for [Império Austríaco] Civilizations>",
+          "Triggers a [Religião do Reino da Prússia] event <for [Reino da Prússia] Civilizations>",
+          "Triggers a [Religião do Império Otomano] event <for [Império Otomano] Civilizations>",
+          "Triggers a [Religião do Reino da Espanha] event <for [Reino da Espanha] Civilizations>",
+          "Triggers a [Religião do Reino de Portugal] event <for [Reino de Portugal] Civilizations>",
+          "Triggers a [Religião do Reino dos Países Baixos] event <for [Reino dos Países Baixos] Civilizations>",
+          "Triggers a [Religião do Reino da Bélgica] event <for [Reino da Bélgica] Civilizations>",
+          "Triggers a [Religião do Reino da Suécia] event <for [Reino da Suécia] Civilizations>",
+          "Triggers a [Religião do Reino da Dinamarca] event <for [Reino da Dinamarca] Civilizations>",
+          "Triggers a [Religião do Reino da Baviera] event <for [Reino da Baviera] Civilizations>",
+          "Triggers a [Religião do Reino da Sardenha-Piemonte] event <for [Reino da Sardenha-Piemonte] Civilizations>",
+          "Triggers a [Religião do Reino das Duas Sicílias] event <for [Reino das Duas Sicílias] Civilizations>",
+          "Triggers a [Religião do Império do Brasil] event <for [Império do Brasil] Civilizations>",
+          "Triggers a [Religião dos Estados Unidos da América] event <for [Estados Unidos da América] Civilizations>",
+          "Triggers a [Religião da República do México] event <for [República do México] Civilizations>",
+          "Triggers a [Religião da República do Texas] event <for [República do Texas] Civilizations>",
+          "Triggers a [Religião da Confederação Argentina] event <for [Confederação Argentina] Civilizations>",
+          "Triggers a [Religião da República do Chile] event <for [República do Chile] Civilizations>",
+          "Triggers a [Religião da Confederação Peru-Boliviana] event <for [Confederação Peru-Boliviana] Civilizations>",
+          "Triggers a [Religião da República do Haiti] event <for [República do Haiti] Civilizations>",
+          "Triggers a [Religião da Grande Qing] event <for [Grande Qing] Civilizations>",
+          "Triggers a [Religião do Xogunato Tokugawa] event <for [Xogunato Tokugawa] Civilizations>",
+          "Triggers a [Religião da Pérsia Qajar] event <for [Pérsia Qajar] Civilizations>",
+          "Triggers a [Religião do Emirado do Afeganistão] event <for [Emirado do Afeganistão] Civilizations>",
+          "Triggers a [Religião do Egito de Muhammad Ali] event <for [Egito de Muhammad Ali] Civilizations>",
+          "Triggers a [Religião do Sultanato de Marrocos] event <for [Sultanato de Marrocos] Civilizations>",
+          "Triggers a [Religião do Reino do Sião] event <for [Reino do Sião] Civilizations>",
+          "Triggers a [Religião do Império de Dai Nam] event <for [Império de Dai Nam] Civilizations>",
+          "Triggers a [Religião do Reino de Joseon] event <for [Reino de Joseon] Civilizations>",
+          "Triggers a [Religião do Império Sikh] event <for [Império Sikh] Civilizations>",
+          "Triggers a [História do Reino da Etiópia] event <for [Reino da Etiópia] Civilizations>",
+          "Triggers a [Religião do Reino da Etiópia] event <for [Reino da Etiópia] Civilizations>",
+          "Triggers a [Religião do Grão-Pará] event <for [Grão-Pará] Civilizations>",
+          "Triggers a [Religião da República Rio-Grandense] event <for [República Rio-Grandense] Civilizations>",
+          "Triggers a [História do Reino da Grécia] event <for [Reino da Grécia] Civilizations>",
+          "Triggers a [Religião do Reino da Grécia] event <for [Reino da Grécia] Civilizations>",
+          "Triggers a [Religião do Reino de Hanôver] event <for [Reino de Hanôver] Civilizations>",
+          "Triggers a [Religião do Reino da Saxônia] event <for [Reino da Saxônia] Civilizations>",
+          "Triggers a [Religião do Reino de Württemberg] event <for [Reino de Württemberg] Civilizations>",
+          "Triggers a [Religião da Confederação Suíça] event <for [Confederação Suíça] Civilizations>",
+          "Triggers a [História dos Estados Pontifícios] event <for [Estados Pontifícios] Civilizations>",
+          "Triggers a [Religião dos Estados Pontifícios] event <for [Estados Pontifícios] Civilizations>",
+          "Triggers a [Religião do Grão-Ducado da Toscana] event <for [Grão-Ducado da Toscana] Civilizations>",
+          "Triggers a [Religião da República da Nova Granada] event <for [República da Nova Granada] Civilizations>",
+          "Triggers a [Religião do Império de Bornu] event <for [Império de Bornu] Civilizations>",
+          "Triggers a [Religião do Império de Oió] event <for [Império de Oió] Civilizations>",
+          "Triggers a [Religião do Reino de Daomé] event <for [Reino de Daomé] Civilizations>",
+          "Triggers a [História do Califado de Sokoto] event <for [Califado de Sokoto] Civilizations>",
+          "Triggers a [Religião do Califado de Sokoto] event <for [Califado de Sokoto] Civilizations>",
+          "Triggers a [Religião do Reino de Madagascar] event <for [Reino de Madagascar] Civilizations>",
+          "Triggers a [Religião do Reino da Inglaterra] event <for [Reino da Inglaterra] Civilizations>",
+          "Triggers a [Religião do Reino da Escócia] event <for [Reino da Escócia] Civilizations>",
+          "Triggers a [Religião do Principado de Gales] event <for [Principado de Gales] Civilizations>",
+          "Triggers a [Religião do Reino da Irlanda] event <for [Reino da Irlanda] Civilizations>",
+          "Triggers a [Religião do Reino da Polônia] event <for [Reino da Polônia] Civilizations>",
+          "Triggers a [Religião do Estado da Bahia] event <for [Estado da Bahia] Civilizations>",
+          "Triggers a [Religião do Estado de Pernambuco] event <for [Estado de Pernambuco] Civilizations>",
+          "Triggers a [Religião do Estado de Alagoas] event <for [Estado de Alagoas] Civilizations>",
+          "Triggers a [Religião do Estado de Sergipe] event <for [Estado de Sergipe] Civilizations>",
+          "Triggers a [Religião do Estado do Piauí] event <for [Estado do Piauí] Civilizations>",
+          "Triggers a [Religião do Estado da Paraíba] event <for [Estado da Paraíba] Civilizations>",
+          "Triggers a [Religião da República Rio-Grandense do Norte] event <for [República Rio-Grandense do Norte] Civilizations>",
+          "Triggers a [Religião da União Soviética] event <for [União Soviética] Civilizations>",
+          "Triggers a [Religião da China Comunista] event <for [China Comunista] Civilizations>",
+          "Triggers a [História do Reino Celestial da China] event <for [Reino Celestial da China] Civilizations>",
+          "Triggers a [Religião do Reino Celestial da China] event <for [Reino Celestial da China] Civilizations>",
+          "Triggers a [Religião de Wessex] event <for [Wessex] Civilizations>",
+          "Triggers a [Religião da Mercia] event <for [Mercia] Civilizations>",
+          "Triggers a [Religião da Northumbria] event <for [Northumbria] Civilizations>",
+          "Triggers a [Religião da Anglia Oriental] event <for [Anglia Oriental] Civilizations>",
+          "Triggers a [Religião da Occitânia] event <for [Occitânia] Civilizations>",
+          "Triggers a [Religião da Bretanha] event <for [Bretanha] Civilizations>",
+          "Triggers a [Religião de Castela] event <for [Castela] Civilizations>",
+          "Triggers a [Religião dos Estados Confederados da América] event <for [Estados Confederados da América] Civilizations>"
+        ]
+      },
+      {
+        "name": "Burocracia",
+        "row": 20,
+        "cost": 165,
+        "prerequisites": [
+          "Administração",
+          "Direito"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Burocracia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 8,
+    "era": "Antiguidade Tardia",
+    "techCost": 200,
+    "buildingCost": 350,
+    "wonderCost": 850,
+    "techs": [
+      {
+        "name": "Comércio Internacional",
+        "row": 10,
+        "cost": 220,
+        "prerequisites": [
+          "Cartografia",
+          "Moeda"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Comércio Internacional representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino da Dinamarca] event <for [Reino da Dinamarca] Civilizations>",
+          "Triggers a [Consolidação da Grande Qing] event <for [Grande Qing] Civilizations>",
+          "Triggers a [Consolidação da Pérsia Qajar] event <for [Pérsia Qajar] Civilizations>",
+          "Triggers a [Consolidação do Sultanato de Marrocos] event <for [Sultanato de Marrocos] Civilizations>",
+          "Triggers a [Consolidação do Reino do Sião] event <for [Reino do Sião] Civilizations>",
+          "Triggers a [Consolidação do Grão-Pará] event <for [Grão-Pará] Civilizations>",
+          "Triggers a [Consolidação do Império de Bornu] event <for [Império de Bornu] Civilizations>",
+          "Triggers a [Consolidação do Império de Oió] event <for [Império de Oió] Civilizations>",
+          "Triggers a [Consolidação do Reino de Daomé] event <for [Reino de Daomé] Civilizations>",
+          "Triggers a [Consolidação do Califado de Sokoto] event <for [Califado de Sokoto] Civilizations>",
+          "Triggers a [Consolidação de Andorra] event <for [Andorra] Civilizations>",
+          "Triggers a [Consolidação de San Marino] event <for [San Marino] Civilizations>",
+          "Triggers a [Consolidação de Liechtenstein] event <for [Liechtenstein] Civilizations>",
+          "Triggers a [Consolidação do Reino do Havaí] event <for [Reino do Havaí] Civilizations>",
+          "Triggers a [História do Emirado de Bucara] event <for [Emirado de Bucara] Civilizations>",
+          "Triggers a [História do Canato de Khiva] event <for [Canato de Khiva] Civilizations>",
+          "Triggers a [História do Canato de Cocande] event <for [Canato de Cocande] Civilizations>",
+          "Triggers a [Consolidação de Brunei] event <for [Brunei] Civilizations>",
+          "Triggers a [Consolidação do Sultanato de Aceh] event <for [Sultanato de Aceh] Civilizations>",
+          "Triggers a [Consolidação do Sultanato de Johor] event <for [Sultanato de Johor] Civilizations>",
+          "Triggers a [Consolidação do Sultanato de Sulu] event <for [Sultanato de Sulu] Civilizations>",
+          "Triggers a [Consolidação de Zanzibar] event <for [Zanzibar] Civilizations>",
+          "Triggers a [Consolidação do Estado da Bahia] event <for [Estado da Bahia] Civilizations>",
+          "Triggers a [Consolidação do Estado de Pernambuco] event <for [Estado de Pernambuco] Civilizations>",
+          "Triggers a [Consolidação do Estado da Paraíba] event <for [Estado da Paraíba] Civilizations>",
+          "Triggers a [Consolidação da República Rio-Grandense do Norte] event <for [República Rio-Grandense do Norte] Civilizations>",
+          "Triggers a [História do Reino dos Países Baixos] event <for [Reino dos Países Baixos] Civilizations>",
+          "Triggers a [História da Grande Qing] event <for [Grande Qing] Civilizations>",
+          "Triggers a [História da Pérsia Qajar] event <for [Pérsia Qajar] Civilizations>",
+          "Triggers a [História do Sultanato de Marrocos] event <for [Sultanato de Marrocos] Civilizations>",
+          "Triggers a [História do Reino do Sião] event <for [Reino do Sião] Civilizations>",
+          "Triggers a [História do Grão-Pará] event <for [Grão-Pará] Civilizations>",
+          "Triggers a [História do Reino de Daomé] event <for [Reino de Daomé] Civilizations>",
+          "Triggers a [História do Estado da Bahia] event <for [Estado da Bahia] Civilizations>"
+        ]
+      },
+      {
+        "name": "Administração Imperial",
+        "row": 18,
+        "cost": 190,
+        "prerequisites": [
+          "Burocracia",
+          "Engenharia Hidráulica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Administração Imperial representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Império Russo] event <for [Império Russo] Civilizations>",
+          "Triggers a [Consolidação do Império Austríaco] event <for [Império Austríaco] Civilizations>",
+          "Triggers a [Consolidação do Império Otomano] event <for [Império Otomano] Civilizations>",
+          "Triggers a [A Questão do Ópio na Corte Qing] event <for [Grande Qing] Civilizations>",
+          "Triggers a [História do Império de Dai Nam] event <for [Império de Dai Nam] Civilizations>"
+        ]
+      },
+      {
+        "name": "Instituições Sacerdotais",
+        "row": 12,
+        "cost": 185,
+        "prerequisites": [
+          "Administração",
+          "Teologia Antiga"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Instituições Sacerdotais representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Cidadania",
+        "row": 17,
+        "cost": 200,
+        "prerequisites": [
+          "Direito",
+          "Retórica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Cidadania representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História da Gran Colombia] event <for [Gran Colombia] Civilizations>",
+          "Triggers a [História da América Central] event <for [América Central] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 9,
+    "era": "Idade Média",
+    "techCost": 240,
+    "buildingCost": 450,
+    "wonderCost": 1000,
+    "techs": [
+      {
+        "name": "Guildas",
+        "row": 9,
+        "cost": 240,
+        "prerequisites": [
+          "Comércio Internacional",
+          "Administração"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Guildas representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História da Cidade Livre de Frankfurt] event <for [Cidade Livre de Frankfurt] Civilizations>"
+        ]
+      },
+      {
+        "name": "Filosofia Religiosa",
+        "row": 13,
+        "cost": 250,
+        "prerequisites": [
+          "Teologia Antiga"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Filosofia Religiosa representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História do Butão] event <for [Butão] Civilizations>"
+        ]
+      },
+      {
+        "name": "Feudalismo",
+        "row": 19,
+        "cost": 245,
+        "prerequisites": [
+          "Burocracia",
+          "Cidadania"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Feudalismo representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História de Wessex] event <for [Wessex] Civilizations>",
+          "Triggers a [História da Mercia] event <for [Mercia] Civilizations>",
+          "Triggers a [História da Northumbria] event <for [Northumbria] Civilizations>",
+          "Triggers a [História da Occitânia] event <for [Occitânia] Civilizations>",
+          "Triggers a [História de Castela] event <for [Castela] Civilizations>"
+        ]
+      },
+      {
+        "name": "Tradição e Identidade",
+        "row": 16,
+        "cost": 220,
+        "prerequisites": [
+          "Instituições Sacerdotais",
+          "Direito"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Tradição e Identidade representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Herança do Reino Unido] event <for [Reino Unido] Civilizations>",
+          "Triggers a [Herança do Reino da França] event <for [Reino da França] Civilizations>",
+          "Triggers a [Herança do Império Russo] event <for [Império Russo] Civilizations>",
+          "Triggers a [Herança do Império Austríaco] event <for [Império Austríaco] Civilizations>",
+          "Triggers a [Herança do Reino da Prússia] event <for [Reino da Prússia] Civilizations>",
+          "Triggers a [Herança do Império Otomano] event <for [Império Otomano] Civilizations>",
+          "Triggers a [Herança do Reino da Espanha] event <for [Reino da Espanha] Civilizations>",
+          "Triggers a [Herança do Reino de Portugal] event <for [Reino de Portugal] Civilizations>",
+          "Triggers a [Herança do Reino dos Países Baixos] event <for [Reino dos Países Baixos] Civilizations>",
+          "Triggers a [Herança do Reino da Bélgica] event <for [Reino da Bélgica] Civilizations>",
+          "Triggers a [Herança do Reino da Suécia] event <for [Reino da Suécia] Civilizations>",
+          "Triggers a [Herança do Reino da Dinamarca] event <for [Reino da Dinamarca] Civilizations>",
+          "Triggers a [Herança do Reino da Baviera] event <for [Reino da Baviera] Civilizations>",
+          "Triggers a [Herança do Reino da Sardenha-Piemonte] event <for [Reino da Sardenha-Piemonte] Civilizations>",
+          "Triggers a [Herança do Reino das Duas Sicílias] event <for [Reino das Duas Sicílias] Civilizations>",
+          "Triggers a [Herança do Império do Brasil] event <for [Império do Brasil] Civilizations>",
+          "Triggers a [Herança dos Estados Unidos da América] event <for [Estados Unidos da América] Civilizations>",
+          "Triggers a [Herança da República do México] event <for [República do México] Civilizations>",
+          "Triggers a [Herança da República do Texas] event <for [República do Texas] Civilizations>",
+          "Triggers a [Herança da Confederação Argentina] event <for [Confederação Argentina] Civilizations>",
+          "Triggers a [Herança da República do Chile] event <for [República do Chile] Civilizations>",
+          "Triggers a [Herança da Confederação Peru-Boliviana] event <for [Confederação Peru-Boliviana] Civilizations>",
+          "Triggers a [Herança da República do Haiti] event <for [República do Haiti] Civilizations>",
+          "Triggers a [Herança da Grande Qing] event <for [Grande Qing] Civilizations>",
+          "Triggers a [Herança do Xogunato Tokugawa] event <for [Xogunato Tokugawa] Civilizations>",
+          "Triggers a [Herança da Pérsia Qajar] event <for [Pérsia Qajar] Civilizations>",
+          "Triggers a [Herança do Emirado do Afeganistão] event <for [Emirado do Afeganistão] Civilizations>",
+          "Triggers a [Herança do Egito de Muhammad Ali] event <for [Egito de Muhammad Ali] Civilizations>",
+          "Triggers a [Herança do Sultanato de Marrocos] event <for [Sultanato de Marrocos] Civilizations>",
+          "Triggers a [Herança do Reino do Sião] event <for [Reino do Sião] Civilizations>",
+          "Triggers a [Herança do Império de Dai Nam] event <for [Império de Dai Nam] Civilizations>",
+          "Triggers a [Herança do Reino de Joseon] event <for [Reino de Joseon] Civilizations>",
+          "Triggers a [Herança do Império Sikh] event <for [Império Sikh] Civilizations>",
+          "Triggers a [Herança do Reino da Etiópia] event <for [Reino da Etiópia] Civilizations>",
+          "Triggers a [Herança do Grão-Pará] event <for [Grão-Pará] Civilizations>",
+          "Triggers a [Herança da República Rio-Grandense] event <for [República Rio-Grandense] Civilizations>",
+          "Triggers a [Herança do Reino da Grécia] event <for [Reino da Grécia] Civilizations>",
+          "Triggers a [Herança do Reino de Hanôver] event <for [Reino de Hanôver] Civilizations>",
+          "Triggers a [Herança do Reino da Saxônia] event <for [Reino da Saxônia] Civilizations>",
+          "Triggers a [Herança do Reino de Württemberg] event <for [Reino de Württemberg] Civilizations>",
+          "Triggers a [Herança da Confederação Suíça] event <for [Confederação Suíça] Civilizations>",
+          "Triggers a [Herança dos Estados Pontifícios] event <for [Estados Pontifícios] Civilizations>",
+          "Triggers a [Herança do Grão-Ducado da Toscana] event <for [Grão-Ducado da Toscana] Civilizations>",
+          "Triggers a [Herança da República da Nova Granada] event <for [República da Nova Granada] Civilizations>",
+          "Triggers a [Herança do Império de Bornu] event <for [Império de Bornu] Civilizations>",
+          "Triggers a [Herança do Império de Oió] event <for [Império de Oió] Civilizations>",
+          "Triggers a [Herança do Reino de Daomé] event <for [Reino de Daomé] Civilizations>",
+          "Triggers a [Herança do Califado de Sokoto] event <for [Califado de Sokoto] Civilizations>",
+          "Triggers a [Herança do Reino de Madagascar] event <for [Reino de Madagascar] Civilizations>",
+          "Triggers a [Herança do Reino da Inglaterra] event <for [Reino da Inglaterra] Civilizations>",
+          "Triggers a [Herança do Reino da Escócia] event <for [Reino da Escócia] Civilizations>",
+          "Triggers a [Herança do Principado de Gales] event <for [Principado de Gales] Civilizations>",
+          "Triggers a [Herança do Reino da Irlanda] event <for [Reino da Irlanda] Civilizations>",
+          "Triggers a [Herança do Reino da Polônia] event <for [Reino da Polônia] Civilizations>",
+          "Triggers a [Herança do Estado da Bahia] event <for [Estado da Bahia] Civilizations>",
+          "Triggers a [Herança do Estado de Pernambuco] event <for [Estado de Pernambuco] Civilizations>",
+          "Triggers a [Herança do Estado de Alagoas] event <for [Estado de Alagoas] Civilizations>",
+          "Triggers a [Herança do Estado de Sergipe] event <for [Estado de Sergipe] Civilizations>",
+          "Triggers a [Herança do Estado do Piauí] event <for [Estado do Piauí] Civilizations>",
+          "Triggers a [Herança do Estado da Paraíba] event <for [Estado da Paraíba] Civilizations>",
+          "Triggers a [Herança da República Rio-Grandense do Norte] event <for [República Rio-Grandense do Norte] Civilizations>",
+          "Triggers a [Herança da União Soviética] event <for [União Soviética] Civilizations>",
+          "Triggers a [Herança da China Comunista] event <for [China Comunista] Civilizations>",
+          "Triggers a [Herança do Reino Celestial da China] event <for [Reino Celestial da China] Civilizations>",
+          "Triggers a [Herança de Wessex] event <for [Wessex] Civilizations>",
+          "Triggers a [Herança da Mercia] event <for [Mercia] Civilizations>",
+          "Triggers a [Herança da Northumbria] event <for [Northumbria] Civilizations>",
+          "Triggers a [Herança da Anglia Oriental] event <for [Anglia Oriental] Civilizations>",
+          "Triggers a [Herança da Occitânia] event <for [Occitânia] Civilizations>",
+          "Triggers a [Herança da Bretanha] event <for [Bretanha] Civilizations>",
+          "Triggers a [Herança de Castela] event <for [Castela] Civilizations>",
+          "Triggers a [Herança dos Estados Confederados da América] event <for [Estados Confederados da América] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 10,
+    "era": "Idade Média",
+    "techCost": 305,
+    "buildingCost": 450,
+    "wonderCost": 1000,
+    "techs": [
+      {
+        "name": "Arquitetura",
+        "row": 7,
+        "cost": 320,
+        "prerequisites": [
+          "Construção"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Arquitetura representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Economia Monetária",
+        "row": 11,
+        "cost": 280,
+        "prerequisites": [
+          "Guildas"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Economia Monetária representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Educação",
+        "row": 14,
+        "cost": 325,
+        "prerequisites": [
+          "Filosofia Religiosa",
+          "Retórica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Educação representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História do Reino de Joseon] event <for [Reino de Joseon] Civilizations>"
+        ]
+      },
+      {
+        "name": "Administração Urbana",
+        "row": 15,
+        "cost": 290,
+        "prerequisites": [
+          "Feudalismo"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Administração Urbana representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino das Duas Sicílias] event <for [Reino das Duas Sicílias] Civilizations>",
+          "Triggers a [Consolidação da República do Haiti] event <for [República do Haiti] Civilizations>",
+          "Triggers a [Consolidação do Xogunato Tokugawa] event <for [Xogunato Tokugawa] Civilizations>",
+          "Triggers a [Consolidação do Império de Dai Nam] event <for [Império de Dai Nam] Civilizations>",
+          "Triggers a [Consolidação do Reino da Irlanda] event <for [Reino da Irlanda] Civilizations>",
+          "Triggers a [Consolidação do Estado de Alagoas] event <for [Estado de Alagoas] Civilizations>",
+          "Triggers a [Consolidação do Estado de Sergipe] event <for [Estado de Sergipe] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 11,
+    "era": "Idade Média",
+    "techCost": 345,
+    "buildingCost": 450,
+    "wonderCost": 1000,
+    "techs": [
+      {
+        "name": "Engenharia Militar",
+        "row": 5,
+        "cost": 390,
+        "prerequisites": [
+          "Estratégia",
+          "Arquitetura"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Engenharia Militar representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Patrimônio Histórico",
+        "row": 16,
+        "cost": 330,
+        "prerequisites": [
+          "Tradição e Identidade",
+          "Arquitetura"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Patrimônio Histórico representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Herança do Reino da Itália] event <for [Reino da Itália] Civilizations>",
+          "Triggers a [Herança do Império do Japão] event <for [Império do Japão] Civilizations>",
+          "Triggers a [Herança da Gran Colombia] event <for [Gran Colombia] Civilizations>",
+          "Triggers a [Herança da Alemanha Oriental] event <for [Alemanha Oriental] Civilizations>",
+          "Triggers a [Herança da Alemanha Ocidental] event <for [Alemanha Ocidental] Civilizations>",
+          "Triggers a [Herança da América Central] event <for [América Central] Civilizations>",
+          "Triggers a [Herança do Reino Unido do Brasil e Portugal] event <for [Reino Unido do Brasil e Portugal] Civilizations>",
+          "Triggers a [Herança do Império do Mar do Norte] event <for [Império do Mar do Norte] Civilizations>"
+        ]
+      },
+      {
+        "name": "Instituições Cívicas",
+        "row": 17,
+        "cost": 320,
+        "prerequisites": [
+          "Administração Urbana"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Instituições Cívicas representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História da Confederação Suíça] event <for [Confederação Suíça] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 12,
+    "era": "Renascimento",
+    "techCost": 460,
+    "buildingCost": 560,
+    "wonderCost": 1150,
+    "techs": [
+      {
+        "name": "Navegação Oceânica",
+        "row": 8,
+        "cost": 430,
+        "prerequisites": [
+          "Comércio Internacional"
+        ],
+        "uniques": [
+          "Enables [Embarked] units to enter ocean tiles",
+          "[+1] Movement <for [Embarked] units>",
+          "Triggers a [História do Reino Unido do Brasil e Portugal] event <for [Reino Unido do Brasil e Portugal] Civilizations>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Navegação Oceânica representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Ciência Renascentista",
+        "row": 7,
+        "cost": 465,
+        "prerequisites": [
+          "Educação",
+          "Arquitetura"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Ciência Renascentista representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Pólvora",
+        "row": 4,
+        "cost": 490,
+        "prerequisites": [
+          "Engenharia Militar"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Pólvora representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Banca",
+        "row": 15,
+        "cost": 460,
+        "prerequisites": [
+          "Economia Monetária",
+          "Administração Urbana"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Banca representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino dos Países Baixos] event <for [Reino dos Países Baixos] Civilizations>",
+          "Triggers a [Consolidação de Mônaco] event <for [Mônaco] Civilizations>",
+          "Triggers a [Consolidação de Luxemburgo] event <for [Luxemburgo] Civilizations>",
+          "Triggers a [Consolidação da Cidade Livre de Bremen] event <for [Cidade Livre de Bremen] Civilizations>",
+          "Triggers a [Consolidação da Cidade Livre de Hamburgo] event <for [Cidade Livre de Hamburgo] Civilizations>",
+          "Triggers a [Consolidação da Cidade Livre de Lübeck] event <for [Cidade Livre de Lübeck] Civilizations>",
+          "Triggers a [Consolidação da Cidade Livre de Frankfurt] event <for [Cidade Livre de Frankfurt] Civilizations>",
+          "Triggers a [Consolidação do Ducado de Nassau] event <for [Ducado de Nassau] Civilizations>",
+          "Triggers a [Consolidação do Emirado de Bucara] event <for [Emirado de Bucara] Civilizations>",
+          "Triggers a [Consolidação do Canato de Khiva] event <for [Canato de Khiva] Civilizations>",
+          "Triggers a [Consolidação do Canato de Cocande] event <for [Canato de Cocande] Civilizations>",
+          "Instantly provides [50] [Capital Privado]",
+          "Comment [INÍCIO DO SISTEMA: descoberta de Banca cria o primeiro fundo de capital privado.]"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 13,
+    "era": "Renascimento",
+    "techCost": 500,
+    "buildingCost": 560,
+    "wonderCost": 1150,
+    "techs": [
+      {
+        "name": "Mecânica",
+        "row": 5,
+        "cost": 510,
+        "prerequisites": [
+          "Ciência Renascentista",
+          "Engenharia Militar"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Mecânica representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Imprensa",
+        "row": 9,
+        "cost": 520,
+        "prerequisites": [
+          "Educação",
+          "Pólvora"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Imprensa representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Mercantilismo",
+        "row": 10,
+        "cost": 470,
+        "prerequisites": [
+          "Banca"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Mercantilismo representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino da Espanha] event <for [Reino da Espanha] Civilizations>",
+          "Triggers a [História do Reino da Espanha] event <for [Reino da Espanha] Civilizations>"
+        ]
+      },
+      {
+        "name": "Estado Centralizado",
+        "row": 18,
+        "cost": 500,
+        "prerequisites": [
+          "Banca"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Estado Centralizado representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação da Confederação Suíça] event <for [Confederação Suíça] Civilizations>",
+          "Triggers a [História do Império do Japão] event <for [Império do Japão] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 14,
+    "era": "Era Moderna",
+    "techCost": 600,
+    "buildingCost": 680,
+    "wonderCost": 1300,
+    "techs": [
+      {
+        "name": "Exploração Marítima",
+        "row": 8,
+        "cost": 620,
+        "prerequisites": [
+          "Navegação Oceânica",
+          "Imprensa"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Exploração Marítima representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino de Portugal] event <for [Reino de Portugal] Civilizations>"
+        ]
+      },
+      {
+        "name": "Método Científico",
+        "row": 6,
+        "cost": 640,
+        "prerequisites": [
+          "Ciência Renascentista",
+          "Imprensa"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Método Científico representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Artilharia",
+        "row": 4,
+        "cost": 540,
+        "prerequisites": [
+          "Pólvora",
+          "Mecânica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Artilharia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 15,
+    "era": "Era Moderna",
+    "techCost": 640,
+    "buildingCost": 680,
+    "wonderCost": 1300,
+    "techs": [
+      {
+        "name": "Iluminismo",
+        "row": 16,
+        "cost": 650,
+        "prerequisites": [
+          "Método Científico",
+          "Estado Centralizado"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Iluminismo representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino da França] event <for [Reino da França] Civilizations>"
+        ]
+      },
+      {
+        "name": "Administração Colonial",
+        "row": 15,
+        "cost": 630,
+        "prerequisites": [
+          "Exploração Marítima",
+          "Estado Centralizado"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Administração Colonial representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 16,
+    "era": "Era Industrial",
+    "techCost": 735,
+    "buildingCost": 800,
+    "wonderCost": 1450,
+    "techs": [
+      {
+        "name": "Revolução Industrial",
+        "row": 5,
+        "cost": 790,
+        "prerequisites": [
+          "Mecânica",
+          "Método Científico"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Revolução Industrial representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino Unido] event <for [Reino Unido] Civilizations>",
+          "Triggers a [Consolidação do Reino da Prússia] event <for [Reino da Prússia] Civilizations>",
+          "Triggers a [Consolidação do Reino da Bélgica] event <for [Reino da Bélgica] Civilizations>",
+          "Triggers a [Consolidação do Reino da Saxônia] event <for [Reino da Saxônia] Civilizations>",
+          "Triggers a [Consolidação do Reino da Inglaterra] event <for [Reino da Inglaterra] Civilizations>",
+          "Triggers a [Consolidação do Reino da Escócia] event <for [Reino da Escócia] Civilizations>",
+          "Triggers a [Consolidação do Principado de Gales] event <for [Principado de Gales] Civilizations>",
+          "Triggers a [História do Reino da Bélgica] event <for [Reino da Bélgica] Civilizations>",
+          "Triggers a [História do Reino da Inglaterra] event <for [Reino da Inglaterra] Civilizations>"
+        ]
+      },
+      {
+        "name": "Química Industrial",
+        "row": 13,
+        "cost": 760,
+        "prerequisites": [
+          "Método Científico"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Química Industrial representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Nacionalismo",
+        "row": 17,
+        "cost": 660,
+        "prerequisites": [
+          "Iluminismo"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Nacionalismo representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino da Baviera] event <for [Reino da Baviera] Civilizations>",
+          "Triggers a [Consolidação do Reino da Sardenha-Piemonte] event <for [Reino da Sardenha-Piemonte] Civilizations>",
+          "Triggers a [Consolidação da República do México] event <for [República do México] Civilizations>",
+          "Triggers a [Consolidação da República do Texas] event <for [República do Texas] Civilizations>",
+          "Triggers a [Consolidação da Confederação Argentina] event <for [Confederação Argentina] Civilizations>",
+          "Triggers a [Consolidação da Confederação Peru-Boliviana] event <for [Confederação Peru-Boliviana] Civilizations>",
+          "Triggers a [Consolidação do Reino de Joseon] event <for [Reino de Joseon] Civilizations>",
+          "Triggers a [Consolidação da República Rio-Grandense] event <for [República Rio-Grandense] Civilizations>",
+          "Triggers a [Consolidação do Reino da Grécia] event <for [Reino da Grécia] Civilizations>",
+          "Triggers a [Consolidação dos Estados Pontifícios] event <for [Estados Pontifícios] Civilizations>",
+          "Triggers a [Consolidação do Grão-Ducado da Toscana] event <for [Grão-Ducado da Toscana] Civilizations>",
+          "Triggers a [Consolidação da República da Nova Granada] event <for [República da Nova Granada] Civilizations>",
+          "Triggers a [Consolidação do Principado de Montenegro] event <for [Principado de Montenegro] Civilizations>",
+          "Triggers a [Consolidação do Principado da Sérvia] event <for [Principado da Sérvia] Civilizations>",
+          "Triggers a [Consolidação do Principado da Moldávia] event <for [Principado da Moldávia] Civilizations>",
+          "Triggers a [Consolidação do Principado da Valáquia] event <for [Principado da Valáquia] Civilizations>",
+          "Triggers a [Consolidação do Paraguai] event <for [Paraguai] Civilizations>",
+          "Triggers a [Consolidação do Reino da Polônia] event <for [Reino da Polônia] Civilizations>",
+          "Triggers a [História da União Soviética] event <for [União Soviética] Civilizations>",
+          "Triggers a [História da China Comunista] event <for [China Comunista] Civilizations>",
+          "Triggers a [História do Reino da Itália] event <for [Reino da Itália] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 17,
+    "era": "Era Industrial",
+    "techCost": 815,
+    "buildingCost": 800,
+    "wonderCost": 1450,
+    "techs": [
+      {
+        "name": "Máquinas a Vapor",
+        "row": 5,
+        "cost": 810,
+        "prerequisites": [
+          "Revolução Industrial"
+        ],
+        "uniques": [
+          "[+1] Movement <for [Embarked] units>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Máquinas a Vapor representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Aço",
+        "row": 19,
+        "cost": 830,
+        "prerequisites": [
+          "Química Industrial"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Aço representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Economia Industrial",
+        "row": 10,
+        "cost": 800,
+        "prerequisites": [
+          "Mercantilismo",
+          "Revolução Industrial"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Economia Industrial representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação do Reino da Suécia] event <for [Reino da Suécia] Civilizations>",
+          "Triggers a [Consolidação do Império do Brasil] event <for [Império do Brasil] Civilizations>",
+          "Triggers a [Consolidação da República do Chile] event <for [República do Chile] Civilizations>",
+          "Triggers a [Consolidação do Egito de Muhammad Ali] event <for [Egito de Muhammad Ali] Civilizations>",
+          "Triggers a [Consolidação dos Estados Confederados da América] event <for [Estados Confederados da América] Civilizations>",
+          "Triggers a [Consolidação do Reino de Hanôver] event <for [Reino de Hanôver] Civilizations>",
+          "Triggers a [Consolidação do Reino de Württemberg] event <for [Reino de Württemberg] Civilizations>",
+          "Triggers a [Consolidação do Grão-Ducado de Baden] event <for [Grão-Ducado de Baden] Civilizations>",
+          "Triggers a [Consolidação do Ducado de Brunswick] event <for [Ducado de Brunswick] Civilizations>",
+          "Triggers a [Consolidação do Grão-Ducado de Oldenburg] event <for [Grão-Ducado de Oldenburg] Civilizations>",
+          "Triggers a [Consolidação do Uruguai] event <for [Uruguai] Civilizations>",
+          "Triggers a [Consolidação do Estado do Piauí] event <for [Estado do Piauí] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 18,
+    "era": "Era Industrial",
+    "techCost": 900,
+    "buildingCost": 800,
+    "wonderCost": 1450,
+    "techs": [
+      {
+        "name": "Ferrovias",
+        "row": 6,
+        "cost": 830,
+        "prerequisites": [
+          "Máquinas a Vapor"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Ferrovias representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Eletricidade",
+        "row": 18,
+        "cost": 940,
+        "prerequisites": [
+          "Química Industrial",
+          "Máquinas a Vapor"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Eletricidade representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Medicina Moderna",
+        "row": 11,
+        "cost": 930,
+        "prerequisites": [
+          "Química Industrial"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Medicina Moderna representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 19,
+    "era": "Era Industrial",
+    "techCost": 1080,
+    "buildingCost": 800,
+    "wonderCost": 1450,
+    "techs": [
+      {
+        "name": "Comunicações",
+        "row": 19,
+        "cost": 1025,
+        "prerequisites": [
+          "Eletricidade"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Comunicações representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Produção em Massa",
+        "row": 20,
+        "cost": 1110,
+        "prerequisites": [
+          "Aço",
+          "Eletricidade"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Produção em Massa representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [Consolidação dos Estados Unidos da América] event <for [Estados Unidos da América] Civilizations>",
+          "Triggers a [História da Alemanha Oriental] event <for [Alemanha Oriental] Civilizations>"
+        ]
+      },
+      {
+        "name": "Combustão",
+        "row": 13,
+        "cost": 1100,
+        "prerequisites": [
+          "Química Industrial"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Combustão representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 20,
+    "era": "Era Contemporânea",
+    "techCost": 1280,
+    "buildingCost": 900,
+    "wonderCost": 1600,
+    "techs": [
+      {
+        "name": "Rádio",
+        "row": 18,
+        "cost": 1250,
+        "prerequisites": [
+          "Comunicações"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Rádio representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Ciência Moderna",
+        "row": 9,
+        "cost": 1300,
+        "prerequisites": [
+          "Medicina Moderna"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Ciência Moderna representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Automóvel",
+        "row": 15,
+        "cost": 1200,
+        "prerequisites": [
+          "Combustão",
+          "Produção em Massa"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Automóvel representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Aviação",
+        "row": 14,
+        "cost": 1375,
+        "prerequisites": [
+          "Combustão",
+          "Eletricidade"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Aviação representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 21,
+    "era": "Era Contemporânea",
+    "techCost": 1450,
+    "buildingCost": 900,
+    "wonderCost": 1600,
+    "techs": [
+      {
+        "name": "Eletrônica",
+        "row": 17,
+        "cost": 1600,
+        "prerequisites": [
+          "Rádio",
+          "Ciência Moderna"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Eletrônica representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Estado Social",
+        "row": 12,
+        "cost": 1300,
+        "prerequisites": [
+          "Nacionalismo",
+          "Medicina Moderna"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Estado Social representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ],
+        "uniques": [
+          "Triggers a [História da Alemanha Ocidental] event <for [Alemanha Ocidental] Civilizations>"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 22,
+    "era": "Era Contemporânea",
+    "techCost": 1795,
+    "buildingCost": 900,
+    "wonderCost": 1600,
+    "techs": [
+      {
+        "name": "Mídia de Massa",
+        "row": 18,
+        "cost": 1725,
+        "prerequisites": [
+          "Eletrônica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Mídia de Massa representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Aeronáutica",
+        "row": 13,
+        "cost": 1975,
+        "prerequisites": [
+          "Aviação",
+          "Eletrônica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Aeronáutica representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Energia Nuclear",
+        "row": 11,
+        "cost": 1800,
+        "prerequisites": [
+          "Eletrônica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Energia Nuclear representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Computação",
+        "row": 14,
+        "cost": 1775,
+        "prerequisites": [
+          "Eletrônica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Computação representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Genética",
+        "row": 9,
+        "cost": 1700,
+        "prerequisites": [
+          "Ciência Moderna"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Genética representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 23,
+    "era": "Era Atômica",
+    "techCost": 2330,
+    "buildingCost": 1000,
+    "wonderCost": 1800,
+    "techs": [
+      {
+        "name": "Informática",
+        "row": 15,
+        "cost": 2550,
+        "prerequisites": [
+          "Computação"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Informática representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Tecnologia Espacial",
+        "row": 13,
+        "cost": 2100,
+        "prerequisites": [
+          "Aeronáutica",
+          "Energia Nuclear"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Tecnologia Espacial representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Automação",
+        "row": 19,
+        "cost": 2225,
+        "prerequisites": [
+          "Computação",
+          "Produção em Massa"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Automação representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Energia Avançada",
+        "row": 12,
+        "cost": 2450,
+        "prerequisites": [
+          "Energia Nuclear"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Energia Avançada representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 24,
+    "era": "Era Digital",
+    "techCost": 2590,
+    "buildingCost": 1150,
+    "wonderCost": 2000,
+    "techs": [
+      {
+        "name": "Inteligência Artificial",
+        "row": 16,
+        "cost": 2575,
+        "prerequisites": [
+          "Automação",
+          "Informática"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Inteligência Artificial representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Robótica",
+        "row": 17,
+        "cost": 2700,
+        "prerequisites": [
+          "Automação"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Robótica representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Biotecnologia",
+        "row": 10,
+        "cost": 2600,
+        "prerequisites": [
+          "Genética",
+          "Informática"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Biotecnologia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Computação Quântica",
+        "row": 14,
+        "cost": 2475,
+        "prerequisites": [
+          "Computação",
+          "Energia Avançada"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Computação Quântica representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 25,
+    "era": "Era Digital",
+    "techCost": 2660,
+    "buildingCost": 1150,
+    "wonderCost": 2000,
+    "techs": [
+      {
+        "name": "Sociedade Digital",
+        "row": 18,
+        "cost": 2700,
+        "prerequisites": [
+          "Inteligência Artificial",
+          "Mídia de Massa"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Sociedade Digital representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      },
+      {
+        "name": "Biologia Sintética",
+        "row": 9,
+        "cost": 2625,
+        "prerequisites": [
+          "Biotecnologia"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Biologia Sintética representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      },
+      {
+        "name": "Nanotecnologia",
+        "row": 11,
+        "cost": 2650,
+        "prerequisites": [
+          "Biotecnologia",
+          "Energia Avançada"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Nanotecnologia representa uma capacidade histórica que transforma a sociedade e desbloqueia novas formas de produção, organização, cultura, ciência ou poder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 26,
+    "era": "Era Digital",
+    "techCost": 2740,
+    "buildingCost": 1150,
+    "wonderCost": 2000,
+    "techs": [
+      {
+        "name": "Cibersegurança",
+        "row": 15,
+        "cost": 2750,
+        "prerequisites": [
+          "Sociedade Digital"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Cibersegurança representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      },
+      {
+        "name": "Infraestrutura em Nuvem",
+        "row": 19,
+        "cost": 2725,
+        "prerequisites": [
+          "Sociedade Digital"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Infraestrutura em Nuvem representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 27,
+    "era": "Era Espacial",
+    "techCost": 3100,
+    "buildingCost": 1350,
+    "wonderCost": 2300,
+    "techs": [
+      {
+        "name": "Propulsão Orbital",
+        "row": 13,
+        "cost": 3100,
+        "prerequisites": [
+          "Tecnologia Espacial",
+          "Energia Avançada"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Propulsão Orbital representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 28,
+    "era": "Era Espacial",
+    "techCost": 3340,
+    "buildingCost": 1350,
+    "wonderCost": 2300,
+    "techs": [
+      {
+        "name": "Colônias Lunares",
+        "row": 16,
+        "cost": 3350,
+        "prerequisites": [
+          "Propulsão Orbital",
+          "Robótica"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Colônias Lunares representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      },
+      {
+        "name": "Mineração Asteroidal",
+        "row": 12,
+        "cost": 3325,
+        "prerequisites": [
+          "Propulsão Orbital",
+          "Nanotecnologia"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Mineração Asteroidal representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 29,
+    "era": "Era Espacial",
+    "techCost": 3550,
+    "buildingCost": 1350,
+    "wonderCost": 2300,
+    "techs": [
+      {
+        "name": "Habitats Espaciais",
+        "row": 12,
+        "cost": 3550,
+        "prerequisites": [
+          "Colônias Lunares",
+          "Mineração Asteroidal"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Habitats Espaciais representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 30,
+    "era": "Era Planetária",
+    "techCost": 3800,
+    "buildingCost": 1600,
+    "wonderCost": 2600,
+    "techs": [
+      {
+        "name": "Terraformação",
+        "row": 10,
+        "cost": 3800,
+        "prerequisites": [
+          "Habitats Espaciais"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Terraformação representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 31,
+    "era": "Era Planetária",
+    "techCost": 4000,
+    "buildingCost": 1600,
+    "wonderCost": 2600,
+    "techs": [
+      {
+        "name": "Engenharia Planetária",
+        "row": 11,
+        "cost": 4000,
+        "prerequisites": [
+          "Terraformação"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Engenharia Planetária representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 32,
+    "era": "Era Planetária",
+    "techCost": 4200,
+    "buildingCost": 1600,
+    "wonderCost": 2600,
+    "techs": [
+      {
+        "name": "Rede Planetária",
+        "row": 16,
+        "cost": 4200,
+        "prerequisites": [
+          "Engenharia Planetária",
+          "Sociedade Digital"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Rede Planetária representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 33,
+    "era": "Era Planetária",
+    "techCost": 4400,
+    "buildingCost": 1600,
+    "wonderCost": 2600,
+    "techs": [
+      {
+        "name": "Civilização Multiplanetária",
+        "row": 15,
+        "cost": 4400,
+        "prerequisites": [
+          "Rede Planetária"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Civilização Multiplanetária representa uma capacidade tecnológica avançada que amplia a ciência, a infraestrutura e o poder de transformação do Estado."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "country_egypt",
+    "name": "Egito",
+    "civilizationId": "civilization_egyptian",
+    "identityId": "identity_egyptian",
+    "initialDynastyId": "dynasty_egypt_early",
+    "capital": "Mênfis",
+    "playable": true
+  },
+  {
+    "id": "country_macedonia",
+    "name": "Macedônia",
+    "civilizationId": "civilization_macedonian",
+    "identityId": "identity_macedonian",
+    "initialDynastyId": "dynasty_argead",
+    "capital": "Pela",
+    "playable": true
+  },
+  {
+    "id": "country_persia",
+    "name": "Pérsia",
+    "civilizationId": "civilization_persian",
+    "identityId": "identity_persian",
+    "initialDynastyId": "dynasty_achaemenid",
+    "capital": "Persépolis",
+    "playable": true
+  },
+  {
+    "id": "country_rome",
+    "name": "Roma",
+    "civilizationId": "civilization_roman",
+    "identityId": "identity_roman",
+    "initialDynastyId": null,
+    "capital": "Roma",
+    "playable": true
+  },
+  {
+    "id": "country_carthage",
+    "name": "Cartago",
+    "civilizationId": "civilization_carthaginian",
+    "identityId": "identity_carthaginian",
+    "initialDynastyId": null,
+    "capital": "Cartago",
+    "playable": true
+  },
+  {
+    "id": "country_china",
+    "name": "China",
+    "civilizationId": "civilization_chinese",
+    "identityId": "identity_chinese",
+    "initialDynastyId": "dynasty_qin",
+    "capital": "Xianyang",
+    "playable": true
+  },
+  {
+    "id": "country_india",
+    "name": "Índia",
+    "civilizationId": "civilization_indian",
+    "identityId": "identity_indian",
+    "initialDynastyId": "dynasty_maurya",
+    "capital": "Pataliputra",
+    "playable": true
+  },
+  {
+    "id": "country_phoenicia",
+    "name": "Fenícia",
+    "civilizationId": "civilization_phoenician",
+    "identityId": "identity_phoenician",
+    "initialDynastyId": null,
+    "capital": "Tiro",
+    "playable": true
+  }
+]

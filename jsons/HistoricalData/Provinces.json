@@ -1,0 +1,65 @@
+[
+  {
+    "id": "province_egypt_delta",
+    "name": "Delta do Nilo",
+    "countryId": "country_egypt",
+    "capitalCity": "Mênfis",
+    "startingAutonomy": 10
+  },
+  {
+    "id": "province_egypt_upper",
+    "name": "Alto Egito",
+    "countryId": "country_egypt",
+    "capitalCity": "Tebas",
+    "startingAutonomy": 5
+  },
+  {
+    "id": "province_macedonia_core",
+    "name": "Macedônia",
+    "countryId": "country_macedonia",
+    "capitalCity": "Pela",
+    "startingAutonomy": 5
+  },
+  {
+    "id": "province_persia_core",
+    "name": "Persis",
+    "countryId": "country_persia",
+    "capitalCity": "Persépolis",
+    "startingAutonomy": 5
+  },
+  {
+    "id": "province_rome_latium",
+    "name": "Lácio",
+    "countryId": "country_rome",
+    "capitalCity": "Roma",
+    "startingAutonomy": 5
+  },
+  {
+    "id": "province_carthage_core",
+    "name": "Território de Cartago",
+    "countryId": "country_carthage",
+    "capitalCity": "Cartago",
+    "startingAutonomy": 5
+  },
+  {
+    "id": "province_china_core",
+    "name": "Guanzhong",
+    "countryId": "country_china",
+    "capitalCity": "Xianyang",
+    "startingAutonomy": 5
+  },
+  {
+    "id": "province_india_core",
+    "name": "Magadha",
+    "countryId": "country_india",
+    "capitalCity": "Pataliputra",
+    "startingAutonomy": 5
+  },
+  {
+    "id": "province_phoenicia_core",
+    "name": "Litoral Fenício",
+    "countryId": "country_phoenicia",
+    "capitalCity": "Tiro",
+    "startingAutonomy": 10
+  }
+]

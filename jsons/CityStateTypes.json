@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Cultural",
+    "friendBonusUniques": [
+      "[+2 Culture] [in all cities]"
+    ],
+    "allyBonusUniques": [
+      "[+4 Culture] [in all cities]",
+      "[+1 Science] [in all cities]"
+    ]
+  },
+  {
+    "name": "Maritime",
+    "friendBonusUniques": [
+      "[+1 Food] [in all cities]"
+    ],
+    "allyBonusUniques": [
+      "[+2 Food] [in all cities]",
+      "[+1 Production] [in all cities]"
+    ]
+  },
+  {
+    "name": "Mercantile",
+    "friendBonusUniques": [
+      "[+2 Gold] [in all cities]"
+    ],
+    "allyBonusUniques": [
+      "[+4 Gold] [in all cities]",
+      "[+1 Happiness] [in all cities]"
+    ]
+  },
+  {
+    "name": "Militaristic",
+    "friendBonusUniques": [
+      "[+1 Production] [in all cities]"
+    ],
+    "allyBonusUniques": [
+      "[+2 Production] [in all cities]",
+      "Provides land units every 20 turns at 30 Influence"
+    ]
+  },
+  {
+    "name": "Religious",
+    "friendBonusUniques": [
+      "[+1 Faith] [in all cities]"
+    ],
+    "allyBonusUniques": [
+      "[+2 Faith] [in all cities]",
+      "[+1 Culture] [in all cities]"
+    ]
+  }
+]

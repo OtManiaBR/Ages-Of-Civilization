@@ -1,0 +1,2272 @@
+[
+  {
+    "name": "Nossa Senhora Aparecida (Católico)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Católica] Civilizations>",
+      "[+1 Faith] from every [River] <for [Tradição Católica] Civilizations>",
+      "[+1 Culture] from every [Barco Pesqueiro] <for [Tradição Católica] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Devoção mariana popular, ligada a rios, pescadores e à fé do povo comum."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Católica."
+      }
+    ]
+  },
+  {
+    "name": "São Francisco de Assis (Católico)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Católica] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Católica] Civilizations>",
+      "[+1 Faith] from every [Campo de Pastagem] <for [Tradição Católica] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Caridade, simplicidade e cuidado com a criação."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Católica."
+      }
+    ]
+  },
+  {
+    "name": "São Bento (Católico)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Católica] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Católica] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Católica] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Disciplina, vida monástica e preservação do conhecimento (ora et labora)."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Católica."
+      }
+    ]
+  },
+  {
+    "name": "São Pedro (Católico)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Católica] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Católica] Civilizations>",
+      "[+10]% Production when constructing [All] wonders [in all cities] <for [Tradição Católica] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Ênfase institucional e autoridade da Igreja."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Católica."
+      }
+    ]
+  },
+  {
+    "name": "Santo Antônio (Católico)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Católica] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Católica] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Católica] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Comunidade e assistência social aos necessitados."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Católica."
+      }
+    ]
+  },
+  {
+    "name": "Nossa Senhora de Guadalupe (Católico)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Católica] Civilizations>",
+      "[+1 Culture] from every [Fazenda] <for [Tradição Católica] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Católica] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Devoção mariana das Américas, unindo fé e identidade popular."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Católica."
+      }
+    ]
+  },
+  {
+    "name": "Centralidade das Escrituras (Protestante)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Protestante] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Protestante] Civilizations>",
+      "[+1 Culture] from every [Mina] <for [Tradição Protestante] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A Bíblia lida e interpretada pelas próprias comunidades."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Protestante."
+      }
+    ]
+  },
+  {
+    "name": "Educação Bíblica (Protestante)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Protestante] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Protestante] Civilizations>",
+      "[+5]% [Science] [in all cities] <for [Tradição Protestante] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Alfabetização para ler as Escrituras: escolas em cada paróquia."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Protestante."
+      }
+    ]
+  },
+  {
+    "name": "Comunidade Congregacional (Protestante)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Protestante] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Protestante] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Congregações autônomas e ajuda mútua entre os fiéis."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Protestante."
+      }
+    ]
+  },
+  {
+    "name": "Ética do Trabalho (Protestante)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Protestante] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Protestante] Civilizations>",
+      "[+1 Gold] from every [Mina] <for [Tradição Protestante] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O trabalho como vocação e a prosperidade como disciplina."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Protestante."
+      }
+    ]
+  },
+  {
+    "name": "Reforma Permanente (Protestante)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Protestante] Civilizations>",
+      "[-10]% Gold cost of acquiring tiles [in all cities] <for [Tradição Protestante] Civilizations>",
+      "[-10]% Culture cost of natural border growth [in all cities] <for [Tradição Protestante] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A Igreja sempre reformável: menos custo de expansão e mais iniciativa local."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Protestante."
+      }
+    ]
+  },
+  {
+    "name": "Tradição dos Santos (Ortodoxo)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Faith] from every [Pedreira] <for [Tradição Ortodoxa] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Memória dos santos e mártires que sustenta a identidade do povo."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ortodoxa."
+      }
+    ]
+  },
+  {
+    "name": "Tradição dos Ícones (Ortodoxo)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Culture] from every [Campo de Pastagem] <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Ortodoxa] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Ícones como janelas sagradas nas casas, igrejas e campos de batalha."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ortodoxa."
+      }
+    ]
+  },
+  {
+    "name": "Monasticismo Ortodoxo (Ortodoxo)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Faith] from every [Acampamento Madeireiro] <for [Tradição Ortodoxa] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Mosteiros como centros de oração, escrita e ensino."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ortodoxa."
+      }
+    ]
+  },
+  {
+    "name": "Patriarcado (Ortodoxo)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Ortodoxa] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Ortodoxa] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Estrutura hierárquica e estabilidade institucional da Igreja."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ortodoxa."
+      }
+    ]
+  },
+  {
+    "name": "Liturgia Divina (Ortodoxo)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Ortodoxa] Civilizations>",
+      "[+10]% Production when constructing [All] wonders [in all cities] <for [Tradição Ortodoxa] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A liturgia como experiência central da comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ortodoxa."
+      }
+    ]
+  },
+  {
+    "name": "Livro de Oração Comum (Anglicano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Anglicana] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Anglicana] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Anglicana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Uma liturgia comum em língua vernácula para toda a nação."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Anglicana."
+      }
+    ]
+  },
+  {
+    "name": "Via Média (Anglicano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Anglicana] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Anglicana] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Anglicana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Equilíbrio entre tradição católica e reforma protestante."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Anglicana."
+      }
+    ]
+  },
+  {
+    "name": "Coroa e Igreja (Anglicano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Anglicana] Civilizations>",
+      "[+1 Gold] [in all cities] <for [Tradição Anglicana] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Anglicana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O soberano como governador supremo da Igreja."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Anglicana."
+      }
+    ]
+  },
+  {
+    "name": "Catedrais e Colégios (Anglicano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Anglicana] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Anglicana] Civilizations>",
+      "[+10]% Production when constructing [All] wonders [in all cities] <for [Tradição Anglicana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Catedrais, colégios e universidades como centros de saber."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Anglicana."
+      }
+    ]
+  },
+  {
+    "name": "Comunhão Anglicana (Anglicano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Anglicana] Civilizations>",
+      "[+1 Gold] from every [Barco Pesqueiro] <for [Tradição Anglicana] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Anglicana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Laços religiosos que acompanham o comércio e o império."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Anglicana."
+      }
+    ]
+  },
+  {
+    "name": "Comunidade dos Crentes (Umma) (Sunita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sunita] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Sunita] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Sunita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A unidade da comunidade acima das divisões locais."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sunita."
+      }
+    ]
+  },
+  {
+    "name": "Jurisprudência (Fiqh) (Sunita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sunita] Civilizations>",
+      "[+1 Gold] [in all cities] <for [Tradição Sunita] Civilizations>",
+      "[-10]% Gold cost of acquiring tiles [in all cities] <for [Tradição Sunita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Tradição jurídica das escolas que orienta o governo e o comércio."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sunita."
+      }
+    ]
+  },
+  {
+    "name": "Caridade (Zakat) (Sunita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sunita] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Sunita] Civilizations>",
+      "[+1 Faith] from every [Fazenda] <for [Tradição Sunita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Obrigação de assistência aos pobres e às instituições pias."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sunita."
+      }
+    ]
+  },
+  {
+    "name": "Conhecimento e Ensino (Sunita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sunita] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Sunita] Civilizations>",
+      "[+1 Culture] from every [Mina] <for [Tradição Sunita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Estudo, copistas e escolas de saber religioso e científico."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sunita."
+      }
+    ]
+  },
+  {
+    "name": "Peregrinação (Hajj) (Sunita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sunita] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Sunita] Civilizations>",
+      "[+1 Gold] from every [Barco Pesqueiro] <for [Tradição Sunita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A peregrinação a Meca como laço entre povos distantes."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sunita."
+      }
+    ]
+  },
+  {
+    "name": "Tradição dos Imames (Xiita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xiita] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Xiita] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Xiita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Veneração da família do Profeta e dos Imames."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xiita."
+      }
+    ]
+  },
+  {
+    "name": "Conhecimento e Ijtihad (Xiita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xiita] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Xiita] Civilizations>",
+      "[+1 Culture] from every [Mina] <for [Tradição Xiita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O esforço de interpretação dos juristas religiosos."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xiita."
+      }
+    ]
+  },
+  {
+    "name": "Justiça (Adl) (Xiita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xiita] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Xiita] Civilizations>",
+      "[-10]% Gold cost of acquiring tiles [in all cities] <for [Tradição Xiita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A justiça como princípio central da ordem legítima."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xiita."
+      }
+    ]
+  },
+  {
+    "name": "Comunidade de Luto e Devoção (Xiita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xiita] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Xiita] Civilizations>",
+      "[+1 Faith] from every [Fazenda] <for [Tradição Xiita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Rituais comunitários que unem a sociedade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xiita."
+      }
+    ]
+  },
+  {
+    "name": "Peregrinação aos Santuários (Xiita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xiita] Civilizations>",
+      "[+1 Gold] from every [Barco Pesqueiro] <for [Tradição Xiita] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Xiita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Visitas aos santuários dos Imames e seus descendentes."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xiita."
+      }
+    ]
+  },
+  {
+    "name": "Imamato Eletivo (Ibadita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ibadita] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Ibadita] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Ibadita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O imã escolhido por mérito e consulta, não por linhagem."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ibadita."
+      }
+    ]
+  },
+  {
+    "name": "Comunidade Ibadita (Jama'a) (Ibadita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ibadita] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Ibadita] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Ibadita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A comunidade unida por sobriedade, piedade e ajuda mútua."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ibadita."
+      }
+    ]
+  },
+  {
+    "name": "Consulta (Shura) (Ibadita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ibadita] Civilizations>",
+      "[+1 Gold] [in all cities] <for [Tradição Ibadita] Civilizations>",
+      "[-10]% Gold cost of acquiring tiles [in all cities] <for [Tradição Ibadita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Decisões tomadas por consulta entre os notáveis da comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ibadita."
+      }
+    ]
+  },
+  {
+    "name": "Conhecimento e Jurisprudência (Ibadita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ibadita] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Ibadita] Civilizations>",
+      "[+1 Culture] from every [Mina] <for [Tradição Ibadita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Estudo jurídico e religioso próprio da escola ibadita."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ibadita."
+      }
+    ]
+  },
+  {
+    "name": "Mar e Comércio (Ibadita)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ibadita] Civilizations>",
+      "[+1 Gold] from every [Barco Pesqueiro] <for [Tradição Ibadita] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Ibadita] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Mercadores e marinheiros que levam a fé pelo oceano Índico."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ibadita."
+      }
+    ]
+  },
+  {
+    "name": "Vaishnavismo (Hindu)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Hindu] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Hindu] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Hindu] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Devoção a Vishnu e suas encarnações: preservação e ordem."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Hindu."
+      }
+    ]
+  },
+  {
+    "name": "Shaivismo (Hindu)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Hindu] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Hindu] Civilizations>",
+      "[+1 Faith] from every [Pedreira] <for [Tradição Hindu] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Devoção a Shiva: ascetismo, transformação e saber."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Hindu."
+      }
+    ]
+  },
+  {
+    "name": "Shaktismo (Hindu)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Hindu] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Hindu] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Hindu] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Devoção à Deusa e à força criadora."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Hindu."
+      }
+    ]
+  },
+  {
+    "name": "Tradição Védica (Hindu)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Hindu] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Hindu] Civilizations>",
+      "[+10]% Production when constructing [All] wonders [in all cities] <for [Tradição Hindu] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Autoridade dos Vedas e dos rituais tradicionais."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Hindu."
+      }
+    ]
+  },
+  {
+    "name": "Bhakti (Hindu)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Hindu] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Hindu] Civilizations>",
+      "[+1 Culture] from every [Fazenda] <for [Tradição Hindu] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Devoção pessoal e popular, acessível a todas as comunidades."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Hindu."
+      }
+    ]
+  },
+  {
+    "name": "Theravada (Budista)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Budista] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Budista] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Budista] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A tradição dos anciãos: Sangha, monastérios e Pali."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Budista."
+      }
+    ]
+  },
+  {
+    "name": "Mahayana (Budista)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Budista] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Budista] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Budista] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O caminho do Bodhisattva e a devoção popular."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Budista."
+      }
+    ]
+  },
+  {
+    "name": "Vajrayana (Budista)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Budista] Civilizations>",
+      "[+1 Faith] from every [Pedreira] <for [Tradição Budista] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Budista] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Tradição esotérica e ritual das montanhas."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Budista."
+      }
+    ]
+  },
+  {
+    "name": "Tradição Monástica (Budista)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Budista] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Budista] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Budista] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Mosteiros como centros de ensino, arte e disciplina."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Budista."
+      }
+    ]
+  },
+  {
+    "name": "Compaixão (Budista)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Budista] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Budista] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Budista] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A compaixão como virtude cívica e individual."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Budista."
+      }
+    ]
+  },
+  {
+    "name": "Educação Confuciana (Confuciano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Confuciana] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Confuciana] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Confuciana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O estudo dos clássicos como base da formação do Estado."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Confuciana."
+      }
+    ]
+  },
+  {
+    "name": "Piedade Filial (Confuciano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Confuciana] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Confuciana] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Confuciana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Respeito aos pais e ancestrais como base da família e do Estado."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Confuciana."
+      }
+    ]
+  },
+  {
+    "name": "Ordem Social (Confuciano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Confuciana] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Confuciana] Civilizations>",
+      "[-10]% Gold cost of acquiring tiles [in all cities] <for [Tradição Confuciana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Cada um em seu papel: hierarquia e deveres recíprocos."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Confuciana."
+      }
+    ]
+  },
+  {
+    "name": "Mérito e Exames (Confuciano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Confuciana] Civilizations>",
+      "[+1 Gold] [in all cities] <for [Tradição Confuciana] Civilizations>",
+      "[+5]% [Science] [in all cities] <for [Tradição Confuciana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Cargos por estudo e mérito, não apenas por nascimento."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Confuciana."
+      }
+    ]
+  },
+  {
+    "name": "Harmonia (Confuciano)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Confuciana] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Confuciana] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Confuciana] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A harmonia como fim da boa administração."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Confuciana."
+      }
+    ]
+  },
+  {
+    "name": "Amaterasu (Xinto)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xinto] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Xinto] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Xinto] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A deusa do Sol e ancestral mítica da linhagem imperial."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xinto."
+      }
+    ]
+  },
+  {
+    "name": "Kami da Natureza (Xinto)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xinto] Civilizations>",
+      "[+1 Faith] from every [River] <for [Tradição Xinto] Civilizations>",
+      "[+1 Faith] from every [Acampamento Madeireiro] <for [Tradição Xinto] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Espíritos presentes em montanhas, rios e árvores."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xinto."
+      }
+    ]
+  },
+  {
+    "name": "Santuários (Xinto)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xinto] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Xinto] Civilizations>",
+      "[+10]% Production when constructing [All] wonders [in all cities] <for [Tradição Xinto] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Santuários locais como centros de festival e comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xinto."
+      }
+    ]
+  },
+  {
+    "name": "Culto dos Ancestrais (Xinto)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xinto] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Xinto] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Xinto] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Reverência aos antepassados da casa e do clã."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xinto."
+      }
+    ]
+  },
+  {
+    "name": "Pureza Ritual (Xinto)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Xinto] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Xinto] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Xinto] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Purificação, ordem e respeito às normas cerimoniais."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xinto."
+      }
+    ]
+  },
+  {
+    "name": "Guru Nanak (Sikh)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sikh] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Sikh] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Sikh] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O fundador e sua mensagem de igualdade e unidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sikh."
+      }
+    ]
+  },
+  {
+    "name": "Guru Granth Sahib (Sikh)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sikh] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Sikh] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Sikh] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O livro sagrado como guia eterno da comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sikh."
+      }
+    ]
+  },
+  {
+    "name": "Seva (Sikh)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sikh] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Sikh] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Sikh] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Serviço desinteressado à comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sikh."
+      }
+    ]
+  },
+  {
+    "name": "Langar (Sikh)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sikh] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Sikh] Civilizations>",
+      "[+1 Faith] from every [Fazenda] <for [Tradição Sikh] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A cozinha comunitária aberta a todos."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sikh."
+      }
+    ]
+  },
+  {
+    "name": "Khalsa (Sikh)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Sikh] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Sikh] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Sikh] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A irmandade dos iniciados e a tradição marcial."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sikh."
+      }
+    ]
+  },
+  {
+    "name": "Ṣàngó (Iorubá)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Iorubá] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Iorubá] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Iorubá] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O orixá do trovão, da justiça e da realeza de Oió."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Iorubá."
+      }
+    ]
+  },
+  {
+    "name": "Ògún (Iorubá)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Iorubá] Civilizations>",
+      "[+1 Production] from every [Mina] <for [Tradição Iorubá] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Iorubá] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O orixá do ferro, da guerra e dos caminhos."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Iorubá."
+      }
+    ]
+  },
+  {
+    "name": "Ọ̀ṣun (Iorubá)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Iorubá] Civilizations>",
+      "[+1 Faith] from every [River] <for [Tradição Iorubá] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Iorubá] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A orixá do rio, da fertilidade e da riqueza."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Iorubá."
+      }
+    ]
+  },
+  {
+    "name": "Ifá (Iorubá)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Iorubá] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Iorubá] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Iorubá] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O sistema de adivinhação e sabedoria dos babalaôs."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Iorubá."
+      }
+    ]
+  },
+  {
+    "name": "Egúngún (Iorubá)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Iorubá] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Iorubá] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Iorubá] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Os ancestrais que retornam nas máscaras e cerimônias."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Iorubá."
+      }
+    ]
+  },
+  {
+    "name": "Mawu-Lisa (Vodun)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Vodun] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Vodun] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Vodun] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O par criador e sua ordem cósmica."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Vodun."
+      }
+    ]
+  },
+  {
+    "name": "Sakpata (Vodun)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Vodun] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Vodun] Civilizations>",
+      "[+1 Faith] from every [Fazenda] <for [Tradição Vodun] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O vodun da terra e da cura."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Vodun."
+      }
+    ]
+  },
+  {
+    "name": "Xevioso (Vodun)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Vodun] Civilizations>",
+      "[+5]% [Production] [in all cities] <for [Tradição Vodun] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Vodun] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O vodun do trovão e da justiça."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Vodun."
+      }
+    ]
+  },
+  {
+    "name": "Legba (Vodun)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Vodun] Civilizations>",
+      "[+1 Gold] from every [Barco Pesqueiro] <for [Tradição Vodun] Civilizations>",
+      "[+5]% [Gold] [in all cities] <for [Tradição Vodun] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O mensageiro e guardião dos caminhos e das portas."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Vodun."
+      }
+    ]
+  },
+  {
+    "name": "Ancestrais Reais (Vodun)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Vodun] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Vodun] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Vodun] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O culto dos reis mortos de Daomé."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Vodun."
+      }
+    ]
+  },
+  {
+    "name": "Nyame (Akan)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Akan] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Akan] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Akan] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O Ser Supremo, origem do céu e da ordem."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Akan."
+      }
+    ]
+  },
+  {
+    "name": "Asase Yaa (Akan)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Akan] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Akan] Civilizations>",
+      "[+1 Faith] from every [Fazenda] <for [Tradição Akan] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A deusa da terra, da fertilidade e das colheitas."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Akan."
+      }
+    ]
+  },
+  {
+    "name": "Abosom (Akan)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Akan] Civilizations>",
+      "[+1 Faith] from every [River] <for [Tradição Akan] Civilizations>",
+      "[+1 Faith] from every [Acampamento Madeireiro] <for [Tradição Akan] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Divindades dos rios, das florestas e dos montes."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Akan."
+      }
+    ]
+  },
+  {
+    "name": "Nsamanfo (Akan)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Akan] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Akan] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Akan] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Os ancestrais que protegem a linhagem."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Akan."
+      }
+    ]
+  },
+  {
+    "name": "Sika Dwa (Akan)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Akan] Civilizations>",
+      "[+1 Gold] [in all cities] <for [Tradição Akan] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Akan] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O Trono de Ouro como alma da nação."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Akan."
+      }
+    ]
+  },
+  {
+    "name": "Culto dos Ancestrais (Ancestral)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ancestral] Civilizations>",
+      "[+1 Happiness] [in all cities] <for [Tradição Ancestral] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Ancestral] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Os antepassados como guardiões vivos da comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ancestral."
+      }
+    ]
+  },
+  {
+    "name": "Realeza Sagrada (Ancestral)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ancestral] Civilizations>",
+      "[+1 Gold] [in all cities] <for [Tradição Ancestral] Civilizations>",
+      "[+1 Faith] [in all cities] <for [Tradição Ancestral] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O soberano como elo entre o povo, a terra e o divino."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ancestral."
+      }
+    ]
+  },
+  {
+    "name": "Ritos da Chuva e da Colheita (Ancestral)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ancestral] Civilizations>",
+      "[+10]% growth [in all cities] <for [Tradição Ancestral] Civilizations>",
+      "[+1 Culture] from every [Fazenda] <for [Tradição Ancestral] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Rituais agrários que sustentam o ciclo das colheitas."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ancestral."
+      }
+    ]
+  },
+  {
+    "name": "Espíritos da Terra e das Águas (Ancestral)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ancestral] Civilizations>",
+      "[+1 Faith] from every [River] <for [Tradição Ancestral] Civilizations>",
+      "[+1 Faith] from every [Acampamento Madeireiro] <for [Tradição Ancestral] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Espíritos de rios, lagos, montanhas e florestas."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ancestral."
+      }
+    ]
+  },
+  {
+    "name": "Guardiões da Memória (Ancestral)",
+    "type": "Pantheon",
+    "uniques": [
+      "Only available <for [Tradição Ancestral] Civilizations>",
+      "[+1 Science] [in all cities] <for [Tradição Ancestral] Civilizations>",
+      "[+1 Culture] [in all cities] <for [Tradição Ancestral] Civilizations>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Narradores e anciãos preservam a história oral."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ancestral."
+      }
+    ]
+  },
+  {
+    "name": "Dízimo",
+    "type": "Founder",
+    "uniques": [
+      "[+1 Gold] from every [4] global followers [in all cities]"
+    ]
+  },
+  {
+    "name": "Peregrinação",
+    "type": "Founder",
+    "uniques": [
+      "[+2 Faith] for each global city following this religion"
+    ]
+  },
+  {
+    "name": "Enterro Cerimonial",
+    "type": "Founder",
+    "uniques": [
+      "[+1 Happiness] for each global city following this religion"
+    ]
+  },
+  {
+    "name": "Diálogo Inter-religioso",
+    "type": "Founder",
+    "uniques": [
+      "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"
+    ]
+  },
+  {
+    "name": "Ritos de Iniciação",
+    "type": "Founder",
+    "uniques": [
+      "[+100 Gold] when a city adopts this religion for the first time <(modified by game speed)>"
+    ]
+  },
+  {
+    "name": "Comunidade dos Fiéis",
+    "type": "Founder",
+    "uniques": [
+      "[+1 Happiness] from every [5] global followers [in non-enemy foreign cities]"
+    ]
+  },
+  {
+    "name": "Comunidade Religiosa",
+    "type": "Follower",
+    "uniques": [
+      "[+1]% [Production] from every follower, up to [15]%"
+    ]
+  },
+  {
+    "name": "Centro Religioso",
+    "type": "Follower",
+    "uniques": [
+      "[+2 Happiness] from every [Templo] <in cities with at least [5] [Followers of this Religion]>"
+    ]
+  },
+  {
+    "name": "Escrituras Sagradas",
+    "type": "Follower",
+    "uniques": [
+      "[+2 Culture] from every [Templo]"
+    ]
+  },
+  {
+    "name": "Escolas Religiosas",
+    "type": "Follower",
+    "uniques": [
+      "[+1 Science] from every [Templo]"
+    ]
+  },
+  {
+    "name": "Santuários Prósperos",
+    "type": "Follower",
+    "uniques": [
+      "[+15]% growth [in this city] <when not at war>"
+    ]
+  },
+  {
+    "name": "Arte Sacra",
+    "type": "Follower",
+    "uniques": [
+      "[+2 Culture] from every [Santuário]"
+    ]
+  },
+  {
+    "name": "Missionários Itinerantes",
+    "type": "Enhancer",
+    "uniques": [
+      "Religion naturally spreads to cities [+3] tiles away"
+    ]
+  },
+  {
+    "name": "Pregação Organizada",
+    "type": "Enhancer",
+    "uniques": [
+      "[+34]% Natural religion spread [in all cities]"
+    ]
+  },
+  {
+    "name": "Caridade Religiosa",
+    "type": "Follower",
+    "uniques": [
+      "[+1 Happiness] from every [Templo]"
+    ]
+  },
+  {
+    "name": "Escolas Monásticas",
+    "type": "Follower",
+    "uniques": [
+      "[+2 Science] from every [Mosteiro]"
+    ]
+  },
+  {
+    "name": "Arte Litúrgica",
+    "type": "Follower",
+    "uniques": [
+      "[+2 Culture] from every [Templo Monumental]"
+    ]
+  },
+  {
+    "name": "Comunidades de Peregrinos",
+    "type": "Founder",
+    "uniques": [
+      "[+1 Culture] for each global city following this religion"
+    ]
+  },
+  {
+    "name": "Sucessão Apostólica (Católico)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Católica] Civilizations>",
+      "[+1 Faith] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Continuidade da autoridade e do ensino da Igreja através das gerações."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Católico."
+      }
+    ]
+  },
+  {
+    "name": "Vida Paroquial (Católico)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Católica] Civilizations>",
+      "[+1 Culture] from every [Santuário]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A comunidade local como centro de festas, caridade e memória."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Católico."
+      }
+    ]
+  },
+  {
+    "name": "Ordens Missionárias (Católico)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Católica] Civilizations>",
+      "[+2 Faith] from every [Seminário Religioso]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Clero formado e enviado para servir e ensinar em novas terras."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Católico."
+      }
+    ]
+  },
+  {
+    "name": "Sola Scriptura (Protestante)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Protestante] Civilizations>",
+      "[+1 Science] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A leitura direta das Escrituras incentiva alfabetização e estudo."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Protestante."
+      }
+    ]
+  },
+  {
+    "name": "Vocação e Trabalho (Protestante)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Protestante] Civilizations>",
+      "[+1]% [Production] from every follower, up to [20]%"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A vocação e o trabalho diligente são vividos como expressão de fé."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Protestante."
+      }
+    ]
+  },
+  {
+    "name": "Sociedades Bíblicas (Protestante)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Protestante] Civilizations>",
+      "[+2 Culture] from every [Conselho Inter-religioso]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Impressão e distribuição de textos sagrados e de obras de instrução."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Protestante."
+      }
+    ]
+  },
+  {
+    "name": "Tradição dos Santos Padres (Ortodoxo)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Culture] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Fidelidade à liturgia e ao ensino herdados dos primeiros séculos."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ortodoxo."
+      }
+    ]
+  },
+  {
+    "name": "Liturgia e Ícones (Ortodoxo)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Ortodoxa] Civilizations>",
+      "[+1 Faith] from every [Santuário]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A liturgia e os ícones como centro da vida comunitária."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ortodoxo."
+      }
+    ]
+  },
+  {
+    "name": "Mosteiros e Patriarcado (Ortodoxo)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Ortodoxa] Civilizations>",
+      "[+2 Culture] from every [Sede Patriarcal]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Vida monástica e autoridade patriarcal sustentam a tradição."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ortodoxo."
+      }
+    ]
+  },
+  {
+    "name": "Supremacia da Coroa (Anglicano)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Anglicana] Civilizations>",
+      "[+1 Gold] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A Igreja nacional ligada à Coroa e às instituições do reino."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Anglicano."
+      }
+    ]
+  },
+  {
+    "name": "Via Media (Anglicano)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Anglicana] Civilizations>",
+      "[+1 Happiness] from every [Santuário]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Busca de equilíbrio entre tradições e reforma na vida paroquial."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Anglicano."
+      }
+    ]
+  },
+  {
+    "name": "Catedrais e Colégios Reais (Anglicano)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Anglicana] Civilizations>",
+      "[+2 Culture] from every [Catedral Nacional]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Catedrais e colégios como centros de cultura e formação."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Anglicano."
+      }
+    ]
+  },
+  {
+    "name": "Jurisprudência Comunitária (Sunita)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Sunita] Civilizations>",
+      "[+1 Gold] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Escolas jurídicas orientam a vida da comunidade e o comércio."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sunita."
+      }
+    ]
+  },
+  {
+    "name": "Obras de Caridade (Waqf) (Sunita)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Sunita] Civilizations>",
+      "[+1 Happiness] from every [Santuário]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Fundações piedosas sustentam escolas, fontes e assistência."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sunita."
+      }
+    ]
+  },
+  {
+    "name": "Peregrinação do Hajj (Sunita)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Sunita] Civilizations>",
+      "[+2 Gold] from every [Casa de Peregrinação]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Rotas de peregrinação movimentam pessoas, comércio e ideias."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sunita."
+      }
+    ]
+  },
+  {
+    "name": "Linhagem dos Imames (Xiita)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Xiita] Civilizations>",
+      "[+1 Faith] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A memória e o ensino dos Imames orientam a comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xiita."
+      }
+    ]
+  },
+  {
+    "name": "Comemorações Religiosas (Xiita)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Xiita] Civilizations>",
+      "[+1 Culture] from every [Santuário]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Comemorações públicas mantêm viva a memória da comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xiita."
+      }
+    ]
+  },
+  {
+    "name": "Cidades Santas (Xiita)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Xiita] Civilizations>",
+      "[+2 Faith] from every [Centro de Peregrinação]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Peregrinações às cidades santas fortalecem a identidade religiosa."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xiita."
+      }
+    ]
+  },
+  {
+    "name": "Comunidade Consultiva (Shura) (Ibadita)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Ibadita] Civilizations>",
+      "[+1 Culture] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A deliberação da comunidade orienta a escolha de seus líderes."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ibadita."
+      }
+    ]
+  },
+  {
+    "name": "Sobriedade e Comércio (Ibadita)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Ibadita] Civilizations>",
+      "[+1 Gold] from every [Santuário]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Vida austera e honestidade comercial como valores da comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ibadita."
+      }
+    ]
+  },
+  {
+    "name": "Redes da Comunidade (Ibadita)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Ibadita] Civilizations>",
+      "[+2 Gold] from every [Casa de Peregrinação]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Laços religiosos sustentam redes de comércio e de peregrinos."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ibadita."
+      }
+    ]
+  },
+  {
+    "name": "Autoridade Védica (Hindu)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Hindu] Civilizations>",
+      "[+1 Culture] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Os textos védicos e seus mestres orientam a tradição."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Hindu."
+      }
+    ]
+  },
+  {
+    "name": "Festivais e Templos (Hindu)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Hindu] Civilizations>",
+      "[+1 Faith] from every [Templo]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Festivais e templos como centros da devoção cotidiana."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Hindu."
+      }
+    ]
+  },
+  {
+    "name": "Peregrinação aos Tirthas (Hindu)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Hindu] Civilizations>",
+      "[+2 Faith] from every [Centro de Peregrinação]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Peregrinações a lugares sagrados unem regiões distantes."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Hindu."
+      }
+    ]
+  },
+  {
+    "name": "Sangha (Budista)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Budista] Civilizations>",
+      "[+1 Happiness] for each global city following this religion"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A comunidade de monges e leigos sustenta a tradição."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Budista."
+      }
+    ]
+  },
+  {
+    "name": "Vida Monástica (Budista)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Budista] Civilizations>",
+      "[+1 Culture] from every [Mosteiro]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Mosteiros como centros de estudo, disciplina e compaixão."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Budista."
+      }
+    ]
+  },
+  {
+    "name": "Universidades Monásticas (Budista)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Budista] Civilizations>",
+      "[+2 Science] from every [Seminário Religioso]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Centros monásticos de estudo transmitem conhecimento entre regiões."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Budista."
+      }
+    ]
+  },
+  {
+    "name": "Mérito e Ordem Social (Confuciano)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Confuciana] Civilizations>",
+      "[+1 Science] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Educação, mérito e ordem social como base da vida pública."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Confuciano."
+      }
+    ]
+  },
+  {
+    "name": "Reverência Filial (Confuciano)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Confuciana] Civilizations>",
+      "[+2 Happiness] from every [Monumento dos Ancestrais]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O respeito à família e aos antepassados organiza a sociedade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Confuciano."
+      }
+    ]
+  },
+  {
+    "name": "Academias Confucianas (Confuciano)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Confuciana] Civilizations>",
+      "[+2 Science] from every [Academia]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Academias formam letrados e administradores."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Confuciano."
+      }
+    ]
+  },
+  {
+    "name": "Linhagem e Kami (Xinto)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Xinto] Civilizations>",
+      "[+1 Culture] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A ligação entre a comunidade, seus kami e a linhagem que a conduz."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xinto."
+      }
+    ]
+  },
+  {
+    "name": "Santuários Locais (Xinto)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Xinto] Civilizations>",
+      "[+1 Faith] from every [Santuário]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Santuários locais como centros de festas e de memória."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xinto."
+      }
+    ]
+  },
+  {
+    "name": "Purificação Ritual (Xinto)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Xinto] Civilizations>",
+      "[+1 Happiness] from every [Banhos Públicos]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A pureza ritual ligada à vida cotidiana da comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Xinto."
+      }
+    ]
+  },
+  {
+    "name": "Linhagem dos Gurus (Sikh)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Sikh] Civilizations>",
+      "[+1 Faith] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O ensino dos Gurus e o Guru Granth Sahib orientam a comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sikh."
+      }
+    ]
+  },
+  {
+    "name": "Cozinha Comunitária (Langar) (Sikh)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Sikh] Civilizations>",
+      "[+15]% growth [in this city] <when not at war>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A cozinha comunitária gratuita fortalece a comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sikh."
+      }
+    ]
+  },
+  {
+    "name": "Seva e Khalsa (Sikh)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Sikh] Civilizations>",
+      "[+2 Happiness] from every [Centro de Peregrinação]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O serviço desinteressado (seva) e a comunidade khalsa unem os fiéis."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Sikh."
+      }
+    ]
+  },
+  {
+    "name": "Culto aos Orixás (Iorubá)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Iorubá] Civilizations>",
+      "[+1 Culture] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Tradição viva de orixás, festivais e ofício ritual."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Iorubá."
+      }
+    ]
+  },
+  {
+    "name": "Festivais Comunitários (Iorubá)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Iorubá] Civilizations>",
+      "[+1 Happiness] from every [Santuário]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Festivais reúnem a comunidade e renovam sua identidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Iorubá."
+      }
+    ]
+  },
+  {
+    "name": "Templos e Mercados (Iorubá)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Iorubá] Civilizations>",
+      "[+1 Gold] from every [Mercado]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Templos e mercados compartilham o mesmo espaço urbano."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Iorubá."
+      }
+    ]
+  },
+  {
+    "name": "Sociedades Iniciáticas (Vodun)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Vodun] Civilizations>",
+      "[+1 Faith] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Sociedades de iniciação transmitem o conhecimento ritual."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Vodun."
+      }
+    ]
+  },
+  {
+    "name": "Cerimônias dos Ancestrais (Vodun)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Vodun] Civilizations>",
+      "[+2 Culture] from every [Monumento dos Ancestrais]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Cerimônias mantêm viva a relação com os antepassados."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Vodun."
+      }
+    ]
+  },
+  {
+    "name": "Santuários Comunitários (Vodun)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Vodun] Civilizations>",
+      "[+1 Faith] from every [Casa dos Ancestrais]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Santuários comunitários ancoram a prática religiosa local."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Vodun."
+      }
+    ]
+  },
+  {
+    "name": "Linhagens e Autoridade Tradicional (Akan)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Akan] Civilizations>",
+      "[+1 Gold] from every [4] global followers [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Linhagens e autoridades tradicionais organizam a comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Akan."
+      }
+    ]
+  },
+  {
+    "name": "Memória dos Ancestrais (Akan)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Akan] Civilizations>",
+      "[+2 Culture] from every [Monumento dos Ancestrais]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A memória dos antepassados orienta a vida social e a política."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Akan."
+      }
+    ]
+  },
+  {
+    "name": "Ourivesaria Sagrada (Akan)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Akan] Civilizations>",
+      "[+1 Gold] from every [Casa de Moeda]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O ouro como arte, prestígio e símbolo de autoridade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Akan."
+      }
+    ]
+  },
+  {
+    "name": "Culto aos Ancestrais (Ancestral)",
+    "type": "Founder",
+    "uniques": [
+      "Only available <for [Tradição Ancestral] Civilizations>",
+      "[+1 Happiness] for each global city following this religion"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Os antepassados como elo entre as gerações da comunidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ancestral."
+      }
+    ]
+  },
+  {
+    "name": "Terra e Comunidade (Ancestral)",
+    "type": "Follower",
+    "uniques": [
+      "Only available <for [Tradição Ancestral] Civilizations>",
+      "[+15]% growth [in this city] <when not at war>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "O cuidado com a terra e com a comunidade sustenta a vida local."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ancestral."
+      }
+    ]
+  },
+  {
+    "name": "Memória Comunitária (Ancestral)",
+    "type": "Enhancer",
+    "uniques": [
+      "Only available <for [Tradição Ancestral] Civilizations>",
+      "[+1 Culture] from every [Casa dos Ancestrais]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Memória oral e lugares de reunião preservam a identidade."
+      },
+      {
+        "text": "Disponível apenas para a Tradição Ancestral."
+      }
+    ]
+  }
+]

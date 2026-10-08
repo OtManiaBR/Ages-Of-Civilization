@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Civilian",
+    "movementType": "Land"
+  },
+  {
+    "name": "Sword",
+    "movementType": "Land"
+  },
+  {
+    "name": "Scout",
+    "movementType": "Land"
+  },
+  {
+    "name": "Archery",
+    "movementType": "Land"
+  },
+  {
+    "name": "Spear",
+    "movementType": "Land"
+  },
+  {
+    "name": "Mounted",
+    "movementType": "Land"
+  },
+  {
+    "name": "Siege",
+    "movementType": "Land"
+  },
+  {
+    "name": "WaterCivilian",
+    "movementType": "Water"
+  },
+  {
+    "name": "NavalMelee",
+    "movementType": "Water"
+  },
+  {
+    "name": "Air",
+    "movementType": "Air"
+  },
+  {
+    "name": "NavalRanged",
+    "movementType": "Water"
+  }
+]

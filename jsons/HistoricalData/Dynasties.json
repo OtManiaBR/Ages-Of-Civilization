@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dynasty_egypt_early",
+    "name": "Casa Real Egípcia",
+    "countryId": "country_egypt",
+    "type": "HEREDITARY"
+  },
+  {
+    "id": "dynasty_argead",
+    "name": "Argéada",
+    "countryId": "country_macedonia",
+    "type": "HEREDITARY"
+  },
+  {
+    "id": "dynasty_achaemenid",
+    "name": "Aquemenida",
+    "countryId": "country_persia",
+    "type": "HEREDITARY"
+  },
+  {
+    "id": "dynasty_qin",
+    "name": "Qin",
+    "countryId": "country_china",
+    "type": "IMPERIAL"
+  },
+  {
+    "id": "dynasty_maurya",
+    "name": "Máuria",
+    "countryId": "country_india",
+    "type": "IMPERIAL"
+  }
+]

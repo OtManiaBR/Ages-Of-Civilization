@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Clear Barbarian Camp",
+    "description": "Destrua o acampamento bárbaro que ameaça esta cidade-estado.",
+    "type": "Individual",
+    "influence": 45,
+    "duration": 0,
+    "minimumCivs": 1,
+    "weightForCityStateType": {
+      "Militaristic": 1.8,
+      "Hostile": 1.3
+    }
+  },
+  {
+    "name": "Route",
+    "description": "Conecte esta cidade-estado à capital de sua civilização por estradas ou ferrovias.",
+    "type": "Individual",
+    "influence": 35,
+    "duration": 0,
+    "minimumCivs": 1,
+    "weightForCityStateType": {
+      "Mercantile": 1.5,
+      "Maritime": 1.2
+    }
+  },
+  {
+    "name": "Connect Resource",
+    "description": "Conecte o recurso [tileResource] à sua rede comercial.",
+    "type": "Individual",
+    "influence": 35,
+    "duration": 0,
+    "minimumCivs": 1,
+    "weightForCityStateType": {
+      "Mercantile": 1.7
+    }
+  },
+  {
+    "name": "Find Natural Wonder",
+    "description": "Descubra a maravilha natural [naturalWonder].",
+    "type": "Individual",
+    "influence": 30,
+    "duration": 0,
+    "minimumCivs": 1,
+    "weightForCityStateType": {
+      "Cultural": 1.5,
+      "Religious": 1.2
+    }
+  },
+  {
+    "name": "Contest Faith",
+    "description": "Acumule mais Fé do que as outras civilizações durante o período da disputa.",
+    "type": "Global",
+    "influence": 40,
+    "duration": 30,
+    "minimumCivs": 3,
+    "weightForCityStateType": {
+      "Religious": 3.0,
+      "Cultural": 1.2
+    }
+  },
+  {
+    "name": "Spread Religion",
+    "description": "Leve sua religião a esta região e conquiste a confiança da comunidade.",
+    "type": "Individual",
+    "influence": 45,
+    "duration": 0,
+    "minimumCivs": 1,
+    "weightForCityStateType": {
+      "Religious": 3.0
+    }
+  }
+]

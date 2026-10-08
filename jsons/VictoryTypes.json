@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Domination",
+    "victoryScreenHeader": "Conquiste todas as capitais inimigas para vencer!",
+    "milestones": [
+      "Capture all capitals"
+    ],
+    "victoryString": "Seu Estado sobreviveu à competição entre as grandes potências.",
+    "defeatString": "Seu Estado deixou de existir como potência independente."
+  },
+  {
+    "name": "Time",
+    "hiddenInVictoryScreen": true,
+    "milestones": [
+      "Have highest score after max turns"
+    ],
+    "victoryString": "Sua trajetória histórica chegou ao fim do período definido.",
+    "defeatString": "Outro Estado acumulou maior legado histórico."
+  },
+  {
+    "name": "Cultural",
+    "victoryScreenHeader": "Complete 10 árvores de políticas e construa o Projeto da Utopia para vencer!",
+    "milestones": [
+      "Complete [10] Policy branches",
+      "Build [Projeto da Utopia]"
+    ],
+    "victoryString": "Sua civilização conquistou a vitória por meio da Cultura. Suas instituições, artes, ideias e patrimônio tornaram-se uma referência para o mundo.",
+    "defeatString": "Sua civilização não concluiu seu projeto cultural antes que outra potência definisse o rumo da história.",
+    "civilopediaText": [
+      {
+        "text": "A vitória cultural representa o poder de moldar o mundo por meio de instituições, artes, conhecimento, tradições e influência duradoura. É necessário completar dez árvores de políticas e construir o Projeto da Utopia."
+      }
+    ]
+  },
+  {
+    "name": "Scientific",
+    "victoryScreenHeader": "Conclua o caminho científico e construa as três grandes instituições de ciência para vencer!",
+    "milestones": [
+      "Build [Laboratório de Nanotecnologia]",
+      "Build [Observatório Espacial]",
+      "Build [Universidade Planetária]"
+    ],
+    "victoryString": "Sua civilização transformou ciência, pesquisa e exploração espacial em seu maior legado.",
+    "defeatString": "Outra potência concluiu primeiro o grande projeto científico da era moderna."
+  },
+  {
+    "name": "Diplomatic",
+    "victoryScreenHeader": "Construa a Chancelaria Imperial e vença uma votação diplomática para dominar a ordem internacional!",
+    "milestones": [
+      "Build [Chancelaria Imperial]",
+      "Win diplomatic vote"
+    ],
+    "victoryString": "Sua civilização conquistou a liderança internacional por meio da diplomacia, influência e instituições globais.",
+    "defeatString": "Sua civilização não conseguiu consolidar liderança suficiente para vencer a disputa diplomática."
+  },
+  {
+    "name": "Religious",
+    "victoryScreenHeader": "Construa o Grande Templo e torne sua religião a dominante entre as grandes civilizações!",
+    "milestones": [
+      "Build [Grande Templo]",
+      "Become the world religion"
+    ],
+    "victoryString": "Sua religião tornou-se a principal força espiritual do mundo conhecido.",
+    "defeatString": "Outra tradição religiosa tornou-se a fé predominante entre as grandes civilizações.",
+    "civilopediaText": [
+      {
+        "text": "A vitória religiosa combina uma grande instituição sagrada com ampla influência da religião sobre as civilizações do mundo."
+      }
+    ]
+  },
+  {
+    "name": "Economic",
+    "victoryScreenHeader": "Construa as três instituições financeiras máximas para alcançar a hegemonia econômica!",
+    "milestones": [
+      "Build [Banco Central]",
+      "Build [Bolsa Mercantil]",
+      "Build [Bolsa de Tecnologia]"
+    ],
+    "victoryString": "Sua civilização tornou-se o principal centro financeiro, comercial e tecnológico do mundo.",
+    "defeatString": "Outra potência consolidou primeiro uma economia capaz de dominar o sistema internacional."
+  }
+]

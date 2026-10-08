@@ -1,0 +1,3254 @@
+[
+  {
+    "name": "Trigo",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "improvedBy": [
+      "Fazenda"
+    ],
+    "revealedBy": "Agricultura",
+    "food": 1
+  },
+  {
+    "name": "Peixe",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Coast"
+    ],
+    "improvedBy": [
+      "Barco Pesqueiro"
+    ],
+    "revealedBy": "Navegação",
+    "food": 1
+  },
+  {
+    "name": "Bovinos",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Criação de Animais",
+    "improvedBy": [
+      "Campo de Pastagem"
+    ],
+    "food": 1,
+    "production": 1
+  },
+  {
+    "name": "Sal",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Desert",
+      "Plains"
+    ],
+    "revealedBy": "Moeda",
+    "improvedBy": [
+      "Salina"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Azeitonas",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Plains",
+      "Grassland"
+    ],
+    "revealedBy": "Moeda",
+    "improvedBy": [
+      "Plantação de Olivas"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Uvas",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Moeda",
+    "improvedBy": [
+      "Vinhedo"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Incenso",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Desert",
+      "Plains"
+    ],
+    "revealedBy": "Filosofia",
+    "improvedBy": [
+      "Plantação de Incenso"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Prata",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "revealedBy": "Mineração",
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Gemas",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "revealedBy": "Mineração",
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "happiness": 4
+  },
+  {
+    "name": "Marfim",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Plains",
+      "Grassland"
+    ],
+    "revealedBy": "Criação de Animais",
+    "improvedBy": [
+      "Acampamento de Marfim"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Corantes",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Filosofia",
+    "improvedBy": [
+      "Plantação de Corantes"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Papiro",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland"
+    ],
+    "revealedBy": "Escrita",
+    "improvedBy": [
+      "Plantação de Papiro"
+    ],
+    "food": 1,
+    "science": 1
+  },
+  {
+    "name": "Cobre",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "revealedBy": "Mineração",
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "production": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Bronze",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "revealedBy": "Metalurgia",
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "production": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Ferro",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "revealedBy": "Mineração",
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "production": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Cavalos",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Criação de Animais",
+    "improvedBy": [
+      "Campo de Pastagem"
+    ],
+    "production": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Madeira",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains",
+      "Tundra",
+      "Forest"
+    ],
+    "revealedBy": "Agricultura",
+    "improvedBy": [
+      "Acampamento Madeireiro"
+    ],
+    "production": 1
+  },
+  {
+    "name": "Mármore",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "revealedBy": "Alvenaria",
+    "improvedBy": [
+      "Pedreira"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Ouro",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "revealedBy": "Mineração",
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "happiness": 4
+  },
+  {
+    "name": "Ervas Medicinais",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "improvedBy": [
+      "Horta Medicinal"
+    ],
+    "revealedBy": "Agronomia",
+    "food": 1,
+    "faith": 1
+  },
+  {
+    "name": "Arroz",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Agronomia",
+    "improvedBy": [
+      "Fazenda"
+    ],
+    "food": 1
+  },
+  {
+    "name": "Milho",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Agronomia",
+    "improvedBy": [
+      "Fazenda"
+    ],
+    "food": 1
+  },
+  {
+    "name": "Frutas",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Agronomia",
+    "improvedBy": [
+      "Fazenda"
+    ],
+    "food": 1
+  },
+  {
+    "name": "Algodão",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Administração",
+    "improvedBy": [
+      "Plantação de Algodão"
+    ],
+    "production": 1
+  },
+  {
+    "name": "Cana-de-açúcar",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Agronomia",
+    "improvedBy": [
+      "Plantação de Cana"
+    ],
+    "food": 1,
+    "gold": 1
+  },
+  {
+    "name": "Café",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Hill"
+    ],
+    "revealedBy": "Comércio Internacional",
+    "improvedBy": [
+      "Plantação de Café"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Cacau",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Comércio Internacional",
+    "improvedBy": [
+      "Plantação de Cacau"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Chá",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Hill"
+    ],
+    "revealedBy": "Comércio Internacional",
+    "improvedBy": [
+      "Plantação de Chá"
+    ],
+    "happiness": 3
+  },
+  {
+    "name": "Seda",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Comércio Internacional",
+    "improvedBy": [
+      "Sericultura"
+    ],
+    "happiness": 4
+  },
+  {
+    "name": "Lã",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains",
+      "Tundra"
+    ],
+    "revealedBy": "Criação de Animais",
+    "improvedBy": [
+      "Campo de Pastagem"
+    ],
+    "production": 1
+  },
+  {
+    "name": "Carvão",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "revealedBy": "Revolução Industrial",
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "production": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Petróleo",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Desert",
+      "Plains",
+      "Coast"
+    ],
+    "revealedBy": "Combustão",
+    "improvedBy": [
+      "Poço de Petróleo",
+      "Plataforma Petrolífera"
+    ],
+    "production": 1,
+    "gold": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Gás Natural",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Desert",
+      "Plains"
+    ],
+    "revealedBy": "Eletricidade",
+    "improvedBy": [
+      "Poço de Gás Natural"
+    ],
+    "production": 1,
+    "gold": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Borracha",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Química Industrial",
+    "improvedBy": [
+      "Plantação de Borracha"
+    ],
+    "production": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Bauxita",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill",
+      "Plains"
+    ],
+    "revealedBy": "Química Industrial",
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "production": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Níquel",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "revealedBy": "Aço",
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "production": 1,
+    "uniques": [
+      "Not shown on world screen"
+    ],
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Cânhamo",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Agronomia",
+    "improvedBy": [
+      "Plantação de Cânhamo"
+    ],
+    "production": 1
+  },
+  {
+    "name": "Cannabis",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Comércio Internacional",
+    "improvedBy": [
+      "Plantação de Cannabis"
+    ],
+    "gold": 1
+  },
+  {
+    "name": "Ópio",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "revealedBy": "Comércio Internacional",
+    "improvedBy": [
+      "Plantação de Ópio"
+    ],
+    "gold": 1
+  },
+  {
+    "name": "Feijão",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland"
+    ],
+    "improvedBy": [
+      "Fazenda"
+    ],
+    "revealedBy": "Agronomia",
+    "food": 1
+  },
+  {
+    "name": "Batata",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Tundra"
+    ],
+    "improvedBy": [
+      "Fazenda"
+    ],
+    "revealedBy": "Agronomia",
+    "food": 1
+  },
+  {
+    "name": "Mandioca",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland"
+    ],
+    "improvedBy": [
+      "Plantação de Raízes"
+    ],
+    "revealedBy": "Agronomia",
+    "food": 1
+  },
+  {
+    "name": "Bananas",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland"
+    ],
+    "improvedBy": [
+      "Plantação Tropical"
+    ],
+    "revealedBy": "Agronomia",
+    "food": 1
+  },
+  {
+    "name": "Lentilhas",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Plains",
+      "Desert"
+    ],
+    "improvedBy": [
+      "Fazenda"
+    ],
+    "revealedBy": "Agronomia",
+    "food": 1
+  },
+  {
+    "name": "Porcos",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "improvedBy": [
+      "Chiqueiro"
+    ],
+    "revealedBy": "Criação de Animais",
+    "food": 1,
+    "production": 1
+  },
+  {
+    "name": "Aves Domésticas",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "improvedBy": [
+      "Galinheiro"
+    ],
+    "revealedBy": "Criação de Animais",
+    "food": 1
+  },
+  {
+    "name": "Cromo",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "revealedBy": "Aço",
+    "production": 1,
+    "uniques": [
+      "Not shown on world screen"
+    ],
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Tungstênio",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "revealedBy": "Aço",
+    "production": 1,
+    "uniques": [
+      "Not shown on world screen"
+    ],
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Enxofre",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill",
+      "Desert"
+    ],
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "revealedBy": "Química Industrial",
+    "production": 1,
+    "uniques": [
+      "Not shown on world screen"
+    ],
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Urânio",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill",
+      "Tundra"
+    ],
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "revealedBy": "Energia Nuclear",
+    "production": 1,
+    "uniques": [
+      "Not shown on world screen"
+    ],
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Lítio",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill",
+      "Desert"
+    ],
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "revealedBy": "Eletrônica",
+    "production": 1,
+    "science": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Terras Raras",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "revealedBy": "Eletrônica",
+    "production": 1,
+    "science": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Silício",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Desert",
+      "Hill"
+    ],
+    "improvedBy": [
+      "Mina de Metais"
+    ],
+    "revealedBy": "Eletrônica",
+    "production": 1,
+    "science": 1,
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Fosfato",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Desert",
+      "Plains"
+    ],
+    "improvedBy": [
+      "Mina de Fosfato"
+    ],
+    "revealedBy": "Química Industrial",
+    "production": 1,
+    "uniques": [
+      "Not shown on world screen"
+    ],
+    "minorDepositAmount": {
+      "sparse": 2,
+      "default": 4,
+      "abundant": 6
+    },
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 6,
+      "abundant": 9
+    }
+  },
+  {
+    "name": "Pessoas Escravizadas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "AI will sell at [25] Gold",
+      "AI will buy at [35] Gold",
+      "Cannot be traded <before adopting [Comércio de Escravos]>",
+      "Cannot be traded <after adopting [Abolição]>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Recurso estratégico de estoque que representa pessoas escravizadas como mercadoria e força de trabalho. Acumula-se por infraestrutura ligada ao tráfico, pode ser comprado e vendido no comércio internacional enquanto o Comércio de Escravos estiver legalizado e é consumido pela expansão e manutenção de setores dependentes do trabalho escravizado. A Abolição encerra o comércio e zera o estoque."
+      }
+    ]
+  },
+  {
+    "name": "Infâmia",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Medida acumulada da percepção internacional de agressividade e expansionismo. Não pode ser comercializada. Aumenta com guerras ofensivas, conquistas e imposição de dependências; diminui com tratados de paz e concessões diplomáticas."
+      }
+    ]
+  },
+  {
+    "name": "Protetorados",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador abstrato de acordos de protetorado formalizados pela diplomacia do Estado. O JSON mantém a quantidade, enquanto a relação diplomática concreta continua sendo a do motor do Unciv."
+      }
+    ]
+  },
+  {
+    "name": "Estados Tributários",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador abstrato de acordos tributários formalizados pela diplomacia do Estado. O JSON mantém a quantidade, enquanto a relação diplomática concreta continua sendo a do motor do Unciv."
+      }
+    ]
+  },
+  {
+    "name": "Estados Fantoches",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador abstrato de governos dependentes/fantoches formalizados pela diplomacia do Estado. O JSON mantém a quantidade, enquanto a relação concreta com cada civilização não é armazenada pelo motor."
+      }
+    ]
+  },
+  {
+    "name": "Membros de Bloco",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador de parceiros incorporados ao bloco de poder por pactos diplomáticos. Representa o tamanho institucional do bloco sem criar um objeto de membro persistente no salvamento."
+      }
+    ]
+  },
+  {
+    "name": "Lucro Empresarial",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Capital operacional acumulado pelas companhias. Financia investimentos, expansão, reservas e dividendos."
+      }
+    ]
+  },
+  {
+    "name": "Prosperidade Empresarial",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Indicador agregado da saúde econômica das companhias, influenciado por expansão, especialização e estabilidade."
+      }
+    ]
+  },
+  {
+    "name": "Produtividade Empresarial",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Capacidade agregada das companhias de transformar recursos e capital em produção eficiente."
+      }
+    ]
+  },
+  {
+    "name": "Lealdade Empresarial",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Vínculo agregado entre companhias e Estado. Cresce com boa administração e estabilidade institucional."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Café",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Café. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Cacau",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Cacau. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Chá",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Chá. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Seda",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Seda. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Industrial de Ferro",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Industrial de Ferro. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Industrial de Carvão",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Industrial de Carvão. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Industrial de Cobre",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Industrial de Cobre. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Industrial de Níquel",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Industrial de Níquel. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Financeira de Ouro",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Financeira de Ouro. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Financeira de Prata",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Financeira de Prata. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Financeira de Gemas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Financeira de Gemas. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Colonial de Madeira",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Colonial de Madeira. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Colonial de Borracha",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Colonial de Borracha. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Colonial de Marfim",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Colonial de Marfim. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Sal",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Sal. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Azeitonas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Azeitonas. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Uvas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Uvas. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Incenso",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Incenso. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Corantes",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Corantes. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Industrial de Mármore",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Industrial de Mármore. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Café Premium",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Café selecionado para mercados de luxo, com foco em qualidade e reputação."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Café. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Ciência adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Chocolate Fino",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Cacau transformado em chocolate de alta qualidade para consumo de prestígio."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Cacau. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Cultura adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Chá Imperial",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Lote de chá selecionado, destinado a casas de chá e mercados de alto padrão."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Chá. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Cultura adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Seda Imperial",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Seda fina de seleção, preparada para tecidos de luxo e encomendas especiais."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Seda. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Ouro adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Aço Especial",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Aço de composição e acabamento superiores para usos industriais de alto valor."
+      },
+      {
+        "text": "Bem Premium da Companhia Industrial de Ferro. Com 1 em estoque: +3 de Felicidade e +5% de Produção. Com o estoque cheio (3): +8% de Produção adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Carvão Selecionado",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Carvão de qualidade controlada para forjas e consumidores industriais exigentes."
+      },
+      {
+        "text": "Bem Premium da Companhia Industrial de Carvão. Com 1 em estoque: +3 de Felicidade e +5% de Produção. Com o estoque cheio (3): +8% de Produção adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Cobre de Precisão",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Cobre beneficiado para usos técnicos, elétricos e manufaturas especializadas."
+      },
+      {
+        "text": "Bem Premium da Companhia Industrial de Cobre. Com 1 em estoque: +3 de Felicidade e +5% de Produção. Com o estoque cheio (3): +8% de Ciência adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Liga Especial de Níquel",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Liga de níquel de alto desempenho para aplicações técnicas e industriais."
+      },
+      {
+        "text": "Bem Premium da Companhia Industrial de Níquel. Com 1 em estoque: +3 de Felicidade e +5% de Produção. Com o estoque cheio (3): +8% de Ciência adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Certificados de Ouro",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Produto financeiro baseado em reservas e garantias da companhia de ouro."
+      },
+      {
+        "text": "Bem Premium da Companhia Financeira de Ouro. Com 1 em estoque: +3 de Felicidade e +8% de Ouro. Com o estoque cheio (3): +10% de Ouro adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Títulos de Prata",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Instrumento financeiro respaldado por reservas e operações da companhia de prata."
+      },
+      {
+        "text": "Bem Premium da Companhia Financeira de Prata. Com 1 em estoque: +3 de Felicidade e +8% de Ouro. Com o estoque cheio (3): +8% de Ciência adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Gemas de Coleção",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Gemas selecionadas, certificadas e preparadas para colecionadores e joalheiros."
+      },
+      {
+        "text": "Bem Premium da Companhia Financeira de Gemas. Com 1 em estoque: +3 de Felicidade e +8% de Ouro. Com o estoque cheio (3): +8% de Cultura adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Madeira Naval de Seleção",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Madeira escolhida para construção naval, estruturas finas e contratos especiais."
+      },
+      {
+        "text": "Bem Premium da Companhia Colonial de Madeira. Com 1 em estoque: +3 de Felicidade e +5% de Produção. Com o estoque cheio (3): +8% de Ouro adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Borracha Premium",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Borracha beneficiada de qualidade superior para manufaturas e mercados especializados."
+      },
+      {
+        "text": "Bem Premium da Companhia Colonial de Borracha. Com 1 em estoque: +3 de Felicidade e +5% de Produção. Com o estoque cheio (3): +8% de Produção adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Marfim de Coleção",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Peças trabalhadas e selecionadas para o mercado de luxo e coleções."
+      },
+      {
+        "text": "Bem Premium da Companhia Colonial de Marfim. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Cultura adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Sal de Alta Pureza",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Sal refinado e padronizado para usos alimentares, comerciais e especializados."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Sal. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Comida adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Azeite Extra Virgem",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Azeite de seleção produzido para mercados de alimentação fina e comércio de luxo."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Azeitonas. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Comida adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Vinho de Safra Especial",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Vinho de uma safra selecionada, destinado a mercados de prestígio."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Uvas. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Cultura adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Incenso de Santuário",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Incenso selecionado para mercados religiosos, cerimoniais e de alto valor."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Incenso. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Fé adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Corante de Alta Fixação",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Corante concentrado e estável para tecidos finos e manufaturas de qualidade."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Corantes. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Produção adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Mármore Monumental",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Mármore de seleção para monumentos, palácios e obras arquitetônicas de alto valor."
+      },
+      {
+        "text": "Bem Premium da Companhia Industrial de Mármore. Com 1 em estoque: +3 de Felicidade e +5% de Produção. Com o estoque cheio (3): +8% de Cultura adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Empresas Comerciais Ativas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Empresas Industriais Ativas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Empresas Financeiras Ativas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Empresas Coloniais Ativas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Veados",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Forest",
+      "Tundra"
+    ],
+    "improvedBy": [
+      "Acampamento de Caça"
+    ],
+    "revealedBy": "Criação de Animais",
+    "food": 1,
+    "civilopediaText": [
+      {
+        "text": "Caça de grande porte das florestas e da tundra. Fornece carne e couro; alimenta a Companhia Alimentar de Carne."
+      }
+    ]
+  },
+  {
+    "name": "Pedra",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Desert",
+      "Tundra"
+    ],
+    "improvedBy": [
+      "Pedreira"
+    ],
+    "revealedBy": "Alvenaria",
+    "production": 1,
+    "civilopediaText": [
+      {
+        "text": "Pedra de construção comum. Explorada na Pedreira; também pode receber a sede da Companhia Industrial de Mármore."
+      }
+    ]
+  },
+  {
+    "name": "Peles",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Forest",
+      "Tundra"
+    ],
+    "improvedBy": [
+      "Acampamento de Caça"
+    ],
+    "revealedBy": "Criação de Animais",
+    "happiness": 3,
+    "civilopediaText": [
+      {
+        "text": "Peles finas de animais de clima frio. Base da Companhia Colonial de Peles."
+      }
+    ]
+  },
+  {
+    "name": "Trufas",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Forest",
+      "Marsh",
+      "Jungle"
+    ],
+    "improvedBy": [
+      "Acampamento de Caça"
+    ],
+    "revealedBy": "Agronomia",
+    "happiness": 3,
+    "civilopediaText": [
+      {
+        "text": "Fungos raros colhidos sob a floresta. Base da Companhia Comercial de Trufas."
+      }
+    ]
+  },
+  {
+    "name": "Especiarias",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Jungle",
+      "Forest",
+      "Marsh"
+    ],
+    "improvedBy": [
+      "Plantação de Especiarias"
+    ],
+    "revealedBy": "Comércio Internacional",
+    "happiness": 3,
+    "civilopediaText": [
+      {
+        "text": "Pimenta, cravo e noz-moscada: o grande produto das rotas de longa distância. Base da Companhia Comercial de Especiarias."
+      }
+    ]
+  },
+  {
+    "name": "Cítricos",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Jungle",
+      "Forest",
+      "Flood plains"
+    ],
+    "improvedBy": [
+      "Pomar de Cítricos"
+    ],
+    "revealedBy": "Agronomia",
+    "happiness": 3,
+    "food": 1,
+    "civilopediaText": [
+      {
+        "text": "Laranjas, limões e outros frutos cítricos, valorizados na dieta e no comércio. Base da Companhia Alimentar de Cítricos."
+      }
+    ]
+  },
+  {
+    "name": "Baleias",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Coast"
+    ],
+    "improvedBy": [
+      "Barco Pesqueiro"
+    ],
+    "revealedBy": "Exploração Marítima",
+    "happiness": 3,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "Baleias costeiras, fonte de óleo, osso e carne. Base da Companhia Colonial de Baleação."
+      }
+    ]
+  },
+  {
+    "name": "Pérolas",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Coast"
+    ],
+    "improvedBy": [
+      "Barco Pesqueiro"
+    ],
+    "revealedBy": "Navegação",
+    "happiness": 3,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "Bancos de ostras perlíferas em águas rasas. Base da Companhia Comercial de Pérolas."
+      }
+    ]
+  },
+  {
+    "name": "Caranguejos",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Coast"
+    ],
+    "improvedBy": [
+      "Barco Pesqueiro"
+    ],
+    "revealedBy": "Navegação",
+    "happiness": 3,
+    "food": 1,
+    "civilopediaText": [
+      {
+        "text": "Crustáceos de águas costeiras. Complementam o peixe na Companhia Alimentar de Pesca."
+      }
+    ]
+  },
+  {
+    "name": "Empresas Alimentares Ativas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Regime da Companhia Alimentar de Carne",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Alimentar de Carne. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Carne Curada Selecionada",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Carne salgada, defumada e acondicionada para abastecimento de longa distância."
+      },
+      {
+        "text": "Bem Premium da Companhia Alimentar de Carne. Com 1 em estoque: +3 de Felicidade e +5% de Comida. Com o estoque cheio (3): +8% de Produção adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Colonial de Peles",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Colonial de Peles. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Peles Nobres",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Peles selecionadas para mercados de luxo e vestuário de corte."
+      },
+      {
+        "text": "Bem Premium da Companhia Colonial de Peles. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Cultura adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Especiarias",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Especiarias. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Especiarias Raras",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Mistura selecionada de especiarias raras, de altíssimo valor por peso."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Especiarias. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Comida adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Trufas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Trufas. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Trufas Selecionadas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Trufas selecionadas por aroma e tamanho, vendidas a mesas de elite."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Trufas. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Cultura adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Alimentar de Cítricos",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Alimentar de Cítricos. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Cítricos de Exportação",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Cítricos selecionados, conservados para viagens longas e combate ao escorbuto."
+      },
+      {
+        "text": "Bem Premium da Companhia Alimentar de Cítricos. Com 1 em estoque: +3 de Felicidade e +5% de Comida. Com o estoque cheio (3): +10% de Comida adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Alimentar de Pesca",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Alimentar de Pesca. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Pescado em Conserva",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Pescado e frutos do mar salgados ou em conserva para abastecer cidades e frotas."
+      },
+      {
+        "text": "Bem Premium da Companhia Alimentar de Pesca. Com 1 em estoque: +3 de Felicidade e +5% de Comida. Com o estoque cheio (3): +8% de Ouro adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Colonial de Baleação",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Colonial de Baleação. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Óleo de Baleia Refinado",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Óleo de baleia refinado para iluminação e lubrificação industrial."
+      },
+      {
+        "text": "Bem Premium da Companhia Colonial de Baleação. Com 1 em estoque: +3 de Felicidade e +5% de Produção. Com o estoque cheio (3): +8% de Ciência adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Regime da Companhia Comercial de Pérolas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Flag oculto que registra o regime jurídico da Companhia Comercial de Pérolas. 0 = propriedade privada; 1 = empresa privada regulada; 2 = monopólio privado; 3 = monopólio estatal; 4 = empresa nacionalizada."
+      }
+    ]
+  },
+  {
+    "name": "Pérolas Selecionadas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Pérolas calibradas e certificadas para joalheria de corte."
+      },
+      {
+        "text": "Bem Premium da Companhia Comercial de Pérolas. Com 1 em estoque: +3 de Felicidade e +5% de Ouro. Com o estoque cheio (3): +8% de Ouro adicionais. É produzido na Assembleia de Acionistas e pode ser exportado por ouro, perdendo os bônus do lote vendido."
+      }
+    ]
+  },
+  {
+    "name": "Descoberta: Monte Fuji",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Cratera de Barringer",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Rochedo de Gibraltar",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Cataratas Vitória",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Monte Kilimanjaro",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Gêiser Old Faithful",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Monte Sinai",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Monte Kailash",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Cataratas do Iguaçu",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Chapada Diamantina",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Fernando de Noronha",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Mont Blanc",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Calçada dos Gigantes",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Vesúvio",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Lago Baikal",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Monte Ararat",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Depressão de Dalol",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Monte Halla",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Lago Titicaca",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Encontro das Águas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Pantanal",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Descoberta: Baía de Ha Long",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Café",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Café. Cresce 1 por turno enquanto a sede existir; ao atingir 8 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Café",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Café (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Cacau",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Cacau. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Cacau",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Cacau (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Chá",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Chá. Cresce 1 por turno enquanto a sede existir; ao atingir 7 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Chá",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Chá (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Seda",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Seda. Cresce 1 por turno enquanto a sede existir; ao atingir 10 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Seda",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Seda (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Industrial de Ferro",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Industrial de Ferro. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Industrial de Ferro",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Industrial de Ferro (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Industrial de Carvão",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Industrial de Carvão. Cresce 1 por turno enquanto a sede existir; ao atingir 8 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Industrial de Carvão",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Industrial de Carvão (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Industrial de Cobre",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Industrial de Cobre. Cresce 1 por turno enquanto a sede existir; ao atingir 10 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Industrial de Cobre",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Industrial de Cobre (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Industrial de Níquel",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Industrial de Níquel. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Industrial de Níquel",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Industrial de Níquel (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Financeira de Ouro",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Financeira de Ouro. Cresce 1 por turno enquanto a sede existir; ao atingir 11 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Financeira de Ouro",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Financeira de Ouro (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Financeira de Prata",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Financeira de Prata. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Financeira de Prata",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Financeira de Prata (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Financeira de Gemas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Financeira de Gemas. Cresce 1 por turno enquanto a sede existir; ao atingir 12 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Financeira de Gemas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Financeira de Gemas (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Colonial de Madeira",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Colonial de Madeira. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Colonial de Madeira",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Colonial de Madeira (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Colonial de Borracha",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Colonial de Borracha. Cresce 1 por turno enquanto a sede existir; ao atingir 8 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Colonial de Borracha",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Colonial de Borracha (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Colonial de Marfim",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Colonial de Marfim. Cresce 1 por turno enquanto a sede existir; ao atingir 10 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Colonial de Marfim",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Colonial de Marfim (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Sal",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Sal. Cresce 1 por turno enquanto a sede existir; ao atingir 8 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Sal",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Sal (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Azeitonas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Azeitonas. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Azeitonas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Azeitonas (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Uvas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Uvas. Cresce 1 por turno enquanto a sede existir; ao atingir 7 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Uvas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Uvas (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Incenso",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Incenso. Cresce 1 por turno enquanto a sede existir; ao atingir 10 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Incenso",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Incenso (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Corantes",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Corantes. Cresce 1 por turno enquanto a sede existir; ao atingir 8 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Corantes",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Corantes (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Industrial de Mármore",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Industrial de Mármore. Cresce 1 por turno enquanto a sede existir; ao atingir 8 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Industrial de Mármore",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Industrial de Mármore (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Alimentar de Carne",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Alimentar de Carne. Cresce 1 por turno enquanto a sede existir; ao atingir 8 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Alimentar de Carne",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Alimentar de Carne (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Colonial de Peles",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Colonial de Peles. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Colonial de Peles",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Colonial de Peles (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Especiarias",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Especiarias. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Especiarias",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Especiarias (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Trufas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Trufas. Cresce 1 por turno enquanto a sede existir; ao atingir 7 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Trufas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Trufas (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Alimentar de Cítricos",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Alimentar de Cítricos. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Alimentar de Cítricos",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Alimentar de Cítricos (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Alimentar de Pesca",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Alimentar de Pesca. Cresce 1 por turno enquanto a sede existir; ao atingir 7 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Alimentar de Pesca",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Alimentar de Pesca (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Colonial de Baleação",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Colonial de Baleação. Cresce 1 por turno enquanto a sede existir; ao atingir 8 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Colonial de Baleação",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Colonial de Baleação (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Ciclo da Companhia Comercial de Pérolas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do exercício da Companhia Comercial de Pérolas. Cresce 1 por turno enquanto a sede existir; ao atingir 9 abre a Assembleia de Acionistas."
+      }
+    ]
+  },
+  {
+    "name": "Nível da Companhia Comercial de Pérolas",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador oculto do capital reinvestido na Companhia Comercial de Pérolas (0 a 4). Cada nível aumenta os rendimentos da sede."
+      }
+    ]
+  },
+  {
+    "name": "Relógio de Crise Social",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Prazo do Investimento Privado",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded",
+      "Not shown on world screen",
+      "Will not be displayed in Civilopedia"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Contador interno usado para controlar o intervalo entre ciclos de investimento privado."
+      },
+      {
+        "text": "Não representa um recurso físico no mapa e é administrado automaticamente pelo sistema de investimento."
+      }
+    ]
+  },
+  {
+    "name": "Capital Privado",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Cannot be traded"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Reserva de capital pertencente ao setor privado. Não pertence ao Tesouro e é acumulada pelas condições econômicas, companhias e confiança das facções."
+      },
+      {
+        "text": "O capital financia automaticamente ciclos de investimento privado. Projetos pequenos, médios e grandes alcançam progressivamente mais cidades do núcleo."
+      }
+    ]
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Artefatos culturais",
+    "notification": "Encontramos artefatos culturais entre as ruínas! (+20 de Cultura)",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Gain [20] [Culture] <(modified by game speed)>",
+      "Play [policy] sound"
+    ],
+    "color": "#cf8ff7"
+  },
+  {
+    "name": "Camponeses dispostos a trabalhar",
+    "notification": "Um [Trabalhadores] se uniu a nós!",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Free [Trabalhadores] found in the ruins",
+      "Unavailable <on [Prince] difficulty or higher>"
+    ],
+    "excludedDifficulties": [
+      "Prince"
+    ]
+  },
+  {
+    "name": "Colonos em busca de abrigo",
+    "notification": "Um [Fundadores] se uniu a nós!",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Free [Fundadores] found in the ruins",
+      "Unavailable <on [Warlord] difficulty or higher>",
+      "Play [wagon] sound"
+    ],
+    "excludedDifficulties": [
+      "Warlord",
+      "Prince"
+    ]
+  },
+  {
+    "name": "Treinamento do explorador",
+    "notification": "Uma tribo antiga nos treinou em suas técnicas de combate!",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "[This Unit] gains [10] XP",
+      "Only available <after turn number [10]>",
+      "Unavailable <for [Civilian] units>",
+      "Play [promote] sound"
+    ]
+  },
+  {
+    "name": "Sobreviventes",
+    "notification": "Encontramos sobreviventes nas ruínas! População adicionada a [cityName].",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "[+1] population in a random city",
+      "Play [wagon] sound"
+    ],
+    "color": "#81c784"
+  },
+  {
+    "name": "Tesouro escondido",
+    "notification": "",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Gain [50]-[100] [Gold] <(modified by game speed)>",
+      "Play [coin] sound"
+    ],
+    "color": "#ffeb7f"
+  },
+  {
+    "name": "Tecnologia perdida",
+    "notification": "Redescobrimos a tecnologia perdida de [techName] nas ruínas!",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "[1] free random researchable Tech(s) from the [Antiguidade]"
+    ],
+    "color": "#7f7fff"
+  },
+  {
+    "name": "Armamento avançado",
+    "notification": "Nossa unidade encontrou armamento avançado escondido nas ruínas!",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "[This Unit] upgrades for free including special upgrades"
+    ]
+  },
+  {
+    "name": "Sinais de atividade bárbara",
+    "notification": "Há indícios de atividade bárbara. Acampamentos próximos foram revelados!",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Reveal up to [All] [Barbarian encampment] within a [10] tile radius"
+    ]
+  },
+  {
+    "name": "Mapa antigo",
+    "notification": "Encontramos um mapa desenhado à mão nas ruínas!",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"
+    ]
+  },
+  {
+    "name": "Símbolos sagrados",
+    "notification": "Encontramos símbolos sagrados nas ruínas, aprofundando nossa compreensão da religião! (+[faithAmount] de Fé)",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <when religion is enabled>",
+      "Gain enough Faith for a Pantheon",
+      "Only available <before founding a Pantheon>",
+      "Only available <after turn number [20]>",
+      "Play [choir] sound"
+    ],
+    "color": "#CDDDF4"
+  },
+  {
+    "name": "Profecia antiga",
+    "notification": "Encontramos uma profecia antiga nas ruínas, fortalecendo nossa ligação espiritual! (+[faithAmount] de Fé)",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <when religion is enabled>",
+      "Gain enough Faith for [33]% of a Great Prophet",
+      "Unavailable <after generating a Great Prophet>",
+      "Only available <after founding a Pantheon>",
+      "Only available <after turn number [20]>",
+      "Play [choir] sound"
+    ],
+    "color": "#CDDDF4"
+  },
+  {
+    "name": "Ruínas Egípcias",
+    "notification": "Nossos exploradores encontraram ruínas Egípcias! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Egípcia] Civilizations>",
+      "Triggers a [Ruínas — Egípcias] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas de Kush e Axum",
+    "notification": "Nossos exploradores encontraram ruínas de Kush e Axum! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança de Kush e Axum] Civilizations>",
+      "Triggers a [Ruínas — de Kush e Axum] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas de Nok e do Zimbábue",
+    "notification": "Nossos exploradores encontraram ruínas de Nok e do Zimbábue! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança de Nok e do Zimbábue] Civilizations>",
+      "Triggers a [Ruínas — de Nok e do Zimbábue] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Mesopotâmicas",
+    "notification": "Nossos exploradores encontraram ruínas Mesopotâmicas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Mesopotâmica] Civilizations>",
+      "Triggers a [Ruínas — Mesopotâmicas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Persas",
+    "notification": "Nossos exploradores encontraram ruínas Persas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Persa] Civilizations>",
+      "Triggers a [Ruínas — Persas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Fenícias",
+    "notification": "Nossos exploradores encontraram ruínas Fenícias! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Fenícia] Civilizations>",
+      "Triggers a [Ruínas — Fenícias] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Cartaginesas",
+    "notification": "Nossos exploradores encontraram ruínas Cartaginesas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Cartaginesa] Civilizations>",
+      "Triggers a [Ruínas — Cartaginesas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Helênicas",
+    "notification": "Nossos exploradores encontraram ruínas Helênicas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Helênica] Civilizations>",
+      "Triggers a [Ruínas — Helênicas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Romanas",
+    "notification": "Nossos exploradores encontraram ruínas Romanas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Romana] Civilizations>",
+      "Triggers a [Ruínas — Romanas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Celtas",
+    "notification": "Nossos exploradores encontraram ruínas Celtas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Celta] Civilizations>",
+      "Triggers a [Ruínas — Celtas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Germânicas",
+    "notification": "Nossos exploradores encontraram ruínas Germânicas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Germânica] Civilizations>",
+      "Triggers a [Ruínas — Germânicas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Cítias",
+    "notification": "Nossos exploradores encontraram ruínas Cítias! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Cítia] Civilizations>",
+      "Triggers a [Ruínas — Cítias] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Indianas",
+    "notification": "Nossos exploradores encontraram ruínas Indianas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Indiana] Civilizations>",
+      "Triggers a [Ruínas — Indianas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Han e do Leste Asiático",
+    "notification": "Nossos exploradores encontraram ruínas Han e do Leste Asiático! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Han] Civilizations>",
+      "Triggers a [Ruínas — Han e do Leste Asiático] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Austronésias",
+    "notification": "Nossos exploradores encontraram ruínas Austronésias! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Austronésia] Civilizations>",
+      "Triggers a [Ruínas — Austronésias] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Mesoamericanas",
+    "notification": "Nossos exploradores encontraram ruínas Mesoamericanas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Mesoamericana] Civilizations>",
+      "Triggers a [Ruínas — Mesoamericanas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Andinas",
+    "notification": "Nossos exploradores encontraram ruínas Andinas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Andina] Civilizations>",
+      "Triggers a [Ruínas — Andinas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Marajoaras e Tapajônicas",
+    "notification": "Nossos exploradores encontraram ruínas Marajoaras e Tapajônicas! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Marajoara] Civilizations>",
+      "Triggers a [Ruínas — Marajoaras e Tapajônicas] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  },
+  {
+    "name": "Ruínas Cahokianas e Pueblo",
+    "notification": "Nossos exploradores encontraram ruínas Cahokianas e Pueblo! Elas pertencem ao passado de nossa gente.",
+    "uniques": [
+      "Remove [all] resources from this tile",
+      "Only available <for [Herança Cahokiana] Civilizations>",
+      "Triggers a [Ruínas — Cahokianas e Pueblo] event",
+      "Play [policy] sound"
+    ],
+    "weight": 3,
+    "color": "#d9a441"
+  }
+]

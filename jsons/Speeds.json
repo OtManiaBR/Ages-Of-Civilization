@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Quick",
+    "modifier": 0.67,
+    "productionCostModifier": 0.67,
+    "goldCostModifier": 0.67,
+    "scienceCostModifier": 0.67,
+    "cultureCostModifier": 0.67,
+    "faithCostModifier": 0.67,
+    "improvementBuildLengthModifier": 0.67,
+    "barbarianModifier": 0.67,
+    "goldGiftModifier": 1.2,
+    "cityStateTributeScalingInterval": 5,
+    "goldenAgeLengthModifier": 0.8,
+    "religiousPressureAdjacentCity": 8,
+    "peaceDealDuration": 10,
+    "dealDuration": 25,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 100,
+        "untilTurn": 25
+      },
+      {
+        "yearsPerTurn": 60,
+        "untilTurn": 50
+      },
+      {
+        "yearsPerTurn": 30,
+        "untilTurn": 80
+      },
+      {
+        "yearsPerTurn": 15,
+        "untilTurn": 110
+      },
+      {
+        "yearsPerTurn": 8,
+        "untilTurn": 140
+      },
+      {
+        "yearsPerTurn": 4,
+        "untilTurn": 170
+      },
+      {
+        "yearsPerTurn": 2,
+        "untilTurn": 210
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 260
+      }
+    ]
+  },
+  {
+    "name": "Standard",
+    "modifier": 1.0,
+    "productionCostModifier": 1.0,
+    "goldCostModifier": 1.0,
+    "scienceCostModifier": 1.0,
+    "cultureCostModifier": 1.0,
+    "faithCostModifier": 1.0,
+    "improvementBuildLengthModifier": 1.0,
+    "barbarianModifier": 1.0,
+    "goldGiftModifier": 1.0,
+    "cityStateTributeScalingInterval": 7,
+    "goldenAgeLengthModifier": 1.0,
+    "religiousPressureAdjacentCity": 6,
+    "peaceDealDuration": 15,
+    "dealDuration": 30,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 50,
+        "untilTurn": 50
+      },
+      {
+        "yearsPerTurn": 25,
+        "untilTurn": 100
+      },
+      {
+        "yearsPerTurn": 15,
+        "untilTurn": 150
+      },
+      {
+        "yearsPerTurn": 10,
+        "untilTurn": 200
+      },
+      {
+        "yearsPerTurn": 5,
+        "untilTurn": 250
+      },
+      {
+        "yearsPerTurn": 2,
+        "untilTurn": 300
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 350
+      }
+    ]
+  },
+  {
+    "name": "Epic",
+    "modifier": 1.5,
+    "productionCostModifier": 1.5,
+    "goldCostModifier": 1.5,
+    "scienceCostModifier": 1.5,
+    "cultureCostModifier": 1.5,
+    "faithCostModifier": 1.5,
+    "improvementBuildLengthModifier": 1.5,
+    "barbarianModifier": 1.5,
+    "goldGiftModifier": 0.9,
+    "cityStateTributeScalingInterval": 10,
+    "goldenAgeLengthModifier": 1.25,
+    "religiousPressureAdjacentCity": 4,
+    "peaceDealDuration": 18,
+    "dealDuration": 45,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 30,
+        "untilTurn": 75
+      },
+      {
+        "yearsPerTurn": 20,
+        "untilTurn": 150
+      },
+      {
+        "yearsPerTurn": 12,
+        "untilTurn": 225
+      },
+      {
+        "yearsPerTurn": 8,
+        "untilTurn": 300
+      },
+      {
+        "yearsPerTurn": 4,
+        "untilTurn": 400
+      },
+      {
+        "yearsPerTurn": 2,
+        "untilTurn": 500
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 600
+      }
+    ]
+  },
+  {
+    "name": "Marathon",
+    "modifier": 3.0,
+    "productionCostModifier": 3.0,
+    "goldCostModifier": 3.0,
+    "scienceCostModifier": 3.0,
+    "cultureCostModifier": 3.0,
+    "faithCostModifier": 3.0,
+    "improvementBuildLengthModifier": 3.0,
+    "barbarianModifier": 3.0,
+    "goldGiftModifier": 0.75,
+    "cityStateTributeScalingInterval": 20,
+    "goldenAgeLengthModifier": 2.0,
+    "religiousPressureAdjacentCity": 2,
+    "peaceDealDuration": 30,
+    "dealDuration": 75,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 20,
+        "untilTurn": 150
+      },
+      {
+        "yearsPerTurn": 12,
+        "untilTurn": 300
+      },
+      {
+        "yearsPerTurn": 8,
+        "untilTurn": 450
+      },
+      {
+        "yearsPerTurn": 4,
+        "untilTurn": 650
+      },
+      {
+        "yearsPerTurn": 2,
+        "untilTurn": 850
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 1100
+      }
+    ]
+  },
+  {
+    "name": "Relâmpago",
+    "modifier": 0.5,
+    "productionCostModifier": 0.5,
+    "goldCostModifier": 0.5,
+    "scienceCostModifier": 0.5,
+    "cultureCostModifier": 0.5,
+    "faithCostModifier": 0.5,
+    "improvementBuildLengthModifier": 0.5,
+    "barbarianModifier": 0.5,
+    "goldGiftModifier": 1.5,
+    "cityStateTributeScalingInterval": 3.5,
+    "goldenAgeLengthModifier": 0.65,
+    "religiousPressureAdjacentCity": 12,
+    "peaceDealDuration": 8,
+    "dealDuration": 20,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 80,
+        "untilTurn": 35
+      },
+      {
+        "yearsPerTurn": 50,
+        "untilTurn": 60
+      },
+      {
+        "yearsPerTurn": 30,
+        "untilTurn": 85
+      },
+      {
+        "yearsPerTurn": 15,
+        "untilTurn": 115
+      },
+      {
+        "yearsPerTurn": 8,
+        "untilTurn": 140
+      },
+      {
+        "yearsPerTurn": 4,
+        "untilTurn": 170
+      },
+      {
+        "yearsPerTurn": 2,
+        "untilTurn": 215
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 260
+      }
+    ]
+  },
+  {
+    "name": "Lenta",
+    "modifier": 2.0,
+    "productionCostModifier": 2.0,
+    "goldCostModifier": 2.0,
+    "scienceCostModifier": 2.0,
+    "cultureCostModifier": 2.0,
+    "faithCostModifier": 2.0,
+    "improvementBuildLengthModifier": 2.0,
+    "barbarianModifier": 2.0,
+    "goldGiftModifier": 0.8,
+    "cityStateTributeScalingInterval": 13.0,
+    "goldenAgeLengthModifier": 1.5,
+    "religiousPressureAdjacentCity": 3,
+    "peaceDealDuration": 20,
+    "dealDuration": 60,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 20,
+        "untilTurn": 90
+      },
+      {
+        "yearsPerTurn": 12,
+        "untilTurn": 180
+      },
+      {
+        "yearsPerTurn": 8,
+        "untilTurn": 250
+      },
+      {
+        "yearsPerTurn": 4,
+        "untilTurn": 380
+      },
+      {
+        "yearsPerTurn": 2,
+        "untilTurn": 500
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 650
+      },
+      {
+        "yearsPerTurn": 0.5,
+        "untilTurn": 760
+      }
+    ]
+  },
+  {
+    "name": "Colossal",
+    "modifier": 4.0,
+    "productionCostModifier": 4.0,
+    "goldCostModifier": 4.0,
+    "scienceCostModifier": 4.0,
+    "cultureCostModifier": 4.0,
+    "faithCostModifier": 4.0,
+    "improvementBuildLengthModifier": 4.0,
+    "barbarianModifier": 5.0,
+    "goldGiftModifier": 0.6,
+    "cityStateTributeScalingInterval": 40.0,
+    "goldenAgeLengthModifier": 2.5,
+    "religiousPressureAdjacentCity": 1,
+    "peaceDealDuration": 40,
+    "dealDuration": 120,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 12,
+        "untilTurn": 150
+      },
+      {
+        "yearsPerTurn": 8,
+        "untilTurn": 500
+      },
+      {
+        "yearsPerTurn": 4,
+        "untilTurn": 720
+      },
+      {
+        "yearsPerTurn": 2,
+        "untilTurn": 1000
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 1500
+      },
+      {
+        "yearsPerTurn": 0.5,
+        "untilTurn": 1900
+      }
+    ]
+  },
+  {
+    "name": "Eterna",
+    "modifier": 6.0,
+    "productionCostModifier": 6.0,
+    "goldCostModifier": 6.0,
+    "scienceCostModifier": 6.0,
+    "cultureCostModifier": 6.0,
+    "faithCostModifier": 6.0,
+    "improvementBuildLengthModifier": 6.0,
+    "barbarianModifier": 6.0,
+    "goldGiftModifier": 0.5,
+    "cityStateTributeScalingInterval": 55.0,
+    "goldenAgeLengthModifier": 3.0,
+    "religiousPressureAdjacentCity": 1,
+    "peaceDealDuration": 50,
+    "dealDuration": 150,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 10,
+        "untilTurn": 200
+      },
+      {
+        "yearsPerTurn": 6,
+        "untilTurn": 600
+      },
+      {
+        "yearsPerTurn": 3,
+        "untilTurn": 900
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 1500
+      },
+      {
+        "yearsPerTurn": 0.5,
+        "untilTurn": 2100
+      },
+      {
+        "yearsPerTurn": 0.25,
+        "untilTurn": 2600
+      }
+    ]
+  }
+]

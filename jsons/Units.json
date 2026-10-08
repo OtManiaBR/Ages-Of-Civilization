@@ -1,0 +1,3753 @@
+[
+  {
+    "name": "Trabalhadores",
+    "unitType": "Civilian",
+    "movement": 2,
+    "requiredTech": "Agricultura",
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+      "Automation is a primary action"
+    ],
+    "cost": 60
+  },
+  {
+    "name": "Fundadores",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 100,
+    "requiredTech": "Agricultura",
+    "uniques": [
+      "Founds a new city <by consuming this unit>",
+      "Requires at least [1] population"
+    ]
+  },
+  {
+    "name": "Fundador de Companhia",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 60,
+    "requiredTech": "Comércio Internacional",
+    "uniques": [
+      "Can instantly construct a [Companhia Comercial de Café] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Cacau] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Chá] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Seda] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Industrial de Ferro] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Industrial de Carvão] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Industrial de Cobre] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Industrial de Níquel] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Financeira de Ouro] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Financeira de Prata] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Financeira de Gemas] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Colonial de Madeira] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Colonial de Borracha] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Colonial de Marfim] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Sal] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Azeitonas] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Uvas] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Incenso] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Corantes] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Industrial de Mármore] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Alimentar de Carne] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Colonial de Peles] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Especiarias] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Trufas] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Alimentar de Cítricos] improvement <by consuming this unit>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Empreendedor, administrador ou grupo fundador encarregado de estabelecer uma companhia. Mova-o até um recurso elegível e funde a sede da companhia."
+      },
+      {
+        "text": "A disponibilidade é determinada pelo recurso do tile e inclui as 25 sedes terrestres de companhia da Ruleset. As sedes em águas costeiras são fundadas pelo Fundador Marítimo."
+      }
+    ]
+  },
+  {
+    "name": "Batedores",
+    "unitType": "Scout",
+    "movement": 2,
+    "strength": 4,
+    "cost": 25,
+    "requiredTech": "Agricultura",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Ignores terrain cost",
+      "Triggers a [Descoberta — Monte Fuji] event <upon entering a [Monte Fuji] tile> <in [Monte Fuji] tiles> <when below [1] [Descoberta: Monte Fuji]>",
+      "Triggers a [Descoberta — Cratera de Barringer] event <upon entering a [Cratera de Barringer] tile> <in [Cratera de Barringer] tiles> <when below [1] [Descoberta: Cratera de Barringer]>",
+      "Triggers a [Descoberta — Rochedo de Gibraltar] event <upon entering a [Rochedo de Gibraltar] tile> <in [Rochedo de Gibraltar] tiles> <when below [1] [Descoberta: Rochedo de Gibraltar]>",
+      "Triggers a [Descoberta — Cataratas Vitória] event <upon entering a [Cataratas Vitória] tile> <in [Cataratas Vitória] tiles> <when below [1] [Descoberta: Cataratas Vitória]>",
+      "Triggers a [Descoberta — Monte Kilimanjaro] event <upon entering a [Monte Kilimanjaro] tile> <in [Monte Kilimanjaro] tiles> <when below [1] [Descoberta: Monte Kilimanjaro]>",
+      "Triggers a [Descoberta — Gêiser Old Faithful] event <upon entering a [Gêiser Old Faithful] tile> <in [Gêiser Old Faithful] tiles> <when below [1] [Descoberta: Gêiser Old Faithful]>",
+      "Triggers a [Descoberta — Monte Sinai] event <upon entering a [Monte Sinai] tile> <in [Monte Sinai] tiles> <when below [1] [Descoberta: Monte Sinai]>",
+      "Triggers a [Descoberta — Monte Kailash] event <upon entering a [Monte Kailash] tile> <in [Monte Kailash] tiles> <when below [1] [Descoberta: Monte Kailash]>",
+      "Triggers a [Descoberta — Cataratas do Iguaçu] event <upon entering a [Cataratas do Iguaçu] tile> <in [Cataratas do Iguaçu] tiles> <when below [1] [Descoberta: Cataratas do Iguaçu]>",
+      "Triggers a [Descoberta — Chapada Diamantina] event <upon entering a [Chapada Diamantina] tile> <in [Chapada Diamantina] tiles> <when below [1] [Descoberta: Chapada Diamantina]>",
+      "Triggers a [Descoberta — Fernando de Noronha] event <upon entering a [Fernando de Noronha] tile> <in [Fernando de Noronha] tiles> <when below [1] [Descoberta: Fernando de Noronha]>",
+      "Triggers a [Descoberta — Mont Blanc] event <upon entering a [Mont Blanc] tile> <in [Mont Blanc] tiles> <when below [1] [Descoberta: Mont Blanc]>",
+      "Triggers a [Descoberta — Calçada dos Gigantes] event <upon entering a [Calçada dos Gigantes] tile> <in [Calçada dos Gigantes] tiles> <when below [1] [Descoberta: Calçada dos Gigantes]>",
+      "Triggers a [Descoberta — Vesúvio] event <upon entering a [Vesúvio] tile> <in [Vesúvio] tiles> <when below [1] [Descoberta: Vesúvio]>",
+      "Triggers a [Descoberta — Lago Baikal] event <upon entering a [Lago Baikal] tile> <in [Lago Baikal] tiles> <when below [1] [Descoberta: Lago Baikal]>",
+      "Triggers a [Descoberta — Monte Ararat] event <upon entering a [Monte Ararat] tile> <in [Monte Ararat] tiles> <when below [1] [Descoberta: Monte Ararat]>",
+      "Triggers a [Descoberta — Depressão de Dalol] event <upon entering a [Depressão de Dalol] tile> <in [Depressão de Dalol] tiles> <when below [1] [Descoberta: Depressão de Dalol]>",
+      "Triggers a [Descoberta — Monte Halla] event <upon entering a [Monte Halla] tile> <in [Monte Halla] tiles> <when below [1] [Descoberta: Monte Halla]>",
+      "Triggers a [Descoberta — Lago Titicaca] event <upon entering a [Lago Titicaca] tile> <in [Lago Titicaca] tiles> <when below [1] [Descoberta: Lago Titicaca]>",
+      "Triggers a [Descoberta — Encontro das Águas] event <upon entering a [Encontro das Águas] tile> <in [Encontro das Águas] tiles> <when below [1] [Descoberta: Encontro das Águas]>",
+      "Triggers a [Descoberta — Pantanal] event <upon entering a [Pantanal] tile> <in [Pantanal] tiles> <when below [1] [Descoberta: Pantanal]>",
+      "Triggers a [Descoberta — Baía de Ha Long] event <upon entering a [Baía de Ha Long] tile> <in [Baía de Ha Long] tiles> <when below [1] [Descoberta: Baía de Ha Long]>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Explorador. Entrar em uma maravilha natural ou em ruínas antigas com um Batedor revela eventos de descoberta ligados à história das nações."
+      }
+    ]
+  },
+  {
+    "name": "Guerreiro",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 6,
+    "cost": 40,
+    "requiredTech": "Agricultura",
+    "upgradesTo": "Guerreiro de Ferro",
+    "attackSound": "nonmetalhit",
+    "promotions": [
+      "Drill I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Fundeiro",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 3,
+    "rangedStrength": 5,
+    "range": 1,
+    "cost": 35,
+    "requiredTech": "Agricultura",
+    "obsoleteTech": "Arco e Flecha",
+    "upgradesTo": "Arqueiro",
+    "promotions": [
+      "Arremesso de Funda I"
+    ],
+    "attackSound": "funda",
+    "civilopediaText": [
+      {
+        "text": "Combatente da primeira era armado com funda. Antes do arco e flecha, usa pedras ou projéteis simples para atacar à distância."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Arqueiro",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 4,
+    "rangedStrength": 6,
+    "cost": 40,
+    "requiredTech": "Arco e Flecha",
+    "obsoleteTech": "Metalurgia",
+    "attackSound": "arrow",
+    "promotions": [
+      "Accuracy I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Guerreiro de Ferro",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 10,
+    "cost": 70,
+    "requiredTech": "Metalurgia",
+    "attackSound": "metalhit",
+    "requiredResource": "Ferro",
+    "promotions": [
+      "Drill I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Lanceiro",
+    "unitType": "Spear",
+    "movement": 2,
+    "strength": 7,
+    "cost": 50,
+    "requiredTech": "Metalurgia",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "[+100]% Strength <vs [Mounted] units>"
+    ],
+    "attackSound": "nonmetalhit",
+    "requiredResource": "Bronze",
+    "promotions": [
+      "Shock I"
+    ]
+  },
+  {
+    "name": "Cavaleiro",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 8,
+    "cost": 80,
+    "requiredTech": "Cavalaria",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "[+50]% Strength <vs [Civilian] units>"
+    ],
+    "attackSound": "nonmetalhit",
+    "requiredResource": "Cavalos",
+    "upgradesTo": "Cavaleiro Couraçado",
+    "promotions": [
+      "Shock I"
+    ]
+  },
+  {
+    "name": "Catapulta",
+    "unitType": "Siege",
+    "movement": 1,
+    "strength": 5,
+    "rangedStrength": 14,
+    "range": 2,
+    "cost": 90,
+    "requiredTech": "Cerco",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Must set up to ranged attack"
+    ],
+    "attackSound": "catapult",
+    "promotions": [
+      "Accuracy I"
+    ]
+  },
+  {
+    "name": "Trirreme",
+    "unitType": "NavalMelee",
+    "movement": 3,
+    "strength": 12,
+    "cost": 60,
+    "requiredTech": "Navegação",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Cannot enter ocean tiles"
+    ],
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Navio de guerra a remo, típico das marinhas do Mediterrâneo antigo. Rápido em águas costeiras, mas incapaz de navegar em oceanos abertos."
+      }
+    ],
+    "upgradesTo": "Caravela"
+  },
+  {
+    "name": "Guarda Real",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 9,
+    "cost": 60,
+    "requiredTech": "Administração",
+    "requiredResource": "Ferro",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "[+10]% Strength"
+    ]
+  },
+  {
+    "name": "Carro de Guerra",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 10,
+    "cost": 75,
+    "requiredTech": "Cavalaria",
+    "requiredResource": "Cavalos",
+    "promotions": [
+      "Shock I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Besteiro",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 7,
+    "rangedStrength": 10,
+    "cost": 70,
+    "requiredTech": "Guildas",
+    "requiredResource": "Ferro",
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Cavaleiro Feudal",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 12,
+    "cost": 100,
+    "requiredTech": "Feudalismo",
+    "requiredResource": "Cavalos",
+    "promotions": [
+      "Shock I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Mosqueteiro",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 14,
+    "cost": 105,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "promotions": [
+      "Drill I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Canhão",
+    "unitType": "Siege",
+    "movement": 1,
+    "strength": 8,
+    "rangedStrength": 20,
+    "range": 2,
+    "cost": 120,
+    "requiredTech": "Pólvora",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Must set up to ranged attack"
+    ],
+    "promotions": [
+      "Accuracy I"
+    ]
+  },
+  {
+    "name": "Artilharia de Campo",
+    "unitType": "Siege",
+    "movement": 1,
+    "strength": 10,
+    "rangedStrength": 24,
+    "range": 2,
+    "cost": 150,
+    "requiredTech": "Artilharia",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Must set up to ranged attack"
+    ],
+    "promotions": [
+      "Accuracy I"
+    ]
+  },
+  {
+    "name": "Infantaria de Linha",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 18,
+    "cost": 135,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "promotions": [
+      "Drill I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Encouraçado",
+    "unitType": "NavalMelee",
+    "movement": 3,
+    "strength": 24,
+    "cost": 180,
+    "requiredTech": "Aço",
+    "upgradesTo": "Cruzador",
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Tanque",
+    "unitType": "Mounted",
+    "movement": 3,
+    "strength": 30,
+    "cost": 210,
+    "requiredTech": "Combustão",
+    "upgradesTo": "Tanque de Batalha Principal",
+    "promotions": [
+      "Shock I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Infantaria Mecanizada",
+    "unitType": "Sword",
+    "movement": 3,
+    "strength": 27,
+    "cost": 190,
+    "requiredTech": "Automóvel",
+    "promotions": [
+      "Drill I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Artilharia Autopropulsada",
+    "unitType": "Siege",
+    "movement": 2,
+    "strength": 16,
+    "rangedStrength": 30,
+    "range": 2,
+    "cost": 220,
+    "requiredTech": "Automóvel",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Must set up to ranged attack"
+    ]
+  },
+  {
+    "name": "Infantaria Redcoat",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino Unido",
+    "promotions": [
+      "Disciplina de Guarda I"
+    ]
+  },
+  {
+    "name": "Cavalaria Household",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 22,
+    "cost": 165,
+    "requiredTech": "Combustão",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino Unido",
+    "promotions": [
+      "Cavalaria de Choque I"
+    ]
+  },
+  {
+    "name": "Infantaria de Linha Francesa",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da França"
+  },
+  {
+    "name": "Cavalaria Chasseurs",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da França"
+  },
+  {
+    "name": "Infantaria Imperial Russa",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Império Russo"
+  },
+  {
+    "name": "Cossacos Imperiais",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 23,
+    "cost": 170,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Império Russo",
+    "promotions": [
+      "[Cossack] ability",
+      "Cavalaria de Choque I"
+    ]
+  },
+  {
+    "name": "Grenzer Austríacos",
+    "unitType": "Spear",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Império Austríaco",
+    "promotions": [
+      "Guerra de Fronteira I"
+    ]
+  },
+  {
+    "name": "Dragões Austríacos",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 165,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Império Austríaco"
+  },
+  {
+    "name": "Infantaria Prussiana",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Prússia"
+  },
+  {
+    "name": "Hussardos Prussianos",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 24,
+    "cost": 175,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Prússia"
+  },
+  {
+    "name": "Nizam-i Cedid Otomano",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Império Otomano"
+  },
+  {
+    "name": "Cavalaria Sipahi",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 22,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Império Otomano",
+    "promotions": [
+      "[Sipahi] ability"
+    ]
+  },
+  {
+    "name": "Infantaria Espanhola",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Espanha"
+  },
+  {
+    "name": "Cavalaria Real Espanhola",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Espanha"
+  },
+  {
+    "name": "Caçadores Portugueses",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino de Portugal"
+  },
+  {
+    "name": "Cavalaria Lusitana",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino de Portugal"
+  },
+  {
+    "name": "Infantaria Holandesa",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino dos Países Baixos"
+  },
+  {
+    "name": "Fuzileiros Coloniais Holandeses",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino dos Países Baixos"
+  },
+  {
+    "name": "Carabineiros Belgas",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Bélgica"
+  },
+  {
+    "name": "Guardas Civis Belgas",
+    "unitType": "Spear",
+    "movement": 2,
+    "strength": 19,
+    "cost": 140,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Bélgica",
+    "promotions": [
+      "Disciplina de Guarda I"
+    ]
+  },
+  {
+    "name": "Caroleanos Suecos",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Suécia"
+  },
+  {
+    "name": "Hussardos Suecos",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Suécia"
+  },
+  {
+    "name": "Guardas Dinamarqueses",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Dinamarca"
+  },
+  {
+    "name": "Cavalaria Dinamarquesa",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Dinamarca"
+  },
+  {
+    "name": "Infantaria Bávara",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Baviera"
+  },
+  {
+    "name": "Cavalaria Bávara",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Baviera"
+  },
+  {
+    "name": "Bersaglieri Piemonteses",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Sardenha-Piemonte"
+  },
+  {
+    "name": "Cavalaria Piemonte",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Sardenha-Piemonte"
+  },
+  {
+    "name": "Guardas Bourbon",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino das Duas Sicílias"
+  },
+  {
+    "name": "Cavalaria Bourbon",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino das Duas Sicílias"
+  },
+  {
+    "name": "Imperiais Brasileiros",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Império do Brasil"
+  },
+  {
+    "name": "Cavalaria Imperial Brasileira",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Império do Brasil"
+  },
+  {
+    "name": "Infantaria Regular Americana",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Estados Unidos da América"
+  },
+  {
+    "name": "Dragões Americanos",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 22,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Estados Unidos da América"
+  },
+  {
+    "name": "Infantaria Mexicana",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "República do México"
+  },
+  {
+    "name": "Lanceiros Mexicanos",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "República do México"
+  },
+  {
+    "name": "Texas Rangers",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "República do Texas",
+    "promotions": [
+      "Guerra de Fronteira I"
+    ]
+  },
+  {
+    "name": "Cavalaria Texana",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 24,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "República do Texas"
+  },
+  {
+    "name": "Granadeiros Argentinos",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Confederação Argentina"
+  },
+  {
+    "name": "Montoneros de Cavalaria",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 24,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Confederação Argentina"
+  },
+  {
+    "name": "Infantaria Chilena",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "República do Chile"
+  },
+  {
+    "name": "Cavalaria Chilena",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "República do Chile"
+  },
+  {
+    "name": "Legião Andina",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Confederação Peru-Boliviana"
+  },
+  {
+    "name": "Granadeiros Bolivianos",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Confederação Peru-Boliviana"
+  },
+  {
+    "name": "Guarda Haitiana",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 18,
+    "cost": 135,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "República do Haiti"
+  },
+  {
+    "name": "Cavalaria Haitiana",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 19,
+    "cost": 145,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "República do Haiti"
+  },
+  {
+    "name": "Exército do Estandarte Verde",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Grande Qing"
+  },
+  {
+    "name": "Cavalaria Manchu",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Grande Qing"
+  },
+  {
+    "name": "Samurai do Bakufu",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Xogunato Tokugawa",
+    "promotions": [
+      "Bushido I"
+    ]
+  },
+  {
+    "name": "Gosho Cavalaria",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Xogunato Tokugawa"
+  },
+  {
+    "name": "Guardas Qajar",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Pérsia Qajar"
+  },
+  {
+    "name": "Cavalaria Qajar",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 23,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Pérsia Qajar"
+  },
+  {
+    "name": "Ghilzai Afegãos",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Emirado do Afeganistão"
+  },
+  {
+    "name": "Cavalaria Afegã",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 25,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Emirado do Afeganistão"
+  },
+  {
+    "name": "Nizam-i Jadid Egípcio",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Egito de Muhammad Ali"
+  },
+  {
+    "name": "Cavalaria Egípcia",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Egito de Muhammad Ali"
+  },
+  {
+    "name": "Guarda Sultanina Marroquina",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Sultanato de Marrocos"
+  },
+  {
+    "name": "Cavalaria Marroquina",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Sultanato de Marrocos"
+  },
+  {
+    "name": "Guardas Reais Siameses",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino do Sião"
+  },
+  {
+    "name": "Cavalaria Siamesa",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino do Sião"
+  },
+  {
+    "name": "Infantaria Imperial Vietnamita",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Império de Dai Nam"
+  },
+  {
+    "name": "Cavalaria Dai Nam",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Império de Dai Nam"
+  },
+  {
+    "name": "Guardas Joseon",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino de Joseon"
+  },
+  {
+    "name": "Cavalaria Joseon",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino de Joseon"
+  },
+  {
+    "name": "Khalsa Infantry",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Império Sikh"
+  },
+  {
+    "name": "Khalsa Cavalry",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 25,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Império Sikh"
+  },
+  {
+    "name": "Guerreiros Etíopes",
+    "unitType": "Spear",
+    "movement": 2,
+    "strength": 20,
+    "cost": 135,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Etiópia",
+    "promotions": [
+      "Guerra de Montanha I"
+    ]
+  },
+  {
+    "name": "Cavalaria Etíope",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Etiópia"
+  },
+  {
+    "name": "Batalhão Cabanagem",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Grão-Pará"
+  },
+  {
+    "name": "Guardas Ribeirinhos do Pará",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Grão-Pará"
+  },
+  {
+    "name": "Lanceiros Farroupilhas",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 23,
+    "cost": 155,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "República Rio-Grandense"
+  },
+  {
+    "name": "Corpo de Infantaria de Piratini",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "República Rio-Grandense"
+  },
+  {
+    "name": "Infantaria Confederada",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Estados Confederados da América"
+  },
+  {
+    "name": "Cavalaria Confederada",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 23,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Estados Confederados da América"
+  },
+  {
+    "name": "Evzones",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Grécia"
+  },
+  {
+    "name": "Cavalaria Grega",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Grécia"
+  },
+  {
+    "name": "Guarda Hanoveriana",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino de Hanôver"
+  },
+  {
+    "name": "Cavalaria Hanoveriana",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino de Hanôver"
+  },
+  {
+    "name": "Infantaria Saxônica",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Saxônia"
+  },
+  {
+    "name": "Cavalaria Saxônica",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Saxônia"
+  },
+  {
+    "name": "Infantaria de Württemberg",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino de Württemberg"
+  },
+  {
+    "name": "Cavalaria de Württemberg",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino de Württemberg"
+  },
+  {
+    "name": "Guardas Suíços",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Confederação Suíça"
+  },
+  {
+    "name": "Caçadores Alpinos",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Confederação Suíça"
+  },
+  {
+    "name": "Guarda Suíça Pontifícia",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 19,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Estados Pontifícios"
+  },
+  {
+    "name": "Guardas Pontifícios",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 19,
+    "cost": 145,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Estados Pontifícios"
+  },
+  {
+    "name": "Guardas Toscanos",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Grão-Ducado da Toscana"
+  },
+  {
+    "name": "Cavalaria Toscana",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Grão-Ducado da Toscana"
+  },
+  {
+    "name": "Legião Neogranadina",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "República da Nova Granada"
+  },
+  {
+    "name": "Lanceiros de Nova Granada",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "República da Nova Granada"
+  },
+  {
+    "name": "Cavalaria Kanuri",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 23,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Império de Bornu"
+  },
+  {
+    "name": "Guardas Kanuri",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Império de Bornu"
+  },
+  {
+    "name": "Cavalaria de Oió",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 24,
+    "cost": 155,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Império de Oió"
+  },
+  {
+    "name": "Infantaria de Oió",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Império de Oió"
+  },
+  {
+    "name": "Agojie do Daomé",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino de Daomé",
+    "promotions": [
+      "Disciplina de Guarda I"
+    ]
+  },
+  {
+    "name": "Cavalaria de Daomé",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino de Daomé"
+  },
+  {
+    "name": "Cavalaria de Sokoto",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 24,
+    "cost": 155,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Califado de Sokoto"
+  },
+  {
+    "name": "Infantaria de Sokoto",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Califado de Sokoto"
+  },
+  {
+    "name": "Fuzileiros Merina",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino de Madagascar"
+  },
+  {
+    "name": "Cavalaria Merina",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino de Madagascar"
+  },
+  {
+    "name": "Fuzileiros Ingleses",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Inglaterra",
+    "civilopediaText": [
+      {
+        "text": "Infantaria de linha do Estado inglês, treinada para o combate regular e a defesa dos centros industriais."
+      }
+    ]
+  },
+  {
+    "name": "Cavalaria Yeoman Inglesa",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 22,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Inglaterra",
+    "civilopediaText": [
+      {
+        "text": "Formação montada inspirada nos yeomanry, útil para patrulha, reconhecimento e defesa das áreas rurais."
+      }
+    ]
+  },
+  {
+    "name": "Highlanders Escoceses",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Escócia",
+    "civilopediaText": [
+      {
+        "text": "Infantaria de tradição montanhosa, adaptada ao terreno difícil e à guerra regular escocesa."
+      }
+    ],
+    "promotions": [
+      "Guerra de Montanha I"
+    ]
+  },
+  {
+    "name": "Dragões Escoceses",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 22,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Escócia",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria pesada de inspiração escocesa, combinando mobilidade e poder de choque."
+      }
+    ]
+  },
+  {
+    "name": "Fuzileiros Galeses",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Principado de Gales",
+    "civilopediaText": [
+      {
+        "text": "Infantaria galesa formada para proteger os vales industriais e as comunidades do principado."
+      }
+    ]
+  },
+  {
+    "name": "Voluntários de Glamorgan",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Principado de Gales",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria voluntária de Glamorgan, adequada para ligação, patrulha e resposta rápida."
+      }
+    ]
+  },
+  {
+    "name": "Voluntários Irlandeses",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Irlanda",
+    "civilopediaText": [
+      {
+        "text": "Infantaria voluntária criada em torno de comunidades locais e da defesa da autonomia irlandesa."
+      }
+    ]
+  },
+  {
+    "name": "Cavalaria de Leinster",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Irlanda",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria regional de Leinster, empregada para patrulha e defesa das rotas do interior."
+      }
+    ]
+  },
+  {
+    "name": "Infantaria da Linha Polonesa",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino da Polônia",
+    "civilopediaText": [
+      {
+        "text": "Infantaria regular inspirada nas formações polonesas da época das guerras napoleônicas e da revolta de 1830–1831."
+      }
+    ]
+  },
+  {
+    "name": "Lanceiros Poloneses",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 23,
+    "cost": 165,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino da Polônia",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria de lanceiros que preserva a tradição montada polonesa e sua reputação no campo de batalha."
+      }
+    ]
+  },
+  {
+    "name": "Voluntários Sabinos",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Estado da Bahia",
+    "civilopediaText": [
+      {
+        "text": "Infantaria política e urbana associada à tradição autonomista de Salvador e à futura Sabinada."
+      }
+    ]
+  },
+  {
+    "name": "Lanceiros da Bahia",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Estado da Bahia",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria leve inspirada nas forças provinciais do Recôncavo e do interior baiano."
+      }
+    ]
+  },
+  {
+    "name": "Batalhões de Pernambuco",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Estado de Pernambuco",
+    "civilopediaText": [
+      {
+        "text": "Infantaria regular formada para defender Recife, Olinda e os engenhos do litoral pernambucano."
+      }
+    ]
+  },
+  {
+    "name": "Cavalaria do Agreste",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Estado de Pernambuco",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria móvel ligada às rotas entre o litoral, o Agreste e o sertão."
+      }
+    ]
+  },
+  {
+    "name": "Guardas de Alagoas",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Estado de Alagoas",
+    "civilopediaText": [
+      {
+        "text": "Infantaria estadual dedicada à proteção dos engenhos, das vilas e do litoral alagoano."
+      }
+    ]
+  },
+  {
+    "name": "Cavalaria das Lagoas",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Estado de Alagoas",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria leve adaptada ao terreno entre lagoas, canaviais e caminhos costeiros."
+      }
+    ]
+  },
+  {
+    "name": "Batalhão de Laranjeiras",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Estado de Sergipe",
+    "civilopediaText": [
+      {
+        "text": "Infantaria ligada ao principal centro comercial do Cotinguiba e à rede de engenhos de Sergipe."
+      }
+    ]
+  },
+  {
+    "name": "Cavalaria do Cotinguiba",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Estado de Sergipe",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria de patrulha das margens do Cotinguiba e das rotas que ligam seus portos ao interior."
+      }
+    ]
+  },
+  {
+    "name": "Batalhão de Oeiras",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Estado do Piauí",
+    "civilopediaText": [
+      {
+        "text": "Infantaria de defesa da antiga capital e das principais rotas administrativas do Piauí."
+      }
+    ]
+  },
+  {
+    "name": "Cavalaria Sertaneja do Piauí",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 23,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Estado do Piauí",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria veloz inspirada nos vaqueiros e nas forças móveis do sertão piauiense."
+      }
+    ]
+  },
+  {
+    "name": "Batalhão Paraibano",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Estado da Paraíba",
+    "civilopediaText": [
+      {
+        "text": "Infantaria provincial destinada à proteção das cidades, engenhos e estradas da Paraíba."
+      }
+    ]
+  },
+  {
+    "name": "Cavalaria do Brejo",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Estado da Paraíba",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria leve baseada nas conexões entre o Brejo de Areia, o agreste e o litoral."
+      }
+    ]
+  },
+  {
+    "name": "Lanceiros do Seridó",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 23,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "República Rio-Grandense do Norte",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria sertaneja rápida, adequada às grandes distâncias e às estradas do interior potiguar."
+      }
+    ]
+  },
+  {
+    "name": "Corpo Policial Potiguar",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 140,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "República Rio-Grandense do Norte",
+    "civilopediaText": [
+      {
+        "text": "Infantaria inspirada nas forças policiais provinciais responsáveis por manter a ordem e proteger as localidades."
+      }
+    ]
+  },
+  {
+    "name": "Caminhão Militar",
+    "unitType": "Mounted",
+    "movement": 3,
+    "strength": 18,
+    "cost": 150,
+    "requiredTech": "Automóvel",
+    "requiredResource": "Petróleo",
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Carro Blindado",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 24,
+    "cost": 190,
+    "requiredTech": "Automóvel",
+    "requiredResource": "Petróleo",
+    "upgradesTo": "Tanque",
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Caça",
+    "unitType": "Air",
+    "movement": 8,
+    "strength": 25,
+    "rangedStrength": 35,
+    "range": 2,
+    "cost": 240,
+    "requiredTech": "Aviação",
+    "requiredResource": "Bauxita",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ],
+    "upgradesTo": "Caça a Jato"
+  },
+  {
+    "name": "Bombardeiro",
+    "unitType": "Air",
+    "movement": 6,
+    "strength": 20,
+    "rangedStrength": 45,
+    "range": 2,
+    "cost": 280,
+    "requiredTech": "Aviação",
+    "requiredResource": "Bauxita",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ],
+    "upgradesTo": "Bombardeiro a Jato"
+  },
+  {
+    "name": "Caça a Jato",
+    "unitType": "Air",
+    "movement": 10,
+    "strength": 35,
+    "rangedStrength": 50,
+    "range": 3,
+    "cost": 340,
+    "requiredTech": "Aeronáutica",
+    "requiredResource": "Bauxita",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ]
+  },
+  {
+    "name": "Helicóptero de Combate",
+    "unitType": "Air",
+    "movement": 6,
+    "strength": 32,
+    "rangedStrength": 38,
+    "range": 1,
+    "cost": 300,
+    "requiredTech": "Aeronáutica",
+    "requiredResource": "Petróleo",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ]
+  },
+  {
+    "name": "Drone de Reconhecimento",
+    "unitType": "Air",
+    "movement": 8,
+    "strength": 8,
+    "rangedStrength": 12,
+    "range": 2,
+    "cost": 260,
+    "requiredTech": "Robótica",
+    "requiredResource": "Terras Raras",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ]
+  },
+  {
+    "name": "Bárbaro",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "replaces": "Guerreiro",
+    "movement": 2,
+    "strength": 5,
+    "cost": 20,
+    "obsoleteTech": "Metalurgia",
+    "upgradesTo": "Guerreiro de Ferro Bárbaro",
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Lutador bárbaro rudimentar, numeroso e pouco disciplinado, usado nos primeiros acampamentos."
+      }
+    ],
+    "requiredTech": "Agricultura",
+    "uniques": []
+  },
+  {
+    "name": "Escaramuçador Bárbaro",
+    "unitType": "Archery",
+    "uniqueTo": "Barbarians",
+    "replaces": "Arqueiro",
+    "movement": 2,
+    "strength": 3,
+    "rangedStrength": 5,
+    "cost": 30,
+    "requiredTech": "Arco e Flecha",
+    "obsoleteTech": "Guildas",
+    "upgradesTo": "Besteiro Bárbaro",
+    "attackSound": "arrow",
+    "civilopediaText": [
+      {
+        "text": "Atirador bárbaro leve, eficaz à distância, mas menos preciso e equipado que os arqueiros regulares."
+      }
+    ]
+  },
+  {
+    "name": "Saqueador Bárbaro",
+    "unitType": "Spear",
+    "uniqueTo": "Barbarians",
+    "replaces": "Lanceiro",
+    "movement": 2,
+    "strength": 6,
+    "cost": 40,
+    "requiredTech": "Metalurgia",
+    "obsoleteTech": "Administração",
+    "upgradesTo": "Piqueiro Bárbaro",
+    "uniques": [
+      "[+100]% Strength <vs [Mounted] units>"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Saqueador bárbaro especializado em atacar unidades montadas, com equipamento irregular."
+      }
+    ]
+  },
+  {
+    "name": "Trirreme Bárbara",
+    "unitType": "NavalMelee",
+    "uniqueTo": "Barbarians",
+    "movement": 3,
+    "strength": 9,
+    "cost": 40,
+    "requiredTech": "Navegação",
+    "obsoleteTech": "Cartografia",
+    "upgradesTo": "Caravela Bárbara",
+    "uniques": [
+      "Cannot enter ocean tiles"
+    ],
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Embarcação bárbara costeira, leve e inferior às marinhas organizadas."
+      }
+    ],
+    "replaces": "Trirreme"
+  },
+  {
+    "name": "Barco de Trabalho",
+    "unitType": "WaterCivilian",
+    "movement": 2,
+    "cost": 50,
+    "requiredTech": "Navegação",
+    "uniques": [
+      "Can build [Barco Pesqueiro] improvements on tiles"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Embarcação civil usada para explorar águas costeiras e instalar melhorias pesqueiras."
+      }
+    ]
+  },
+  {
+    "name": "Trirreme de Guerra",
+    "unitType": "NavalMelee",
+    "movement": 3,
+    "strength": 14,
+    "cost": 75,
+    "requiredTech": "Navegação",
+    "obsoleteTech": "Cartografia",
+    "upgradesTo": "Caravela",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Cannot enter ocean tiles"
+    ],
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Navio a remo e vela destinado ao combate costeiro. Depende de portos e rotas próximas da costa."
+      }
+    ]
+  },
+  {
+    "name": "Navio Mercante",
+    "unitType": "WaterCivilian",
+    "movement": 3,
+    "cost": 80,
+    "requiredTech": "Cartografia",
+    "civilopediaText": [
+      {
+        "text": "Embarcação civil de transporte e comércio, representando a expansão das rotas marítimas."
+      }
+    ]
+  },
+  {
+    "name": "Caravela",
+    "unitType": "NavalMelee",
+    "movement": 4,
+    "strength": 18,
+    "cost": 100,
+    "requiredTech": "Cartografia",
+    "obsoleteTech": "Navegação Oceânica",
+    "upgradesTo": "Fragata",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can enter ocean tiles"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Navio oceânico de exploração e combate, associado à expansão marítima dos séculos XV e XVI."
+      }
+    ]
+  },
+  {
+    "name": "Fragata",
+    "unitType": "NavalRanged",
+    "movement": 4,
+    "strength": 18,
+    "rangedStrength": 24,
+    "range": 2,
+    "cost": 130,
+    "requiredTech": "Navegação Oceânica",
+    "obsoleteTech": "Aço",
+    "upgradesTo": "Cruzador",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can enter ocean tiles"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Navio de guerra à vela, com artilharia embarcada e capacidade de operar em alto-mar."
+      }
+    ]
+  },
+  {
+    "name": "Navio de Linha",
+    "unitType": "NavalMelee",
+    "movement": 3,
+    "strength": 25,
+    "cost": 160,
+    "requiredTech": "Artilharia",
+    "obsoleteTech": "Aço",
+    "upgradesTo": "Encouraçado",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can enter ocean tiles"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Grande navio de guerra à vela, armado com numerosas peças de artilharia."
+      }
+    ]
+  },
+  {
+    "name": "Cruzador",
+    "unitType": "NavalRanged",
+    "movement": 5,
+    "strength": 28,
+    "rangedStrength": 32,
+    "range": 2,
+    "cost": 190,
+    "requiredTech": "Aço",
+    "obsoleteTech": "Combustão",
+    "upgradesTo": "Cruzador Moderno",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can enter ocean tiles"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Navio de guerra a vapor e casco metálico, apto a patrulhar grandes distâncias."
+      }
+    ]
+  },
+  {
+    "name": "Cruzador Moderno",
+    "unitType": "NavalRanged",
+    "movement": 6,
+    "strength": 36,
+    "rangedStrength": 42,
+    "range": 2,
+    "cost": 230,
+    "requiredTech": "Combustão",
+    "obsoleteTech": "Eletrônica",
+    "upgradesTo": "Destróier de Mísseis",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can enter ocean tiles"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Combatente de superfície moderno, com propulsão mecânica e artilharia de maior alcance."
+      }
+    ]
+  },
+  {
+    "name": "Destróier de Mísseis",
+    "unitType": "NavalMelee",
+    "movement": 7,
+    "strength": 42,
+    "cost": 260,
+    "requiredTech": "Eletrônica",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can enter ocean tiles"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Navio rápido de escolta e combate, equipado para defesa antiaérea e guerra antissuperfície."
+      }
+    ]
+  },
+  {
+    "name": "Arqueiro Montado",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 6,
+    "rangedStrength": 8,
+    "range": 1,
+    "cost": 65,
+    "requiredTech": "Cavalaria",
+    "requiredResource": "Cavalos",
+    "obsoleteTech": "Feudalismo",
+    "upgradesTo": "Cavaleiro Feudal",
+    "civilopediaText": [
+      {
+        "text": "Combatente móvel que combina montaria e arco, capaz de atacar mantendo distância."
+      }
+    ],
+    "promotions": [
+      "Quick Study"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Cavaleiro Couraçado",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 16,
+    "cost": 115,
+    "requiredTech": "Feudalismo",
+    "requiredResource": "Cavalos",
+    "obsoleteTech": "Pólvora",
+    "upgradesTo": "Cavalaria de Couraça",
+    "civilopediaText": [
+      {
+        "text": "Cavaleiro pesado protegido por armadura, eficaz em cargas e combates de choque."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Cavalaria de Couraça",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Cavalos",
+    "upgradesTo": "Carro Blindado",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria pesada do período moderno, progressivamente substituída por veículos motorizados."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Cavalaria de Reconhecimento",
+    "unitType": "Mounted",
+    "movement": 5,
+    "strength": 18,
+    "cost": 150,
+    "requiredTech": "Combustão",
+    "requiredResource": "Cavalos",
+    "obsoleteTech": "Automóvel",
+    "upgradesTo": "Carro Blindado",
+    "civilopediaText": [
+      {
+        "text": "Unidade montada de reconhecimento, ainda útil em terrenos onde veículos têm mobilidade limitada."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Carro Blindado de Reconhecimento",
+    "unitType": "Mounted",
+    "movement": 5,
+    "strength": 23,
+    "cost": 175,
+    "requiredTech": "Automóvel",
+    "upgradesTo": "Tanque",
+    "civilopediaText": [
+      {
+        "text": "Veículo motorizado protegido, usado para reconhecimento e apoio rápido."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Tanque de Primeira Geração",
+    "unitType": "Mounted",
+    "movement": 3,
+    "strength": 28,
+    "cost": 190,
+    "requiredTech": "Produção em Massa",
+    "upgradesTo": "Tanque",
+    "civilopediaText": [
+      {
+        "text": "Tanque inicial, lento e robusto, concebido para romper posições entrincheiradas."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Tanque de Batalha Principal",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 38,
+    "cost": 250,
+    "requiredTech": "Eletrônica",
+    "obsoleteTech": "Robótica",
+    "upgradesTo": "Tanque Avançado",
+    "civilopediaText": [
+      {
+        "text": "Tanque moderno que combina blindagem, mobilidade e poder de fogo."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Tanque Avançado",
+    "unitType": "Mounted",
+    "movement": 5,
+    "strength": 46,
+    "cost": 300,
+    "requiredTech": "Robótica",
+    "civilopediaText": [
+      {
+        "text": "Veículo blindado de nova geração, com sensores e sistemas automatizados."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Metralhadora",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 18,
+    "rangedStrength": 28,
+    "range": 1,
+    "cost": 145,
+    "requiredTech": "Combustão",
+    "upgradesTo": "Infantaria Mecanizada",
+    "civilopediaText": [
+      {
+        "text": "Arma automática de apoio que transforma o poder defensivo da infantaria no início do século XX."
+      }
+    ],
+    "promotions": [
+      "Atirador de Elite I"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Infantaria de Assalto",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 24,
+    "cost": 165,
+    "requiredTech": "Produção em Massa",
+    "obsoleteTech": "Automóvel",
+    "upgradesTo": "Infantaria Mecanizada",
+    "civilopediaText": [
+      {
+        "text": "Infantaria treinada e equipada para operações ofensivas modernas."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Paraquedistas",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 28,
+    "cost": 210,
+    "requiredTech": "Aviação",
+    "civilopediaText": [
+      {
+        "text": "Infantaria aerotransportada capaz de realizar operações atrás das linhas inimigas."
+      }
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Avião de Reconhecimento",
+    "unitType": "Air",
+    "movement": 8,
+    "strength": 8,
+    "rangedStrength": 12,
+    "cost": 120,
+    "requiredTech": "Aviação",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Aeronave leve destinada à observação e reconhecimento do campo de batalha."
+      }
+    ]
+  },
+  {
+    "name": "Caça a Hélice",
+    "unitType": "Air",
+    "movement": 8,
+    "strength": 24,
+    "rangedStrength": 32,
+    "cost": 160,
+    "requiredTech": "Aviação",
+    "obsoleteTech": "Aeronáutica",
+    "upgradesTo": "Caça a Jato",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Caça de motor a pistão, central nas forças aéreas da primeira metade do século XX."
+      }
+    ]
+  },
+  {
+    "name": "Bombardeiro Estratégico",
+    "unitType": "Air",
+    "movement": 6,
+    "strength": 18,
+    "rangedStrength": 50,
+    "cost": 220,
+    "requiredTech": "Aviação",
+    "obsoleteTech": "Aeronáutica",
+    "upgradesTo": "Bombardeiro a Jato",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Aeronave de longo alcance concebida para atacar alvos estratégicos."
+      }
+    ]
+  },
+  {
+    "name": "Bombardeiro a Jato",
+    "unitType": "Air",
+    "movement": 8,
+    "strength": 22,
+    "rangedStrength": 60,
+    "cost": 280,
+    "requiredTech": "Aeronáutica",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Bombardeiro moderno de alta velocidade e grande alcance."
+      }
+    ]
+  },
+  {
+    "name": "Helicóptero de Transporte",
+    "unitType": "Air",
+    "movement": 7,
+    "strength": 12,
+    "cost": 190,
+    "requiredTech": "Aeronáutica",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can carry [2] [Land] units"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Aeronave de asas rotativas usada para transportar tropas e suprimentos."
+      }
+    ]
+  },
+  {
+    "name": "Drone de Combate",
+    "unitType": "Air",
+    "movement": 9,
+    "strength": 20,
+    "rangedStrength": 35,
+    "cost": 270,
+    "requiredTech": "Robótica",
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Can only attack"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Aeronave não tripulada para reconhecimento armado e ataques de precisão."
+      }
+    ]
+  },
+  {
+    "name": "Nave de Transporte Orbital",
+    "unitType": "Civilian",
+    "movement": 3,
+    "cost": 350,
+    "requiredTech": "Propulsão Orbital",
+    "civilopediaText": [
+      {
+        "text": "Veículo de logística espacial, representando o transporte entre instalações orbitais."
+      }
+    ]
+  },
+  {
+    "name": "Grande Profeta",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 100,
+    "requiredTech": "Teologia Antiga",
+    "uniques": [
+      "Can instantly construct a [Lugar Sagrado] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+      "May found a religion",
+      "May enhance a religion",
+      "Can spread religion",
+      "Removes other religions when spreading religion",
+      "Religious Unit",
+      "Only available <when religion is enabled>",
+      "Unbuildable",
+      "Can be purchased with [Faith] [in all cities]",
+      "Is part of Great Person group [Great Person]",
+      "Great Person - [Faith]",
+      "Uncapturable"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Grande Pessoa religiosa que funda religiões e pode estabelecer um Lugar Sagrado permanente."
+      }
+    ]
+  },
+  {
+    "name": "Missionário",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 60,
+    "requiredTech": "Filosofia Religiosa",
+    "uniques": [
+      "Can spread religion",
+      "Removes other religions when spreading religion",
+      "Religious Unit",
+      "Only available <when religion is enabled>",
+      "Unbuildable",
+      "Can be purchased with [Faith] [in all cities]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Leva a religião a cidades próximas, convertendo seguidores. Compra-se com Fé."
+      }
+    ]
+  },
+  {
+    "name": "Gerente de Companhias",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 1000,
+    "requiredTech": "Comércio Internacional",
+    "uniques": [
+      "Limited to [1] per Civilization",
+      "Triggers a [Gestão das Companhias] event <with [100] priority> <by consuming this unit>",
+      "Uncapturable",
+      "Never appears as a Barbarian unit"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Administrador responsável pela carteira geral de companhias do Estado."
+      },
+      {
+        "text": "A Gestão das Companhias continua como painel agregado, transformando Lucro Empresarial em reinvestimento, dividendos e expansão."
+      },
+      {
+        "text": "Cada companhia possui gestão própria quando o Executivo de Companhias entra em sua sede, permitindo decisões específicas para o recurso e o setor daquela empresa."
+      },
+      {
+        "text": "O gerente é consumido após a ação e pode ser reconstruído manualmente por 1000 de Produção."
+      },
+      {
+        "text": "V18.8: com as Assembleias automáticas, o Gerente é opcional e serve apenas ao painel agregado do capital nacional."
+      }
+    ]
+  },
+  {
+    "name": "Executivo de Companhias",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 1000,
+    "requiredTech": "Comércio Internacional",
+    "uniques": [
+      "Triggers a [Gestão da Companhia Comercial de Café] event <upon entering a [Companhia Comercial de Café] tile> <in [Companhia Comercial de Café] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Cacau] event <upon entering a [Companhia Comercial de Cacau] tile> <in [Companhia Comercial de Cacau] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Chá] event <upon entering a [Companhia Comercial de Chá] tile> <in [Companhia Comercial de Chá] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Seda] event <upon entering a [Companhia Comercial de Seda] tile> <in [Companhia Comercial de Seda] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Industrial de Ferro] event <upon entering a [Companhia Industrial de Ferro] tile> <in [Companhia Industrial de Ferro] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Industrial de Carvão] event <upon entering a [Companhia Industrial de Carvão] tile> <in [Companhia Industrial de Carvão] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Industrial de Cobre] event <upon entering a [Companhia Industrial de Cobre] tile> <in [Companhia Industrial de Cobre] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Industrial de Níquel] event <upon entering a [Companhia Industrial de Níquel] tile> <in [Companhia Industrial de Níquel] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Financeira de Ouro] event <upon entering a [Companhia Financeira de Ouro] tile> <in [Companhia Financeira de Ouro] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Financeira de Prata] event <upon entering a [Companhia Financeira de Prata] tile> <in [Companhia Financeira de Prata] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Financeira de Gemas] event <upon entering a [Companhia Financeira de Gemas] tile> <in [Companhia Financeira de Gemas] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Colonial de Madeira] event <upon entering a [Companhia Colonial de Madeira] tile> <in [Companhia Colonial de Madeira] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Colonial de Borracha] event <upon entering a [Companhia Colonial de Borracha] tile> <in [Companhia Colonial de Borracha] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Colonial de Marfim] event <upon entering a [Companhia Colonial de Marfim] tile> <in [Companhia Colonial de Marfim] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Sal] event <upon entering a [Companhia Comercial de Sal] tile> <in [Companhia Comercial de Sal] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Azeitonas] event <upon entering a [Companhia Comercial de Azeitonas] tile> <in [Companhia Comercial de Azeitonas] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Uvas] event <upon entering a [Companhia Comercial de Uvas] tile> <in [Companhia Comercial de Uvas] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Incenso] event <upon entering a [Companhia Comercial de Incenso] tile> <in [Companhia Comercial de Incenso] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Corantes] event <upon entering a [Companhia Comercial de Corantes] tile> <in [Companhia Comercial de Corantes] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Industrial de Mármore] event <upon entering a [Companhia Industrial de Mármore] tile> <in [Companhia Industrial de Mármore] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Alimentar de Carne] event <upon entering a [Companhia Alimentar de Carne] tile> <in [Companhia Alimentar de Carne] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Colonial de Peles] event <upon entering a [Companhia Colonial de Peles] tile> <in [Companhia Colonial de Peles] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Especiarias] event <upon entering a [Companhia Comercial de Especiarias] tile> <in [Companhia Comercial de Especiarias] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Trufas] event <upon entering a [Companhia Comercial de Trufas] tile> <in [Companhia Comercial de Trufas] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Alimentar de Cítricos] event <upon entering a [Companhia Alimentar de Cítricos] tile> <in [Companhia Alimentar de Cítricos] tiles> <by consuming this unit>",
+      "Limited to [1] per Civilization",
+      "Uncapturable",
+      "Never appears as a Barbarian unit"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Executivo único da estrutura empresarial. Ao entrar em uma sede de companhia, inicia a gestão daquela empresa e é consumido ao executar o ciclo."
+      },
+      {
+        "text": "V18.8: a rotina de lucros (dividendos, reinvestimento, expansão, bem Premium) agora é automática, pela Assembleia de Acionistas de cada companhia. O Executivo ficou para decisões de regime jurídico e gestão completa."
+      }
+    ]
+  },
+  {
+    "name": "Emissário Diplomático",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 300,
+    "requiredTech": "Comércio Internacional",
+    "uniques": [
+      "Limited to [1] per Civilization",
+      "May enter foreign tiles without open borders",
+      "Triggers a [Negociação de Dependência Internacional] event <in [City-States] tiles> <when not at war> <with [100] priority> <by consuming this unit>",
+      "Uncapturable",
+      "Never appears as a Barbarian unit"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Enviado responsável por negociar acordos diretamente no território de uma cidade-estado. A missão é concluída ao formalizar ou recusar um acordo."
+      },
+      {
+        "text": "Ações de protetorado, tributação e integração ao bloco são apresentadas somente quando o emissário está em território de cidade-estado e os requisitos políticos e financeiros estão disponíveis."
+      }
+    ]
+  },
+  {
+    "name": "Agente de Expansão Empresarial",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 1000,
+    "requiredTech": "Comércio Internacional",
+    "uniques": [
+      "Limited to [1] per Civilization",
+      "Uncapturable",
+      "Never appears as a Barbarian unit",
+      "Can instantly construct a [Filial da Companhia Comercial de Café] improvement <in tiles adjacent to [Companhia Comercial de Café] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Café] improvement <in tiles adjacent to [Companhia Comercial de Café] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Café] improvement <in tiles adjacent to [Filial da Companhia Comercial de Café] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Café] improvement <in tiles adjacent to [Companhia Comercial de Café] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Cacau] improvement <in tiles adjacent to [Companhia Comercial de Cacau] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Cacau] improvement <in tiles adjacent to [Companhia Comercial de Cacau] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Cacau] improvement <in tiles adjacent to [Filial da Companhia Comercial de Cacau] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Cacau] improvement <in tiles adjacent to [Companhia Comercial de Cacau] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Chá] improvement <in tiles adjacent to [Companhia Comercial de Chá] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Chá] improvement <in tiles adjacent to [Companhia Comercial de Chá] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Chá] improvement <in tiles adjacent to [Filial da Companhia Comercial de Chá] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Chá] improvement <in tiles adjacent to [Companhia Comercial de Chá] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Seda] improvement <in tiles adjacent to [Companhia Comercial de Seda] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Seda] improvement <in tiles adjacent to [Companhia Comercial de Seda] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Seda] improvement <in tiles adjacent to [Filial da Companhia Comercial de Seda] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Seda] improvement <in tiles adjacent to [Companhia Comercial de Seda] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Industrial de Ferro] improvement <in tiles adjacent to [Companhia Industrial de Ferro] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Industrial de Ferro] improvement <in tiles adjacent to [Companhia Industrial de Ferro] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Industrial de Ferro] improvement <in tiles adjacent to [Filial da Companhia Industrial de Ferro] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Industrial de Ferro] improvement <in tiles adjacent to [Companhia Industrial de Ferro] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Industrial de Carvão] improvement <in tiles adjacent to [Companhia Industrial de Carvão] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Industrial de Carvão] improvement <in tiles adjacent to [Companhia Industrial de Carvão] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Industrial de Carvão] improvement <in tiles adjacent to [Filial da Companhia Industrial de Carvão] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Industrial de Carvão] improvement <in tiles adjacent to [Companhia Industrial de Carvão] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Industrial de Cobre] improvement <in tiles adjacent to [Companhia Industrial de Cobre] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Industrial de Cobre] improvement <in tiles adjacent to [Companhia Industrial de Cobre] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Industrial de Cobre] improvement <in tiles adjacent to [Filial da Companhia Industrial de Cobre] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Industrial de Cobre] improvement <in tiles adjacent to [Companhia Industrial de Cobre] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Industrial de Níquel] improvement <in tiles adjacent to [Companhia Industrial de Níquel] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Industrial de Níquel] improvement <in tiles adjacent to [Companhia Industrial de Níquel] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Industrial de Níquel] improvement <in tiles adjacent to [Filial da Companhia Industrial de Níquel] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Industrial de Níquel] improvement <in tiles adjacent to [Companhia Industrial de Níquel] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Financeira de Ouro] improvement <in tiles adjacent to [Companhia Financeira de Ouro] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Financeira de Ouro] improvement <in tiles adjacent to [Companhia Financeira de Ouro] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Financeira de Ouro] improvement <in tiles adjacent to [Filial da Companhia Financeira de Ouro] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Financeira de Ouro] improvement <in tiles adjacent to [Companhia Financeira de Ouro] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Financeira de Prata] improvement <in tiles adjacent to [Companhia Financeira de Prata] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Financeira de Prata] improvement <in tiles adjacent to [Companhia Financeira de Prata] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Financeira de Prata] improvement <in tiles adjacent to [Filial da Companhia Financeira de Prata] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Financeira de Prata] improvement <in tiles adjacent to [Companhia Financeira de Prata] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Financeira de Gemas] improvement <in tiles adjacent to [Companhia Financeira de Gemas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Financeira de Gemas] improvement <in tiles adjacent to [Companhia Financeira de Gemas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Financeira de Gemas] improvement <in tiles adjacent to [Filial da Companhia Financeira de Gemas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Financeira de Gemas] improvement <in tiles adjacent to [Companhia Financeira de Gemas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Colonial de Madeira] improvement <in tiles adjacent to [Companhia Colonial de Madeira] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Colonial de Madeira] improvement <in tiles adjacent to [Companhia Colonial de Madeira] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Colonial de Madeira] improvement <in tiles adjacent to [Filial da Companhia Colonial de Madeira] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Colonial de Madeira] improvement <in tiles adjacent to [Companhia Colonial de Madeira] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Colonial de Borracha] improvement <in tiles adjacent to [Companhia Colonial de Borracha] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Colonial de Borracha] improvement <in tiles adjacent to [Companhia Colonial de Borracha] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Colonial de Borracha] improvement <in tiles adjacent to [Filial da Companhia Colonial de Borracha] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Colonial de Borracha] improvement <in tiles adjacent to [Companhia Colonial de Borracha] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Colonial de Marfim] improvement <in tiles adjacent to [Companhia Colonial de Marfim] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Colonial de Marfim] improvement <in tiles adjacent to [Companhia Colonial de Marfim] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Colonial de Marfim] improvement <in tiles adjacent to [Filial da Companhia Colonial de Marfim] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Colonial de Marfim] improvement <in tiles adjacent to [Companhia Colonial de Marfim] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Sal] improvement <in tiles adjacent to [Companhia Comercial de Sal] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Sal] improvement <in tiles adjacent to [Companhia Comercial de Sal] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Sal] improvement <in tiles adjacent to [Filial da Companhia Comercial de Sal] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Sal] improvement <in tiles adjacent to [Companhia Comercial de Sal] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Azeitonas] improvement <in tiles adjacent to [Companhia Comercial de Azeitonas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Azeitonas] improvement <in tiles adjacent to [Companhia Comercial de Azeitonas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Azeitonas] improvement <in tiles adjacent to [Filial da Companhia Comercial de Azeitonas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Azeitonas] improvement <in tiles adjacent to [Companhia Comercial de Azeitonas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Uvas] improvement <in tiles adjacent to [Companhia Comercial de Uvas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Uvas] improvement <in tiles adjacent to [Companhia Comercial de Uvas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Uvas] improvement <in tiles adjacent to [Filial da Companhia Comercial de Uvas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Uvas] improvement <in tiles adjacent to [Companhia Comercial de Uvas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Incenso] improvement <in tiles adjacent to [Companhia Comercial de Incenso] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Incenso] improvement <in tiles adjacent to [Companhia Comercial de Incenso] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Incenso] improvement <in tiles adjacent to [Filial da Companhia Comercial de Incenso] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Incenso] improvement <in tiles adjacent to [Companhia Comercial de Incenso] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Corantes] improvement <in tiles adjacent to [Companhia Comercial de Corantes] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Corantes] improvement <in tiles adjacent to [Companhia Comercial de Corantes] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Corantes] improvement <in tiles adjacent to [Filial da Companhia Comercial de Corantes] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Corantes] improvement <in tiles adjacent to [Companhia Comercial de Corantes] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Industrial de Mármore] improvement <in tiles adjacent to [Companhia Industrial de Mármore] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Industrial de Mármore] improvement <in tiles adjacent to [Companhia Industrial de Mármore] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Industrial de Mármore] improvement <in tiles adjacent to [Filial da Companhia Industrial de Mármore] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Industrial de Mármore] improvement <in tiles adjacent to [Companhia Industrial de Mármore] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Alimentar de Carne] improvement <in tiles adjacent to [Companhia Alimentar de Carne] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Alimentar de Carne] improvement <in tiles adjacent to [Companhia Alimentar de Carne] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Alimentar de Carne] improvement <in tiles adjacent to [Filial da Companhia Alimentar de Carne] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Alimentar de Carne] improvement <in tiles adjacent to [Companhia Alimentar de Carne] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Colonial de Peles] improvement <in tiles adjacent to [Companhia Colonial de Peles] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Colonial de Peles] improvement <in tiles adjacent to [Companhia Colonial de Peles] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Colonial de Peles] improvement <in tiles adjacent to [Filial da Companhia Colonial de Peles] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Colonial de Peles] improvement <in tiles adjacent to [Companhia Colonial de Peles] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Especiarias] improvement <in tiles adjacent to [Companhia Comercial de Especiarias] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Especiarias] improvement <in tiles adjacent to [Companhia Comercial de Especiarias] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Especiarias] improvement <in tiles adjacent to [Filial da Companhia Comercial de Especiarias] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Especiarias] improvement <in tiles adjacent to [Companhia Comercial de Especiarias] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Trufas] improvement <in tiles adjacent to [Companhia Comercial de Trufas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Trufas] improvement <in tiles adjacent to [Companhia Comercial de Trufas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Trufas] improvement <in tiles adjacent to [Filial da Companhia Comercial de Trufas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Trufas] improvement <in tiles adjacent to [Companhia Comercial de Trufas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Alimentar de Cítricos] improvement <in tiles adjacent to [Companhia Alimentar de Cítricos] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Alimentar de Cítricos] improvement <in tiles adjacent to [Companhia Alimentar de Cítricos] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Alimentar de Cítricos] improvement <in tiles adjacent to [Filial da Companhia Alimentar de Cítricos] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Alimentar de Cítricos] improvement <in tiles adjacent to [Companhia Alimentar de Cítricos] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Alimentar de Pesca] improvement <in tiles adjacent to [Companhia Alimentar de Pesca] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Alimentar de Pesca] improvement <in tiles adjacent to [Companhia Alimentar de Pesca] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Alimentar de Pesca] improvement <in tiles adjacent to [Filial da Companhia Alimentar de Pesca] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Alimentar de Pesca] improvement <in tiles adjacent to [Companhia Alimentar de Pesca] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Colonial de Baleação] improvement <in tiles adjacent to [Companhia Colonial de Baleação] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Colonial de Baleação] improvement <in tiles adjacent to [Companhia Colonial de Baleação] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Colonial de Baleação] improvement <in tiles adjacent to [Filial da Companhia Colonial de Baleação] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Colonial de Baleação] improvement <in tiles adjacent to [Companhia Colonial de Baleação] tiles> <by consuming this unit>",
+      "Can instantly construct a [Filial da Companhia Comercial de Pérolas] improvement <in tiles adjacent to [Companhia Comercial de Pérolas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Indústria Secundária da Companhia Comercial de Pérolas] improvement <in tiles adjacent to [Companhia Comercial de Pérolas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Sede Regional da Companhia Comercial de Pérolas] improvement <in tiles adjacent to [Filial da Companhia Comercial de Pérolas] tiles> <by consuming this unit>",
+      "Can instantly construct a [Escritório Internacional da Companhia Comercial de Pérolas] improvement <in tiles adjacent to [Companhia Comercial de Pérolas] tiles> <by consuming this unit>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Agente encarregado de executar fisicamente uma expansão da companhia."
+      },
+      {
+        "text": "Cada ação aparece somente quando o agente está em um tile onde aquela expansão é válida: filial junto à sede, indústria junto à sede, sede regional junto à filial e escritório internacional junto à sede."
+      },
+      {
+        "text": "A unidade é consumida ao construir a expansão."
+      }
+    ]
+  },
+  {
+    "name": "Fundador Marítimo",
+    "unitType": "WaterCivilian",
+    "movement": 3,
+    "cost": 80,
+    "requiredTech": "Comércio Internacional",
+    "uniques": [
+      "Can instantly construct a [Companhia Alimentar de Pesca] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Colonial de Baleação] improvement <by consuming this unit>",
+      "Can instantly construct a [Companhia Comercial de Pérolas] improvement <by consuming this unit>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Armador ou grupo fundador que estabelece companhias em águas costeiras (pesca, baleação, pérolas). Mova-o até o recurso marinho elegível e funde a sede."
+      }
+    ]
+  },
+  {
+    "name": "Executivo Marítimo de Companhias",
+    "unitType": "WaterCivilian",
+    "movement": 3,
+    "cost": 1000,
+    "requiredTech": "Comércio Internacional",
+    "uniques": [
+      "Triggers a [Gestão da Companhia Alimentar de Pesca] event <upon entering a [Companhia Alimentar de Pesca] tile> <in [Companhia Alimentar de Pesca] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Colonial de Baleação] event <upon entering a [Companhia Colonial de Baleação] tile> <in [Companhia Colonial de Baleação] tiles> <by consuming this unit>",
+      "Triggers a [Gestão da Companhia Comercial de Pérolas] event <upon entering a [Companhia Comercial de Pérolas] tile> <in [Companhia Comercial de Pérolas] tiles> <by consuming this unit>",
+      "Limited to [1] per Civilization",
+      "Uncapturable",
+      "Never appears as a Barbarian unit"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Executivo das companhias marítimas. Ao entrar na sede costeira de uma companhia, inicia a gestão daquela empresa e é consumido ao executar o ciclo. É reposto pelas próprias sedes."
+      },
+      {
+        "text": "V18.8: a rotina das companhias marítimas também é automática; o Executivo Marítimo cuida só do regime jurídico."
+      }
+    ]
+  },
+  {
+    "name": "Comissário Político",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "União Soviética",
+    "promotions": [
+      "Drill I",
+      "Morale"
+    ]
+  },
+  {
+    "name": "Guarda Vermelha",
+    "unitType": "Mounted",
+    "movement": 3,
+    "strength": 29,
+    "cost": 205,
+    "requiredTech": "Combustão",
+    "requiredResource": "Petróleo",
+    "uniqueTo": "União Soviética",
+    "promotions": [
+      "Shock I",
+      "Blitz"
+    ]
+  },
+  {
+    "name": "Guarda Vermelha Chinesa",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Revolução Industrial",
+    "requiredResource": "Ferro",
+    "uniqueTo": "China Comunista",
+    "promotions": [
+      "Drill I",
+      "Morale"
+    ]
+  },
+  {
+    "name": "Infantaria do Exército Popular",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 18,
+    "cost": 145,
+    "requiredTech": "Artilharia",
+    "requiredResource": "Ferro",
+    "uniqueTo": "China Comunista",
+    "promotions": [
+      "Accuracy I",
+      "Volley"
+    ]
+  },
+  {
+    "name": "Guardas Celestiais",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Reino Celestial da China",
+    "promotions": [
+      "Drill I",
+      "Morale"
+    ]
+  },
+  {
+    "name": "Exército da Grande Paz",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 18,
+    "cost": 125,
+    "requiredTech": "Cavalaria",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Reino Celestial da China",
+    "promotions": [
+      "Charge",
+      "Shock I"
+    ]
+  },
+  {
+    "name": "Housecarls de Wessex",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 15,
+    "cost": 105,
+    "requiredTech": "Feudalismo",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Wessex",
+    "promotions": [
+      "Drill I",
+      "Woodsman"
+    ]
+  },
+  {
+    "name": "Cavalaria de Wessex",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 14,
+    "cost": 100,
+    "requiredTech": "Feudalismo",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Wessex",
+    "promotions": [
+      "Charge",
+      "Shock I"
+    ]
+  },
+  {
+    "name": "Guardas de Mercia",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 16,
+    "cost": 110,
+    "requiredTech": "Feudalismo",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Mercia",
+    "promotions": [
+      "Drill I",
+      "Formation I"
+    ]
+  },
+  {
+    "name": "Cavalaria Merciana",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 15,
+    "cost": 105,
+    "requiredTech": "Feudalismo",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Mercia",
+    "promotions": [
+      "Charge",
+      "Shock I"
+    ]
+  },
+  {
+    "name": "Guardas de Northumbria",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 16,
+    "cost": 110,
+    "requiredTech": "Feudalismo",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Northumbria",
+    "promotions": [
+      "Drill I",
+      "Morale"
+    ]
+  },
+  {
+    "name": "Cavaleiros da Nortúmbria",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 15,
+    "cost": 105,
+    "requiredTech": "Cavalaria",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Northumbria",
+    "promotions": [
+      "Woodsman",
+      "Charge"
+    ]
+  },
+  {
+    "name": "Guardas de East Anglia",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 15,
+    "cost": 105,
+    "requiredTech": "Feudalismo",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Anglia Oriental",
+    "promotions": [
+      "Drill I",
+      "Boarding Party I"
+    ]
+  },
+  {
+    "name": "Barcos da Anglia Oriental",
+    "unitType": "NavalMelee",
+    "movement": 4,
+    "strength": 18,
+    "cost": 130,
+    "requiredTech": "Navegação",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Anglia Oriental",
+    "promotions": [
+      "Coastal Raider I",
+      "Boarding Party I"
+    ]
+  },
+  {
+    "name": "Cavaleiros Occitanos",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 16,
+    "cost": 115,
+    "requiredTech": "Cavalaria",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Occitânia",
+    "promotions": [
+      "Charge",
+      "Shock I"
+    ]
+  },
+  {
+    "name": "Besteiros de Toulouse",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 12,
+    "cost": 95,
+    "requiredTech": "Guildas",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Occitânia",
+    "promotions": [
+      "Accuracy I",
+      "Volley"
+    ]
+  },
+  {
+    "name": "Guardas Bretões",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 16,
+    "cost": 110,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Bretanha",
+    "promotions": [
+      "Drill I",
+      "Amphibious"
+    ]
+  },
+  {
+    "name": "Cavaleiros de Brocéliande",
+    "unitType": "NavalMelee",
+    "movement": 4,
+    "strength": 20,
+    "cost": 135,
+    "requiredTech": "Navegação",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Bretanha",
+    "promotions": [
+      "Coastal Raider I",
+      "Landing Party"
+    ]
+  },
+  {
+    "name": "Mesnadas Castelhanas",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 18,
+    "cost": 125,
+    "requiredTech": "Pólvora",
+    "requiredResource": "Ferro",
+    "uniqueTo": "Castela",
+    "promotions": [
+      "Drill I",
+      "Formation I"
+    ]
+  },
+  {
+    "name": "Cavalaria Castelhana",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 17,
+    "cost": 120,
+    "requiredTech": "Cavalaria",
+    "requiredResource": "Cavalos",
+    "uniqueTo": "Castela",
+    "promotions": [
+      "Charge",
+      "Shock I"
+    ]
+  },
+  {
+    "name": "Bersaglieri do Reino da Itália",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 22,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "uniqueTo": "Reino da Itália",
+    "promotions": [
+      "Drill I",
+      "March"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Bersaglieri do Reino da Itália — unidade exclusiva do Reino da Itália, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Arditi do Reino da Itália",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 25,
+    "cost": 175,
+    "requiredTech": "Aço",
+    "uniqueTo": "Reino da Itália",
+    "promotions": [
+      "Shock I",
+      "Blitz"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Arditi do Reino da Itália — unidade exclusiva do Reino da Itália, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Infantaria Imperial Japonesa",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 23,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "uniqueTo": "Império do Japão",
+    "promotions": [
+      "Bushido I",
+      "Drill I"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Infantaria Imperial Japonesa — unidade exclusiva do Império do Japão, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Artilharia de Campanha do Exército Imperial",
+    "unitType": "Siege",
+    "movement": 1,
+    "strength": 10,
+    "cost": 175,
+    "requiredTech": "Artilharia",
+    "uniqueTo": "Império do Japão",
+    "promotions": [
+      "Accuracy I",
+      "Barrage I"
+    ],
+    "rangedStrength": 26,
+    "range": 2,
+    "uniques": [
+      "Must set up to ranged attack"
+    ],
+    "attackSound": "catapult",
+    "civilopediaText": [
+      {
+        "text": "Artilharia de Campanha do Exército Imperial — unidade exclusiva do Império do Japão, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Legionários Gran-Colombianos",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "uniqueTo": "Gran Colombia",
+    "promotions": [
+      "Drill I",
+      "Morale"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Legionários Gran-Colombianos — unidade exclusiva da Gran Colombia, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Llaneros da Gran Colombia",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 24,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "uniqueTo": "Gran Colombia",
+    "promotions": [
+      "Charge",
+      "Shock I"
+    ],
+    "attackSound": "metalhit",
+    "requiredResource": "Cavalos",
+    "civilopediaText": [
+      {
+        "text": "Llaneros da Gran Colombia — unidade exclusiva da Gran Colombia, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Grenztruppen da Alemanha Oriental",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 23,
+    "cost": 160,
+    "requiredTech": "Produção em Massa",
+    "uniqueTo": "Alemanha Oriental",
+    "promotions": [
+      "Cover I",
+      "Drill II"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Grenztruppen da Alemanha Oriental — unidade exclusiva da Alemanha Oriental, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Artilharia Popular da Alemanha Oriental",
+    "unitType": "Siege",
+    "movement": 1,
+    "strength": 11,
+    "cost": 185,
+    "requiredTech": "Produção em Massa",
+    "uniqueTo": "Alemanha Oriental",
+    "promotions": [
+      "Accuracy II",
+      "Barrage I"
+    ],
+    "rangedStrength": 26,
+    "range": 2,
+    "uniques": [
+      "Must set up to ranged attack"
+    ],
+    "attackSound": "catapult",
+    "civilopediaText": [
+      {
+        "text": "Artilharia Popular da Alemanha Oriental — unidade exclusiva da Alemanha Oriental, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Panzergrenadiere da Alemanha Ocidental",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 25,
+    "cost": 175,
+    "requiredTech": "Produção em Massa",
+    "uniqueTo": "Alemanha Ocidental",
+    "promotions": [
+      "Drill II",
+      "Cover II"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Panzergrenadiere da Alemanha Ocidental — unidade exclusiva da Alemanha Ocidental, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Leopard da Alemanha Ocidental",
+    "unitType": "Mounted",
+    "movement": 3,
+    "strength": 31,
+    "cost": 220,
+    "requiredTech": "Combustão",
+    "uniqueTo": "Alemanha Ocidental",
+    "promotions": [
+      "Blitz",
+      "Anti-Armor I"
+    ],
+    "attackSound": "metalhit",
+    "requiredResource": "Petróleo",
+    "civilopediaText": [
+      {
+        "text": "Leopard da Alemanha Ocidental — unidade exclusiva da Alemanha Ocidental, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Infantaria Federal Centro-Americana",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 20,
+    "cost": 145,
+    "requiredTech": "Pólvora",
+    "uniqueTo": "América Central",
+    "promotions": [
+      "Drill I",
+      "Formation I"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Infantaria Federal Centro-Americana — unidade exclusiva da América Central, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Cavalaria Federal Centro-Americana",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 155,
+    "requiredTech": "Revolução Industrial",
+    "uniqueTo": "América Central",
+    "promotions": [
+      "Charge",
+      "Mobility I"
+    ],
+    "attackSound": "metalhit",
+    "requiredResource": "Cavalos",
+    "civilopediaText": [
+      {
+        "text": "Cavalaria Federal Centro-Americana — unidade exclusiva da América Central, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Caçadores Reais Luso-Brasileiros",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 150,
+    "requiredTech": "Pólvora",
+    "uniqueTo": "Reino Unido do Brasil e Portugal",
+    "promotions": [
+      "Drill I",
+      "Amphibious"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Caçadores Reais Luso-Brasileiros — unidade exclusiva do Reino Unido do Brasil e Portugal, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Dragões Luso-Brasileiros",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 22,
+    "cost": 160,
+    "requiredTech": "Revolução Industrial",
+    "uniqueTo": "Reino Unido do Brasil e Portugal",
+    "promotions": [
+      "Charge",
+      "Mobility I"
+    ],
+    "attackSound": "metalhit",
+    "requiredResource": "Cavalos",
+    "civilopediaText": [
+      {
+        "text": "Dragões Luso-Brasileiros — unidade exclusiva do Reino Unido do Brasil e Portugal, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Housecarls do Mar do Norte",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 17,
+    "cost": 120,
+    "requiredTech": "Feudalismo",
+    "uniqueTo": "Império do Mar do Norte",
+    "promotions": [
+      "Drill I",
+      "Morale"
+    ],
+    "attackSound": "metalhit",
+    "requiredResource": "Ferro",
+    "civilopediaText": [
+      {
+        "text": "Housecarls do Mar do Norte — unidade exclusiva do Império do Mar do Norte, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Drakkar do Mar do Norte",
+    "unitType": "NavalMelee",
+    "movement": 4,
+    "strength": 21,
+    "cost": 145,
+    "requiredTech": "Navegação",
+    "uniqueTo": "Império do Mar do Norte",
+    "promotions": [
+      "Boarding Party I",
+      "Coastal Raider I"
+    ],
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Drakkar do Mar do Norte — unidade exclusiva do Império do Mar do Norte, representando sua tradição militar e seu contexto histórico."
+      }
+    ]
+  },
+  {
+    "name": "Grande Artista",
+    "unitType": "Civilian",
+    "movement": 2,
+    "uniques": [
+      "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+      "Can instantly construct a [Marco Cultural] improvement <by consuming this unit>",
+      "Is part of Great Person group [Great Person]",
+      "Great Person - [Culture]",
+      "Unbuildable",
+      "Uncapturable"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Grande Pessoa especializada em Cultura, capaz de iniciar uma Era Dourada e fundar um Marco Cultural permanente."
+      }
+    ]
+  },
+  {
+    "name": "Grande Cientista",
+    "unitType": "Civilian",
+    "movement": 2,
+    "uniques": [
+      "Can hurry technology research",
+      "Can instantly construct a [Academia] improvement <by consuming this unit>",
+      "Is part of Great Person group [Great Person]",
+      "Great Person - [Science]",
+      "Unbuildable",
+      "Uncapturable"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Grande Pessoa especializada em Ciência, capaz de acelerar a pesquisa e fundar uma Academia permanente."
+      }
+    ]
+  },
+  {
+    "name": "Grande Mercador",
+    "unitType": "Civilian",
+    "movement": 2,
+    "uniques": [
+      "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+      "Can instantly construct a [Alfândega] improvement <by consuming this unit>",
+      "Is part of Great Person group [Great Person]",
+      "Great Person - [Gold]",
+      "Unbuildable",
+      "Uncapturable"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Grande Pessoa especializada em comércio, capaz de realizar uma missão comercial e fundar uma Alfândega permanente."
+      }
+    ]
+  },
+  {
+    "name": "Grande Engenheiro",
+    "unitType": "Civilian",
+    "movement": 2,
+    "uniques": [
+      "Can speed up construction of a building",
+      "Can instantly construct a [Manufatura] improvement <by consuming this unit>",
+      "Is part of Great Person group [Great Person]",
+      "Great Person - [Production]",
+      "Unbuildable",
+      "Uncapturable"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Grande Pessoa especializada em Produção, capaz de acelerar construções e fundar uma Manufatura permanente."
+      }
+    ]
+  },
+  {
+    "name": "Grande General",
+    "unitType": "Civilian",
+    "movement": 2,
+    "uniques": [
+      "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+      "Can instantly construct a [Cidadela] improvement <by consuming this unit>",
+      "Can be earned through combat <for [Land] units>",
+      "Is part of Great Person group [Great Person]",
+      "Great Person - [War]",
+      "Unbuildable",
+      "Uncapturable"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Grande Pessoa militar que apoia exércitos e pode fundar uma Cidadela permanente."
+      }
+    ]
+  },
+  {
+    "name": "Grande Almirante",
+    "unitType": "WaterCivilian",
+    "movement": 4,
+    "uniques": [
+      "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
+      "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+      "Can be earned through combat <for [Water] units>",
+      "Is part of Great Person group [Great Person]",
+      "Great Person - [War]",
+      "Unbuildable",
+      "Uncapturable"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Grande Pessoa naval que apoia forças marítimas e mantém a mobilidade naval estratégica."
+      }
+    ]
+  },
+  {
+    "name": "Guerreiro de Ferro Bárbaro",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "replaces": "Guerreiro de Ferro",
+    "movement": 2,
+    "strength": 8,
+    "cost": 55,
+    "requiredTech": "Metalurgia",
+    "obsoleteTech": "Pólvora",
+    "upgradesTo": "Mosqueteiro Bárbaro",
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Bárbaro endurecido pelo ferro, mais perigoso que os primeiros bandos, mas ainda inferior a uma força profissional."
+      }
+    ]
+  },
+  {
+    "name": "Mosqueteiro Bárbaro",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "replaces": "Mosqueteiro",
+    "movement": 2,
+    "strength": 12,
+    "cost": 90,
+    "requiredTech": "Pólvora",
+    "obsoleteTech": "Revolução Industrial",
+    "upgradesTo": "Infantaria Bárbara",
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Bárbaro armado com armas de fogo obtidas por saque, com disciplina e logística precárias."
+      }
+    ]
+  },
+  {
+    "name": "Infantaria Bárbara",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "replaces": "Infantaria de Linha",
+    "movement": 2,
+    "strength": 16,
+    "cost": 115,
+    "requiredTech": "Revolução Industrial",
+    "obsoleteTech": "Automóvel",
+    "upgradesTo": "Infantaria Mecanizada Bárbara",
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Horda de infantaria bárbara de era industrial, numerosa e agressiva, porém menos organizada que exércitos regulares."
+      }
+    ]
+  },
+  {
+    "name": "Infantaria Mecanizada Bárbara",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "replaces": "Infantaria Mecanizada",
+    "movement": 3,
+    "strength": 24,
+    "cost": 165,
+    "requiredTech": "Automóvel",
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Força bárbara mecanizada que emprega veículos capturados e equipamento improvisado."
+      }
+    ]
+  },
+  {
+    "name": "Besteiro Bárbaro",
+    "unitType": "Archery",
+    "uniqueTo": "Barbarians",
+    "replaces": "Besteiro",
+    "movement": 2,
+    "strength": 6,
+    "rangedStrength": 9,
+    "cost": 60,
+    "requiredTech": "Guildas",
+    "obsoleteTech": "Combustão",
+    "upgradesTo": "Metralhadora Bárbara",
+    "attackSound": "arrow",
+    "civilopediaText": [
+      {
+        "text": "Besteiro bárbaro equipado de forma irregular, mantendo alcance e força abaixo dos atiradores disciplinados."
+      }
+    ]
+  },
+  {
+    "name": "Metralhadora Bárbara",
+    "unitType": "Archery",
+    "uniqueTo": "Barbarians",
+    "replaces": "Metralhadora",
+    "movement": 2,
+    "strength": 16,
+    "rangedStrength": 25,
+    "cost": 125,
+    "requiredTech": "Combustão",
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Atirador bárbaro industrial usando armas automáticas obtidas em combate ou saque."
+      }
+    ]
+  },
+  {
+    "name": "Piqueiro Bárbaro",
+    "unitType": "Spear",
+    "uniqueTo": "Barbarians",
+    "movement": 2,
+    "strength": 8,
+    "cost": 55,
+    "requiredTech": "Administração",
+    "obsoleteTech": "Pólvora",
+    "upgradesTo": "Mosqueteiro Bárbaro",
+    "uniques": [
+      "[+100]% Strength <vs [Mounted] units>"
+    ],
+    "attackSound": "metalhit",
+    "civilopediaText": [
+      {
+        "text": "Piqueiro bárbaro formado por guerreiros armados com hastes longas, especialmente eficazes contra cavalaria."
+      }
+    ]
+  },
+  {
+    "name": "Caravela Bárbara",
+    "unitType": "NavalMelee",
+    "uniqueTo": "Barbarians",
+    "replaces": "Caravela",
+    "movement": 4,
+    "strength": 15,
+    "cost": 90,
+    "requiredTech": "Cartografia",
+    "obsoleteTech": "Navegação Oceânica",
+    "upgradesTo": "Fragata Bárbara",
+    "uniques": [
+      "Can enter ocean tiles"
+    ],
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Navio bárbaro de longo alcance marítimo, mais resistente que a trirreme e ainda inferior às marinhas regulares."
+      }
+    ]
+  },
+  {
+    "name": "Fragata Bárbara",
+    "unitType": "NavalRanged",
+    "uniqueTo": "Barbarians",
+    "replaces": "Fragata",
+    "movement": 4,
+    "strength": 15,
+    "rangedStrength": 21,
+    "cost": 115,
+    "requiredTech": "Navegação Oceânica",
+    "obsoleteTech": "Aço",
+    "upgradesTo": "Cruzador Bárbaro",
+    "uniques": [
+      "Can enter ocean tiles"
+    ],
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Fragata bárbara armada para bombardeio naval, montada com tecnologia e recursos improvisados."
+      }
+    ]
+  },
+  {
+    "name": "Cruzador Bárbaro",
+    "unitType": "NavalRanged",
+    "uniqueTo": "Barbarians",
+    "replaces": "Cruzador",
+    "movement": 5,
+    "strength": 24,
+    "rangedStrength": 28,
+    "cost": 170,
+    "requiredTech": "Aço",
+    "obsoleteTech": "Combustão",
+    "upgradesTo": "Cruzador Moderno Bárbaro",
+    "uniques": [
+      "Can enter ocean tiles"
+    ],
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Cruzador bárbaro de aço, mais forte que as embarcações antigas, mas ainda inferior aos navios militares modernos."
+      }
+    ]
+  },
+  {
+    "name": "Cruzador Moderno Bárbaro",
+    "unitType": "NavalRanged",
+    "uniqueTo": "Barbarians",
+    "replaces": "Cruzador Moderno",
+    "movement": 6,
+    "strength": 32,
+    "rangedStrength": 38,
+    "cost": 210,
+    "requiredTech": "Combustão",
+    "obsoleteTech": "Eletrônica",
+    "upgradesTo": "Destróier Bárbaro",
+    "uniques": [
+      "Can enter ocean tiles"
+    ],
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Cruzador moderno bárbaro operando equipamento naval avançado com logística improvisada."
+      }
+    ]
+  },
+  {
+    "name": "Destróier Bárbaro",
+    "unitType": "NavalMelee",
+    "uniqueTo": "Barbarians",
+    "replaces": "Destróier de Mísseis",
+    "movement": 7,
+    "strength": 38,
+    "cost": 230,
+    "requiredTech": "Eletrônica",
+    "uniques": [
+      "Can enter ocean tiles"
+    ],
+    "attackSound": "nonmetalhit",
+    "civilopediaText": [
+      {
+        "text": "Destróier bárbaro de alta tecnologia, ápice da linha naval hostil."
+      }
+    ]
+  }
+]

@@ -1,0 +1,5525 @@
+[
+  {
+    "name": "Palácio",
+    "cost": 0,
+    "uniques": [
+      "Indicates the capital of a civilization",
+      "[+1 Culture]",
+      "[+1 Gold]"
+    ],
+    "maintenance": 0,
+    "civilopediaText": [
+      {
+        "text": "Sede do chefe de Estado — rei, imperador, presidente, emir, príncipe ou outra autoridade dirigente. Representa o centro político da capital e não deve exigir um investimento de produção para existir."
+      }
+    ]
+  },
+  {
+    "name": "Monumento",
+    "cost": 40,
+    "requiredTech": "Cerâmica",
+    "uniques": [
+      "[+2 Culture]"
+    ],
+    "maintenance": 1
+  },
+  {
+    "name": "Celeiro",
+    "cost": 60,
+    "requiredTech": "Agricultura",
+    "food": 2,
+    "maintenance": 1
+  },
+  {
+    "name": "Templo",
+    "cost": 70,
+    "requiredTech": "Cerâmica",
+    "happiness": 1,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "maintenance": 1
+  },
+  {
+    "name": "Biblioteca",
+    "cost": 80,
+    "requiredTech": "Escrita",
+    "science": 2,
+    "maintenance": 1,
+    "greatPersonPoints": {
+      "Grande Cientista": 1
+    }
+  },
+  {
+    "name": "Muralhas",
+    "cost": 90,
+    "requiredTech": "Alvenaria",
+    "cityStrength": 5,
+    "maintenance": 1,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Porto",
+    "cost": 100,
+    "requiredTech": "Navegação",
+    "food": 1,
+    "gold": 3,
+    "maintenance": 1,
+    "uniques": [
+      "Provides [1] [Pessoas Escravizadas] <after adopting [Comércio de Escravos]> <before adopting [Abolição]>",
+      "Must be next to [Coast]"
+    ]
+  },
+  {
+    "name": "Mercado",
+    "cost": 80,
+    "requiredTech": "Moeda",
+    "gold": 3,
+    "maintenance": 1,
+    "uniques": [
+      "[+1 Production] <after adopting [Comércio de Escravos]> <before adopting [Abolição]>",
+      "[+1 Happiness] <after adopting [Abolição]>",
+      "[-1 Happiness] <after adopting [Comércio de Escravos]> <before adopting [Abolição]>",
+      "Provides [1] [Pessoas Escravizadas] <after adopting [Comércio de Escravos]> <before adopting [Abolição]>",
+      "[+1 Gold] <after adopting [Economia Escravista]> <before adopting [Abolição]>"
+    ]
+  },
+  {
+    "name": "Aqueduto",
+    "cost": 100,
+    "requiredTech": "Construção",
+    "food": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Grande Biblioteca",
+    "cost": 220,
+    "requiredTech": "Educação",
+    "science": 3,
+    "uniques": [
+      "[+2 Culture]"
+    ],
+    "isWonder": true,
+    "quote": "Grande Biblioteca — marco da Antiguidade.",
+    "maintenance": 0,
+    "greatPersonPoints": {
+      "Grande Cientista": 1
+    }
+  },
+  {
+    "name": "Pirâmides",
+    "cost": 200,
+    "requiredTech": "Alvenaria",
+    "production": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "isWonder": true,
+    "quote": "Pirâmides — marco da Antiguidade.",
+    "maintenance": 0
+  },
+  {
+    "name": "Colosso",
+    "cost": 190,
+    "requiredTech": "Navegação",
+    "gold": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "isWonder": true,
+    "quote": "Colosso — marco da Antiguidade.",
+    "maintenance": 0
+  },
+  {
+    "name": "Moinho",
+    "cost": 90,
+    "requiredTech": "Agronomia",
+    "food": 1,
+    "production": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Fundição",
+    "cost": 110,
+    "requiredTech": "Metalurgia Avançada",
+    "production": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Feitoria",
+    "cost": 100,
+    "requiredTech": "Comércio Internacional",
+    "gold": 3,
+    "maintenance": 2
+  },
+  {
+    "name": "Observatório",
+    "cost": 120,
+    "requiredTech": "Ciência Renascentista",
+    "science": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Anfiteatro",
+    "cost": 100,
+    "requiredTech": "Retórica",
+    "uniques": [
+      "[+2 Culture]"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Arsenal",
+    "cost": 110,
+    "requiredTech": "Engenharia Militar",
+    "cityStrength": 3,
+    "production": 1,
+    "maintenance": 2,
+    "greatPersonPoints": {
+      "Grande Engenheiro": 1
+    }
+  },
+  {
+    "name": "Armazém de Grãos",
+    "cost": 75,
+    "requiredTech": "Agronomia",
+    "food": 1,
+    "gold": 1,
+    "requiredNearbyImprovedResources": [
+      "Trigo"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Casa de Moeda",
+    "cost": 110,
+    "requiredTech": "Banca",
+    "gold": 4,
+    "requiredNearbyImprovedResources": [
+      "Ouro",
+      "Prata"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Mercado de Sal",
+    "cost": 95,
+    "requiredTech": "Comércio Internacional",
+    "gold": 3,
+    "happiness": 1,
+    "requiredNearbyImprovedResources": [
+      "Sal"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Adega",
+    "cost": 100,
+    "requiredTech": "Comércio Internacional",
+    "gold": 3,
+    "happiness": 1,
+    "requiredNearbyImprovedResources": [
+      "Uvas"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Olival Real",
+    "cost": 100,
+    "requiredTech": "Agronomia",
+    "food": 2,
+    "gold": 3,
+    "requiredNearbyImprovedResources": [
+      "Azeitonas"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Casa do Incenso",
+    "cost": 105,
+    "requiredTech": "Administração",
+    "gold": 3,
+    "culture": 1,
+    "requiredNearbyImprovedResources": [
+      "Incenso"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Oficina de Tecelagem",
+    "cost": 105,
+    "requiredTech": "Administração",
+    "gold": 2,
+    "culture": 1,
+    "requiredNearbyImprovedResources": [
+      "Corantes"
+    ],
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Entreposto de Marfim",
+    "cost": 115,
+    "requiredTech": "Comércio Internacional",
+    "gold": 3,
+    "requiredNearbyImprovedResources": [
+      "Marfim"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Oficina de Bronze",
+    "cost": 105,
+    "requiredTech": "Metalurgia",
+    "production": 2,
+    "requiredNearbyImprovedResources": [
+      "Cobre",
+      "Bronze"
+    ],
+    "maintenance": 1
+  },
+  {
+    "name": "Forja Estatal",
+    "cost": 125,
+    "requiredTech": "Metalurgia Avançada",
+    "production": 2,
+    "requiredNearbyImprovedResources": [
+      "Ferro"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Arquivo Estatal",
+    "cost": 120,
+    "requiredTech": "Direito",
+    "science": 2,
+    "culture": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Tribunal",
+    "cost": 130,
+    "requiredTech": "Direito",
+    "culture": 2,
+    "happiness": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Aqueduto Imperial",
+    "cost": 145,
+    "requiredTech": "Engenharia Hidráulica",
+    "food": 3,
+    "cityHealth": 20,
+    "maintenance": 2
+  },
+  {
+    "name": "Prefeitura Provincial",
+    "cost": 140,
+    "requiredTech": "Burocracia",
+    "gold": 2,
+    "production": 1,
+    "culture": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Grande Mercado",
+    "cost": 170,
+    "requiredTech": "Economia Monetária",
+    "gold": 4,
+    "culture": 1,
+    "isWonder": true,
+    "quote": "O comércio conecta cidades, povos e Estados.",
+    "maintenance": 0
+  },
+  {
+    "name": "Santuário",
+    "cost": 55,
+    "requiredTech": "Cerâmica",
+    "faith": 1,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "maintenance": 1
+  },
+  {
+    "name": "Casa dos Sacerdotes",
+    "cost": 85,
+    "requiredTech": "Escrita",
+    "faith": 2,
+    "culture": 1,
+    "maintenance": 1
+  },
+  {
+    "name": "Templo Monumental",
+    "cost": 110,
+    "requiredTech": "Teologia Antiga",
+    "faith": 2,
+    "culture": 2,
+    "happiness": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Arquivo Sacerdotal",
+    "cost": 115,
+    "requiredTech": "Instituições Sacerdotais",
+    "faith": 1,
+    "science": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Santuário Real",
+    "cost": 120,
+    "requiredTech": "Administração Imperial",
+    "faith": 2,
+    "gold": 1,
+    "happiness": 1,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Mosteiro",
+    "cost": 125,
+    "requiredTech": "Filosofia Religiosa",
+    "faith": 2,
+    "science": 1,
+    "culture": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Centro de Peregrinação",
+    "cost": 140,
+    "requiredTech": "Administração Urbana",
+    "faith": 3,
+    "gold": 2,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Grande Templo",
+    "cost": 210,
+    "requiredTech": "Instituições Sacerdotais",
+    "faith": 4,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Grande Templo — a religião torna-se uma instituição do Estado.",
+    "maintenance": 0,
+    "greatPersonPoints": {
+      "Grande Profeta": 2
+    }
+  },
+  {
+    "name": "Biblioteca Sacerdotal",
+    "cost": 200,
+    "requiredTech": "Educação",
+    "faith": 2,
+    "science": 3,
+    "culture": 2,
+    "isWonder": true,
+    "quote": "Biblioteca Sacerdotal — conhecimento, rito e memória.",
+    "maintenance": 0
+  },
+  {
+    "name": "Santuário do Estado",
+    "cost": 220,
+    "requiredTech": "Administração Imperial",
+    "faith": 3,
+    "culture": 3,
+    "happiness": 1,
+    "isWonder": true,
+    "quote": "Santuário do Estado — a tradição religiosa integrada ao poder político.",
+    "maintenance": 0
+  },
+  {
+    "name": "Casa da Assembleia",
+    "cost": 125,
+    "requiredTech": "Cidadania",
+    "culture": 1,
+    "happiness": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Academia de Retórica",
+    "cost": 130,
+    "requiredTech": "Retórica",
+    "science": 2,
+    "culture": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Arquivo Cívico",
+    "cost": 135,
+    "requiredTech": "Instituições Cívicas",
+    "science": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Praça Pública",
+    "cost": 120,
+    "requiredTech": "Administração Urbana",
+    "culture": 2,
+    "gold": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Oficina de Arquitetura",
+    "cost": 125,
+    "requiredTech": "Arquitetura",
+    "production": 2,
+    "culture": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Casa das Leis",
+    "cost": 145,
+    "requiredTech": "Instituições Cívicas",
+    "science": 1,
+    "happiness": 1,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Monumento dos Ancestrais",
+    "cost": 230,
+    "requiredTech": "Patrimônio Histórico",
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Monumento dos Ancestrais — memória política e cultural da Antiguidade.",
+    "maintenance": 0
+  },
+  {
+    "name": "Grande Assembleia",
+    "cost": 250,
+    "requiredTech": "Instituições Cívicas",
+    "culture": 3,
+    "happiness": 2,
+    "isWonder": true,
+    "quote": "Grande Assembleia — símbolo das instituições cívicas do mundo antigo.",
+    "maintenance": 0
+  },
+  {
+    "name": "Biblioteca dos Povos",
+    "cost": 240,
+    "requiredTech": "Patrimônio Histórico",
+    "science": 3,
+    "culture": 2,
+    "isWonder": true,
+    "quote": "Biblioteca dos Povos — preservação do conhecimento e da memória histórica.",
+    "maintenance": 0
+  },
+  {
+    "name": "Casa dos Escribas",
+    "cost": 70,
+    "maintenance": 1,
+    "science": 1,
+    "culture": 1,
+    "requiredTech": "Escrita",
+    "requiredNearbyImprovedResources": [
+      "Papiro"
+    ]
+  },
+  {
+    "name": "Escola Cívica",
+    "cost": 110,
+    "maintenance": 2,
+    "science": 2,
+    "culture": 1,
+    "requiredTech": "Cidadania",
+    "requiredNearbyImprovedResources": [
+      "Madeira"
+    ],
+    "requiredBuilding": "Casa dos Escribas"
+  },
+  {
+    "name": "Academia",
+    "cost": 150,
+    "maintenance": 2,
+    "science": 3,
+    "culture": 1,
+    "requiredTech": "Educação",
+    "requiredBuilding": "Escola Cívica"
+  },
+  {
+    "name": "Universidade",
+    "cost": 240,
+    "maintenance": 2,
+    "science": 3,
+    "culture": 2,
+    "requiredTech": "Ciência Renascentista",
+    "requiredBuilding": "Academia",
+    "requiredNearbyImprovedResources": [
+      "Madeira"
+    ],
+    "greatPersonPoints": {
+      "Grande Cientista": 1
+    }
+  },
+  {
+    "name": "Casa dos Curandeiros",
+    "cost": 80,
+    "maintenance": 2,
+    "happiness": 1,
+    "requiredTech": "Agronomia",
+    "requiredNearbyImprovedResources": [
+      "Ervas Medicinais"
+    ],
+    "uniques": [
+      "[+1 Food]"
+    ]
+  },
+  {
+    "name": "Banhos Públicos",
+    "cost": 130,
+    "maintenance": 2,
+    "happiness": 2,
+    "requiredTech": "Engenharia Hidráulica",
+    "requiredBuilding": "Casa dos Curandeiros",
+    "uniques": [
+      "[+1 Food]"
+    ]
+  },
+  {
+    "name": "Hospital",
+    "cost": 260,
+    "maintenance": 3,
+    "happiness": 2,
+    "science": 2,
+    "requiredTech": "Medicina Moderna",
+    "requiredBuilding": "Banhos Públicos",
+    "requiredNearbyImprovedResources": [
+      "Ervas Medicinais"
+    ]
+  },
+  {
+    "name": "Escola de Cartografia",
+    "cost": 120,
+    "maintenance": 1,
+    "science": 2,
+    "gold": 1,
+    "requiredTech": "Cartografia",
+    "requiredBuilding": "Casa dos Escribas"
+  },
+  {
+    "name": "Conselho Municipal",
+    "cost": 75,
+    "requiredTech": "Administração",
+    "gold": 1,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Tribunal Civil",
+    "cost": 90,
+    "requiredTech": "Direito",
+    "happiness": 1,
+    "uniques": [
+      "[+2 Culture]"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Burocracia Central",
+    "cost": 115,
+    "requiredTech": "Burocracia",
+    "gold": 2,
+    "science": 1,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Administração Provincial",
+    "cost": 135,
+    "requiredTech": "Administração Imperial",
+    "gold": 2,
+    "production": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Hospital Civil",
+    "cost": 150,
+    "requiredTech": "Medicina Moderna",
+    "happiness": 2,
+    "science": 2,
+    "maintenance": 3
+  },
+  {
+    "name": "Academia Nacional",
+    "cost": 135,
+    "requiredTech": "Ciência Renascentista",
+    "science": 3,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Universidade Nacional",
+    "cost": 180,
+    "requiredTech": "Ciência Renascentista",
+    "science": 3,
+    "uniques": [
+      "[+2 Culture]"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Guilda dos Artesãos",
+    "cost": 105,
+    "requiredTech": "Guildas",
+    "production": 2,
+    "gold": 1,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Banco Público",
+    "cost": 145,
+    "requiredTech": "Banca",
+    "gold": 4,
+    "science": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Companhia Comercial",
+    "cost": 160,
+    "requiredTech": "Mercantilismo",
+    "gold": 4,
+    "production": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Instituto Científico",
+    "cost": 175,
+    "requiredTech": "Método Científico",
+    "science": 3,
+    "maintenance": 3
+  },
+  {
+    "name": "Estação Central",
+    "cost": 170,
+    "requiredTech": "Ferrovias",
+    "production": 3,
+    "gold": 1,
+    "maintenance": 3,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Ministério da Saúde",
+    "cost": 190,
+    "requiredTech": "Estado Social",
+    "happiness": 2,
+    "science": 1,
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Food]"
+    ]
+  },
+  {
+    "name": "Fábrica Estatal",
+    "cost": 185,
+    "requiredTech": "Economia Industrial",
+    "production": 3,
+    "gold": 1,
+    "maintenance": 3
+  },
+  {
+    "name": "Centro de Comunicações",
+    "cost": 200,
+    "requiredTech": "Comunicações",
+    "science": 2,
+    "culture": 2,
+    "maintenance": 3
+  },
+  {
+    "name": "Cartório Provincial",
+    "cost": 105,
+    "requiredTech": "Administração",
+    "gold": 1,
+    "culture": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Casa do Governador",
+    "cost": 130,
+    "requiredTech": "Administração Imperial",
+    "gold": 2,
+    "production": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Assembleia Regional",
+    "cost": 145,
+    "requiredTech": "Cidadania",
+    "happiness": 1,
+    "culture": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Conselho Federal",
+    "cost": 190,
+    "requiredTech": "Estado Centralizado",
+    "gold": 2,
+    "science": 2,
+    "culture": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Chancelaria Imperial",
+    "cost": 210,
+    "requiredTech": "Administração Colonial",
+    "gold": 3,
+    "culture": 2,
+    "maintenance": 3,
+    "uniques": [
+      "Triggers voting for the Diplomatic Victory",
+      "Only available <when [Diplomatic] Victory is enabled>"
+    ]
+  },
+  {
+    "name": "Câmara de Comércio",
+    "cost": 155,
+    "requiredTech": "Economia Monetária",
+    "gold": 3,
+    "production": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Tesouro Nacional",
+    "cost": 180,
+    "requiredTech": "Estado Centralizado",
+    "gold": 4,
+    "maintenance": 2
+  },
+  {
+    "name": "Censo Nacional",
+    "cost": 140,
+    "requiredTech": "Burocracia",
+    "science": 2,
+    "gold": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Ministério do Interior",
+    "cost": 200,
+    "requiredTech": "Estado Social",
+    "gold": 2,
+    "production": 2,
+    "happiness": 1,
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Instituto de Administração Pública",
+    "cost": 220,
+    "requiredTech": "Informática",
+    "science": 3,
+    "gold": 2,
+    "culture": 1,
+    "maintenance": 4
+  },
+  {
+    "name": "Conselho de Planejamento",
+    "cost": 235,
+    "requiredTech": "Automação",
+    "science": 2,
+    "production": 3,
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Arquivo Nacional",
+    "cost": 175,
+    "requiredTech": "Imprensa",
+    "science": 2,
+    "culture": 3,
+    "maintenance": 2
+  },
+  {
+    "name": "Feira Local",
+    "cost": 75,
+    "requiredTech": "Moeda",
+    "gold": 3,
+    "culture": 1,
+    "maintenance": 1
+  },
+  {
+    "name": "Mercado Regional",
+    "cost": 110,
+    "requiredTech": "Comércio Internacional",
+    "gold": 3,
+    "culture": 1,
+    "maintenance": 2,
+    "uniques": [
+      "Provides [1] [Pessoas Escravizadas] <after adopting [Comércio de Escravos]> <before adopting [Abolição]>"
+    ]
+  },
+  {
+    "name": "Casa de Comércio",
+    "cost": 125,
+    "requiredTech": "Comércio Internacional",
+    "gold": 3,
+    "production": 1,
+    "maintenance": 2,
+    "uniques": [
+      "Provides [1] [Pessoas Escravizadas] <after adopting [Comércio de Escravos]> <before adopting [Abolição]>"
+    ]
+  },
+  {
+    "name": "Entreposto Continental",
+    "cost": 145,
+    "requiredTech": "Comércio Internacional",
+    "gold": 3,
+    "production": 1,
+    "maintenance": 2,
+    "uniques": [
+      "Provides [1] [Pessoas Escravizadas] <after adopting [Comércio de Escravos]> <before adopting [Abolição]>"
+    ],
+    "greatPersonPoints": {
+      "Grande Mercador": 1
+    }
+  },
+  {
+    "name": "Bolsa Mercantil",
+    "cost": 165,
+    "requiredTech": "Banca",
+    "gold": 4,
+    "science": 1,
+    "maintenance": 2,
+    "uniques": [
+      "Provides [1] [Pessoas Escravizadas] <after adopting [Comércio de Escravos]> <before adopting [Abolição]>"
+    ]
+  },
+  {
+    "name": "Câmara de Crédito",
+    "cost": 150,
+    "requiredTech": "Banca",
+    "gold": 3,
+    "happiness": 1,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Banco Central",
+    "cost": 210,
+    "requiredTech": "Estado Centralizado",
+    "gold": 4,
+    "science": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Ministério da Economia",
+    "cost": 220,
+    "requiredTech": "Estado Centralizado",
+    "gold": 2,
+    "production": 2,
+    "science": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Conselho Econômico Nacional",
+    "cost": 235,
+    "requiredTech": "Economia Industrial",
+    "gold": 3,
+    "production": 2,
+    "science": 2,
+    "maintenance": 3
+  },
+  {
+    "name": "Agência de Planejamento",
+    "cost": 260,
+    "requiredTech": "Informática",
+    "production": 3,
+    "gold": 2,
+    "science": 3,
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Centro Logístico",
+    "cost": 155,
+    "requiredTech": "Administração Urbana",
+    "production": 2,
+    "gold": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Rede de Armazéns",
+    "cost": 135,
+    "requiredTech": "Economia Monetária",
+    "food": 1,
+    "production": 2,
+    "gold": 3,
+    "maintenance": 2
+  },
+  {
+    "name": "Departamento de Obras Públicas",
+    "cost": 125,
+    "requiredTech": "Construção",
+    "production": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Oficina de Infraestrutura",
+    "cost": 145,
+    "requiredTech": "Engenharia",
+    "production": 2,
+    "gold": 1,
+    "maintenance": 1
+  },
+  {
+    "name": "Distrito Agrícola",
+    "cost": 135,
+    "requiredTech": "Agronomia",
+    "food": 2,
+    "gold": 2,
+    "requiredNearbyImprovedResources": [
+      "Trigo"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Centro Metalúrgico",
+    "cost": 175,
+    "requiredTech": "Metalurgia Avançada",
+    "production": 2,
+    "gold": 1,
+    "requiredNearbyImprovedResources": [
+      "Ferro"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Centro Têxtil",
+    "cost": 155,
+    "requiredTech": "Administração",
+    "production": 2,
+    "gold": 3,
+    "requiredNearbyImprovedResources": [
+      "Corantes"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Centro Vinícola",
+    "cost": 150,
+    "requiredTech": "Comércio Internacional",
+    "food": 1,
+    "gold": 3,
+    "happiness": 1,
+    "requiredNearbyImprovedResources": [
+      "Uvas"
+    ],
+    "maintenance": 2
+  },
+  {
+    "name": "Centro de Exportação",
+    "cost": 190,
+    "requiredTech": "Administração Colonial",
+    "gold": 4,
+    "production": 2,
+    "maintenance": 3
+  },
+  {
+    "name": "Tesouro Econômico",
+    "cost": 240,
+    "requiredTech": "Estado Social",
+    "gold": 4,
+    "science": 2,
+    "happiness": 1,
+    "maintenance": 4
+  },
+  {
+    "name": "Quartel Permanente",
+    "cost": 80,
+    "requiredTech": "Administração",
+    "production": 2,
+    "cityStrength": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Casa dos Veteranos",
+    "cost": 90,
+    "requiredTech": "Feudalismo",
+    "happiness": 1,
+    "culture": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Academia Militar",
+    "cost": 130,
+    "requiredTech": "Educação",
+    "production": 2,
+    "science": 2,
+    "cityStrength": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Oficina de Cerco",
+    "cost": 105,
+    "requiredTech": "Cerco",
+    "production": 2,
+    "cityStrength": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Arsenal Nacional",
+    "cost": 150,
+    "requiredTech": "Engenharia Militar",
+    "production": 3,
+    "cityStrength": 4,
+    "maintenance": 2
+  },
+  {
+    "name": "Depósito Militar",
+    "cost": 125,
+    "requiredTech": "Administração Imperial",
+    "production": 2,
+    "gold": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Fortaleza de Fronteira",
+    "cost": 140,
+    "requiredTech": "Engenharia Militar",
+    "production": 1,
+    "cityStrength": 5,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Comando Central",
+    "cost": 145,
+    "requiredTech": "Burocracia",
+    "production": 1,
+    "science": 1,
+    "cityStrength": 3,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Escola de Oficiais",
+    "cost": 155,
+    "requiredTech": "Educação",
+    "production": 1,
+    "science": 2,
+    "cityStrength": 3,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Corpo de Engenharia Militar",
+    "cost": 165,
+    "requiredTech": "Engenharia Militar",
+    "production": 2,
+    "science": 1,
+    "cityStrength": 3,
+    "maintenance": 2
+  },
+  {
+    "name": "Ministério da Defesa",
+    "cost": 185,
+    "requiredTech": "Estado Centralizado",
+    "production": 2,
+    "happiness": 1,
+    "cityStrength": 3,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Complexo Industrial Militar",
+    "cost": 220,
+    "requiredTech": "Produção em Massa",
+    "production": 3,
+    "maintenance": 3
+  },
+  {
+    "name": "Rede Logística Nacional",
+    "cost": 205,
+    "requiredTech": "Ferrovias",
+    "production": 3,
+    "gold": 1,
+    "maintenance": 3,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Comando Estratégico",
+    "cost": 235,
+    "requiredTech": "Ciência Moderna",
+    "science": 2,
+    "production": 2,
+    "cityStrength": 4,
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Centro de Defesa Nacional",
+    "cost": 260,
+    "requiredTech": "Energia Nuclear",
+    "science": 1,
+    "cityStrength": 6,
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Casa da Matemática",
+    "cost": 160,
+    "requiredTech": "Matemática",
+    "maintenance": 1,
+    "uniques": [
+      "[+1 Science]"
+    ],
+    "quote": "Centro de cálculo, medição e conhecimento matemático."
+  },
+  {
+    "name": "Casa dos Ancestrais",
+    "cost": 160,
+    "requiredTech": "Tradição e Identidade",
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "quote": "Instituição dedicada à preservação da memória e das tradições."
+  },
+  {
+    "name": "Oficina Mecânica",
+    "cost": 300,
+    "requiredTech": "Mecânica",
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Production]"
+    ],
+    "quote": "Oficina especializada em máquinas e mecanismos."
+  },
+  {
+    "name": "Companhia de Navegação",
+    "cost": 300,
+    "requiredTech": "Exploração Marítima",
+    "maintenance": 3,
+    "uniques": [
+      "[+2 Gold]"
+    ],
+    "quote": "Instituição dedicada à exploração e ao comércio marítimo."
+  },
+  {
+    "name": "Academia do Iluminismo",
+    "cost": 320,
+    "requiredTech": "Iluminismo",
+    "maintenance": 3,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Centro de pensamento crítico, ciência e reforma intelectual."
+  },
+  {
+    "name": "Fábrica a Vapor",
+    "cost": 430,
+    "requiredTech": "Máquinas a Vapor",
+    "maintenance": 3,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Unidade produtiva baseada na energia a vapor."
+  },
+  {
+    "name": "Instituto de Química",
+    "cost": 430,
+    "requiredTech": "Química Industrial",
+    "maintenance": 3,
+    "uniques": [
+      "[+1 Science]"
+    ],
+    "quote": "Centro de pesquisa química aplicada à indústria e à saúde."
+  },
+  {
+    "name": "Rede Elétrica",
+    "cost": 480,
+    "requiredTech": "Eletricidade",
+    "maintenance": 3,
+    "uniques": [
+      "[+1 Production]"
+    ],
+    "quote": "Infraestrutura para distribuição e uso industrial da eletricidade."
+  },
+  {
+    "name": "Instituto Nacional",
+    "cost": 520,
+    "requiredTech": "Nacionalismo",
+    "maintenance": 3,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "quote": "Instituição de integração cultural e administrativa do Estado nacional."
+  },
+  {
+    "name": "Aeródromo",
+    "cost": 600,
+    "requiredTech": "Aviação",
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Production]"
+    ],
+    "quote": "Infraestrutura dedicada à aviação e ao transporte aéreo."
+  },
+  {
+    "name": "Estação de Rádio",
+    "cost": 600,
+    "requiredTech": "Rádio",
+    "maintenance": 3,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "quote": "Infraestrutura de comunicação por rádio."
+  },
+  {
+    "name": "Laboratório Eletrônico",
+    "cost": 680,
+    "requiredTech": "Eletrônica",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Centro de pesquisa e fabricação de equipamentos eletrônicos."
+  },
+  {
+    "name": "Centro Aeronáutico",
+    "cost": 700,
+    "requiredTech": "Aeronáutica",
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Science]"
+    ],
+    "quote": "Centro de desenvolvimento de aeronaves e engenharia aeronáutica."
+  },
+  {
+    "name": "Centro de Computação",
+    "cost": 760,
+    "requiredTech": "Computação",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Centro de processamento e pesquisa computacional."
+  },
+  {
+    "name": "Rede de Mídia",
+    "cost": 760,
+    "requiredTech": "Mídia de Massa",
+    "maintenance": 3,
+    "uniques": [
+      "[+1 Culture]"
+    ],
+    "quote": "Instituição de comunicação de massa e circulação de informação."
+  },
+  {
+    "name": "Instituto de Genética",
+    "cost": 760,
+    "requiredTech": "Genética",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Centro de pesquisa genética e biológica."
+  },
+  {
+    "name": "Centro Espacial",
+    "cost": 820,
+    "requiredTech": "Tecnologia Espacial",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Complexo dedicado à exploração e tecnologia espacial."
+  },
+  {
+    "name": "Rede de Energia Avançada",
+    "cost": 900,
+    "requiredTech": "Energia Avançada",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Infraestrutura para fontes avançadas de energia."
+  },
+  {
+    "name": "Centro de Biotecnologia",
+    "cost": 900,
+    "requiredTech": "Biotecnologia",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Centro de pesquisa biológica aplicada e biotecnologia."
+  },
+  {
+    "name": "Instituto de Inteligência Artificial",
+    "cost": 1000,
+    "requiredTech": "Inteligência Artificial",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Centro de pesquisa em sistemas inteligentes."
+  },
+  {
+    "name": "Centro de Robótica",
+    "cost": 1000,
+    "requiredTech": "Robótica",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Complexo de automação e robótica industrial."
+  },
+  {
+    "name": "Laboratório de Nanotecnologia",
+    "cost": 1050,
+    "requiredTech": "Nanotecnologia",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Centro de pesquisa em materiais e sistemas em escala nanométrica."
+  },
+  {
+    "name": "Centro da Sociedade Digital",
+    "cost": 1100,
+    "requiredTech": "Sociedade Digital",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Culture]"
+    ],
+    "quote": "Instituição de serviços e comunicação da sociedade digital."
+  },
+  {
+    "name": "Escola Filosófica",
+    "cost": 110,
+    "requiredTech": "Filosofia",
+    "maintenance": 1,
+    "uniques": [
+      "[+2 Culture]"
+    ],
+    "quote": "Centro de reflexão, ética e pensamento filosófico."
+  },
+  {
+    "name": "Instituto de Computação Quântica",
+    "cost": 1150,
+    "requiredTech": "Computação Quântica",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a instituto de computação quântica."
+  },
+  {
+    "name": "Agência Nacional de Cibersegurança",
+    "cost": 1150,
+    "requiredTech": "Cibersegurança",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a agência nacional de cibersegurança."
+  },
+  {
+    "name": "Centro Nacional de Nuvem",
+    "cost": 1150,
+    "requiredTech": "Infraestrutura em Nuvem",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a centro nacional de nuvem."
+  },
+  {
+    "name": "Instituto de Biologia Sintética",
+    "cost": 1150,
+    "requiredTech": "Biologia Sintética",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a instituto de biologia sintética."
+  },
+  {
+    "name": "Centro de Propulsão Orbital",
+    "cost": 1400,
+    "requiredTech": "Propulsão Orbital",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a centro de propulsão orbital."
+  },
+  {
+    "name": "Academia Lunar Nacional",
+    "cost": 1400,
+    "requiredTech": "Colônias Lunares",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a academia lunar nacional."
+  },
+  {
+    "name": "Complexo de Mineração Espacial",
+    "cost": 1400,
+    "requiredTech": "Mineração Asteroidal",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Instituição avançada dedicada a complexo de mineração espacial."
+  },
+  {
+    "name": "Habitat Orbital Nacional",
+    "cost": 1400,
+    "requiredTech": "Habitats Espaciais",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Food]"
+    ],
+    "quote": "Instituição avançada dedicada a habitat orbital nacional."
+  },
+  {
+    "name": "Instituto de Terraformação",
+    "cost": 1400,
+    "requiredTech": "Terraformação",
+    "maintenance": 6,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a instituto de terraformação."
+  },
+  {
+    "name": "Centro de Engenharia Planetária",
+    "cost": 1400,
+    "requiredTech": "Engenharia Planetária",
+    "maintenance": 6,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Instituição avançada dedicada a centro de engenharia planetária."
+  },
+  {
+    "name": "Rede Planetária Nacional",
+    "cost": 1400,
+    "requiredTech": "Rede Planetária",
+    "maintenance": 6,
+    "uniques": [
+      "[+2 Gold]"
+    ],
+    "quote": "Instituição avançada dedicada a rede planetária nacional."
+  },
+  {
+    "name": "Conselho da Civilização Multiplanetária",
+    "cost": 1400,
+    "requiredTech": "Civilização Multiplanetária",
+    "maintenance": 6,
+    "uniques": [
+      "[+2 Culture]"
+    ],
+    "quote": "Instituição avançada dedicada a conselho da civilização multiplanetária."
+  },
+  {
+    "name": "Rede Nacional de Dados",
+    "cost": 1150,
+    "requiredTech": "Cibersegurança",
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a rede nacional de dados."
+  },
+  {
+    "name": "Centro de Serviços Digitais",
+    "cost": 1150,
+    "requiredTech": "Infraestrutura em Nuvem",
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Gold]"
+    ],
+    "quote": "Instituição avançada dedicada a centro de serviços digitais."
+  },
+  {
+    "name": "Bolsa de Tecnologia",
+    "cost": 1150,
+    "requiredTech": "Computação Quântica",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Gold]"
+    ],
+    "quote": "Instituição avançada dedicada a bolsa de tecnologia."
+  },
+  {
+    "name": "Centro de Educação Digital",
+    "cost": 1150,
+    "requiredTech": "Sociedade Digital",
+    "maintenance": 4,
+    "uniques": [
+      "[+1 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a centro de educação digital."
+  },
+  {
+    "name": "Laboratório de Sistemas Autônomos",
+    "cost": 1150,
+    "requiredTech": "Robótica",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Instituição avançada dedicada a laboratório de sistemas autônomos."
+  },
+  {
+    "name": "Complexo de Microeletrônica",
+    "cost": 1150,
+    "requiredTech": "Computação Quântica",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Instituição avançada dedicada a complexo de microeletrônica."
+  },
+  {
+    "name": "Arquivo Digital Nacional",
+    "cost": 1150,
+    "requiredTech": "Cibersegurança",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Culture]"
+    ],
+    "quote": "Instituição avançada dedicada a arquivo digital nacional."
+  },
+  {
+    "name": "Centro de Pesquisa Sintética",
+    "cost": 1150,
+    "requiredTech": "Biologia Sintética",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a centro de pesquisa sintética."
+  },
+  {
+    "name": "Centro de Lançamento Orbital",
+    "cost": 1400,
+    "requiredTech": "Propulsão Orbital",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Instituição avançada dedicada a centro de lançamento orbital."
+  },
+  {
+    "name": "Estação Orbital",
+    "cost": 1400,
+    "requiredTech": "Habitats Espaciais",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a estação orbital."
+  },
+  {
+    "name": "Observatório Espacial",
+    "cost": 1400,
+    "requiredTech": "Propulsão Orbital",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a observatório espacial."
+  },
+  {
+    "name": "Rede de Satélites",
+    "cost": 1400,
+    "requiredTech": "Colônias Lunares",
+    "maintenance": 5,
+    "uniques": [
+      "[+1 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a rede de satélites."
+  },
+  {
+    "name": "Estaleiro Orbital",
+    "cost": 1400,
+    "requiredTech": "Habitats Espaciais",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Instituição avançada dedicada a estaleiro orbital."
+  },
+  {
+    "name": "Instituto de Astrobiologia",
+    "cost": 1400,
+    "requiredTech": "Mineração Asteroidal",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a instituto de astrobiologia."
+  },
+  {
+    "name": "Centro de Navegação Espacial",
+    "cost": 1400,
+    "requiredTech": "Colônias Lunares",
+    "maintenance": 5,
+    "uniques": [
+      "[+1 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a centro de navegação espacial."
+  },
+  {
+    "name": "Terminal Lunar",
+    "cost": 1400,
+    "requiredTech": "Colônias Lunares",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Gold]"
+    ],
+    "quote": "Instituição avançada dedicada a terminal lunar."
+  },
+  {
+    "name": "Complexo de Água Planetária",
+    "cost": 1400,
+    "requiredTech": "Terraformação",
+    "maintenance": 6,
+    "uniques": [
+      "[+2 Food]"
+    ],
+    "quote": "Instituição avançada dedicada a complexo de água planetária."
+  },
+  {
+    "name": "Estação de Clima Planetário",
+    "cost": 1400,
+    "requiredTech": "Engenharia Planetária",
+    "maintenance": 6,
+    "uniques": [
+      "[+1 Food]"
+    ],
+    "quote": "Instituição avançada dedicada a estação de clima planetário."
+  },
+  {
+    "name": "Centro de Ecologia Sintética",
+    "cost": 1150,
+    "requiredTech": "Biologia Sintética",
+    "maintenance": 4,
+    "uniques": [
+      "[+2 Food]"
+    ],
+    "quote": "Instituição avançada dedicada a centro de ecologia sintética."
+  },
+  {
+    "name": "Rede de Transporte Planetário",
+    "cost": 1400,
+    "requiredTech": "Engenharia Planetária",
+    "maintenance": 6,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "quote": "Instituição avançada dedicada a rede de transporte planetário."
+  },
+  {
+    "name": "Cidade Marciana",
+    "cost": 1400,
+    "requiredTech": "Terraformação",
+    "maintenance": 6,
+    "uniques": [
+      "[+2 Happiness]"
+    ],
+    "quote": "Instituição avançada dedicada a cidade marciana."
+  },
+  {
+    "name": "Porto Lunar",
+    "cost": 1400,
+    "requiredTech": "Habitats Espaciais",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Gold]"
+    ],
+    "quote": "Instituição avançada dedicada a porto lunar."
+  },
+  {
+    "name": "Centro de Recursos Asteroides",
+    "cost": 1400,
+    "requiredTech": "Mineração Asteroidal",
+    "maintenance": 5,
+    "uniques": [
+      "[+2 Gold]"
+    ],
+    "quote": "Instituição avançada dedicada a centro de recursos asteroides."
+  },
+  {
+    "name": "Universidade Planetária",
+    "cost": 1400,
+    "requiredTech": "Civilização Multiplanetária",
+    "maintenance": 6,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "quote": "Instituição avançada dedicada a universidade planetária."
+  },
+  {
+    "name": "Grande Elevador Orbital",
+    "cost": 2300,
+    "requiredTech": "Propulsão Orbital",
+    "maintenance": 0,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "isWonder": true,
+    "quote": "Uma realização estratégica da civilização na grande elevador orbital."
+  },
+  {
+    "name": "Cidade Lunar Permanente",
+    "cost": 2500,
+    "requiredTech": "Colônias Lunares",
+    "maintenance": 0,
+    "uniques": [
+      "[+2 Production]",
+      "[+1 Happiness]"
+    ],
+    "isWonder": true,
+    "quote": "Uma realização estratégica da civilização na cidade lunar permanente."
+  },
+  {
+    "name": "Megacentro de Computação Planetária",
+    "cost": 2700,
+    "requiredTech": "Rede Planetária",
+    "maintenance": 0,
+    "uniques": [
+      "[+2 Science]"
+    ],
+    "isWonder": true,
+    "quote": "Uma realização estratégica da civilização na megacentro de computação planetária."
+  },
+  {
+    "name": "Rede de Terraformação Planetária",
+    "cost": 3000,
+    "requiredTech": "Civilização Multiplanetária",
+    "maintenance": 0,
+    "uniques": [
+      "[+2 Food]",
+      "[+2 Culture]"
+    ],
+    "isWonder": true,
+    "quote": "Uma realização estratégica da civilização na rede de terraformação planetária."
+  },
+  {
+    "name": "Siderúrgica Nacional",
+    "cost": 210,
+    "requiredTech": "Aço",
+    "production": 3,
+    "gold": 1,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Ferro",
+      "Carvão"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Converte minério e combustível em capacidade siderúrgica."
+      }
+    ]
+  },
+  {
+    "name": "Usina de Laminação de Aço",
+    "cost": 260,
+    "requiredTech": "Aço",
+    "production": 3,
+    "gold": 2,
+    "maintenance": 3,
+    "requiredBuilding": "Siderúrgica Nacional",
+    "requiredNearbyImprovedResources": [
+      "Ferro"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Produção industrial avançada de aço."
+      }
+    ]
+  },
+  {
+    "name": "Fábrica de Máquinas",
+    "cost": 240,
+    "requiredTech": "Máquinas a Vapor",
+    "production": 3,
+    "science": 1,
+    "maintenance": 3,
+    "requiredBuilding": "Siderúrgica Nacional",
+    "requiredNearbyImprovedResources": [
+      "Ferro",
+      "Carvão"
+    ]
+  },
+  {
+    "name": "Refinaria de Petróleo",
+    "cost": 240,
+    "requiredTech": "Combustão",
+    "production": 3,
+    "gold": 3,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Petróleo"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Refina petróleo em combustíveis e insumos industriais."
+      }
+    ]
+  },
+  {
+    "name": "Posto de Combustíveis",
+    "cost": 150,
+    "requiredTech": "Automóvel",
+    "gold": 3,
+    "maintenance": 3,
+    "requiredBuilding": "Refinaria de Petróleo",
+    "requiredNearbyImprovedResources": [
+      "Petróleo"
+    ],
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Usina de Etanol",
+    "cost": 180,
+    "requiredTech": "Química Industrial",
+    "gold": 3,
+    "production": 2,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Cana-de-açúcar"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Produz biocombustível a partir de culturas agrícolas."
+      }
+    ]
+  },
+  {
+    "name": "Indústria Petroquímica",
+    "cost": 300,
+    "requiredTech": "Química Industrial",
+    "production": 3,
+    "science": 2,
+    "gold": 3,
+    "maintenance": 3,
+    "requiredBuilding": "Refinaria de Petróleo",
+    "requiredNearbyImprovedResources": [
+      "Petróleo"
+    ]
+  },
+  {
+    "name": "Fiação de Algodão",
+    "cost": 130,
+    "requiredTech": "Economia Industrial",
+    "production": 2,
+    "gold": 2,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Algodão"
+    ],
+    "uniques": [
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "Costs [2] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>"
+    ]
+  },
+  {
+    "name": "Fábrica Têxtil",
+    "cost": 190,
+    "requiredTech": "Produção em Massa",
+    "production": 3,
+    "gold": 3,
+    "maintenance": 3,
+    "requiredBuilding": "Fiação de Algodão",
+    "requiredNearbyImprovedResources": [
+      "Algodão"
+    ],
+    "happiness": 1,
+    "uniques": [
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "Costs [2] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>"
+    ]
+  },
+  {
+    "name": "Casa da Seda",
+    "cost": 180,
+    "requiredTech": "Comércio Internacional",
+    "culture": 2,
+    "gold": 3,
+    "maintenance": 2,
+    "requiredNearbyImprovedResources": [
+      "Seda"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Produção de tecidos e roupas de luxo."
+      }
+    ]
+  },
+  {
+    "name": "Ateliê de Alta Moda",
+    "cost": 260,
+    "requiredTech": "Mídia de Massa",
+    "culture": 3,
+    "gold": 3,
+    "maintenance": 4,
+    "requiredBuilding": "Casa da Seda",
+    "requiredNearbyImprovedResources": [
+      "Seda"
+    ],
+    "happiness": 1
+  },
+  {
+    "name": "Curtume e Fábrica de Couro",
+    "cost": 150,
+    "requiredTech": "Economia Industrial",
+    "production": 2,
+    "gold": 2,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Bovinos",
+      "Lã"
+    ]
+  },
+  {
+    "name": "Fábrica de Pneus",
+    "cost": 220,
+    "requiredTech": "Automóvel",
+    "production": 3,
+    "gold": 3,
+    "maintenance": 4,
+    "requiredNearbyImprovedResources": [
+      "Borracha"
+    ],
+    "requiredBuilding": "Fábrica de Máquinas"
+  },
+  {
+    "name": "Fábrica de Bicicletas",
+    "cost": 180,
+    "requiredTech": "Mecânica",
+    "production": 3,
+    "gold": 2,
+    "maintenance": 2,
+    "requiredBuilding": "Fábrica de Máquinas",
+    "requiredNearbyImprovedResources": [
+      "Ferro",
+      "Borracha"
+    ]
+  },
+  {
+    "name": "Fábrica de Automóveis",
+    "cost": 320,
+    "requiredTech": "Automóvel",
+    "production": 4,
+    "gold": 4,
+    "maintenance": 4,
+    "requiredBuilding": "Fábrica de Máquinas",
+    "requiredNearbyImprovedResources": [
+      "Ferro",
+      "Borracha",
+      "Petróleo"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Produção industrial de automóveis."
+      }
+    ]
+  },
+  {
+    "name": "Indústria Aeronáutica",
+    "cost": 380,
+    "requiredTech": "Aeronáutica",
+    "production": 4,
+    "science": 2,
+    "gold": 3,
+    "maintenance": 4,
+    "requiredBuilding": "Fábrica de Máquinas",
+    "requiredNearbyImprovedResources": [
+      "Bauxita",
+      "Petróleo"
+    ]
+  },
+  {
+    "name": "Fábrica de Alumínio",
+    "cost": 260,
+    "requiredTech": "Eletricidade",
+    "production": 3,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Bauxita"
+    ]
+  },
+  {
+    "name": "Usina Termelétrica",
+    "cost": 220,
+    "requiredTech": "Eletricidade",
+    "production": 3,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Carvão",
+      "Gás Natural"
+    ]
+  },
+  {
+    "name": "Usina de Gás Natural",
+    "cost": 250,
+    "requiredTech": "Energia Avançada",
+    "production": 4,
+    "maintenance": 4,
+    "requiredNearbyImprovedResources": [
+      "Gás Natural"
+    ]
+  },
+  {
+    "name": "Cooperativa de Café",
+    "cost": 120,
+    "requiredTech": "Comércio Internacional",
+    "food": 1,
+    "gold": 3,
+    "maintenance": 2,
+    "requiredNearbyImprovedResources": [
+      "Café"
+    ],
+    "uniques": [
+      "Triggers a [A Economia do Café Brasileiro] event <for [Império do Brasil] Civilizations>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "Costs [2] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Moderna]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>"
+    ]
+  },
+  {
+    "name": "Casa do Cacau",
+    "cost": 130,
+    "requiredTech": "Comércio Internacional",
+    "food": 1,
+    "gold": 3,
+    "happiness": 1,
+    "maintenance": 2,
+    "requiredNearbyImprovedResources": [
+      "Cacau"
+    ]
+  },
+  {
+    "name": "Casa de Chá",
+    "cost": 130,
+    "requiredTech": "Comércio Internacional",
+    "gold": 3,
+    "culture": 1,
+    "maintenance": 2,
+    "requiredNearbyImprovedResources": [
+      "Chá"
+    ],
+    "uniques": [
+      "Triggers a [A Cultura do Chá Britânico] event <for [Reino Unido] Civilizations>"
+    ]
+  },
+  {
+    "name": "Central de Beneficiamento de Frutas",
+    "cost": 120,
+    "requiredTech": "Agronomia",
+    "food": 2,
+    "gold": 1,
+    "maintenance": 2,
+    "requiredNearbyImprovedResources": [
+      "Frutas"
+    ]
+  },
+  {
+    "name": "Moinho de Arroz",
+    "cost": 120,
+    "requiredTech": "Agronomia",
+    "food": 2,
+    "gold": 1,
+    "maintenance": 2,
+    "requiredNearbyImprovedResources": [
+      "Arroz"
+    ]
+  },
+  {
+    "name": "Usina de Açúcar",
+    "cost": 150,
+    "requiredTech": "Química Industrial",
+    "food": 2,
+    "gold": 3,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Cana-de-açúcar"
+    ],
+    "uniques": [
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "Costs [2] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Moderna]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>"
+    ]
+  },
+  {
+    "name": "Palácio de Westminster",
+    "cost": 300,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Reino Unido",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino Unido] event <for [Reino Unido] Civilizations>"
+    ]
+  },
+  {
+    "name": "Estaleiro de Portsmouth",
+    "cost": 180,
+    "requiredTech": "Navegação Oceânica",
+    "uniqueTo": "Reino Unido",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "[+1 Production]",
+      "Must be next to [Coast]"
+    ]
+  },
+  {
+    "name": "Palácio das Tulherias",
+    "cost": 300,
+    "requiredTech": "Administração Urbana",
+    "uniqueTo": "Reino da França",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino da França] event <for [Reino da França] Civilizations>"
+    ]
+  },
+  {
+    "name": "Escola Politécnica Francesa",
+    "cost": 180,
+    "requiredTech": "Ciência Renascentista",
+    "uniqueTo": "Reino da França",
+    "maintenance": 2,
+    "science": 3,
+    "culture": 2
+  },
+  {
+    "name": "Palácio de Inverno",
+    "cost": 320,
+    "requiredTech": "Administração Imperial",
+    "uniqueTo": "Império Russo",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Império Russo] event <for [Império Russo] Civilizations>"
+    ]
+  },
+  {
+    "name": "Academia Imperial Russa",
+    "cost": 180,
+    "requiredTech": "Educação",
+    "uniqueTo": "Império Russo",
+    "maintenance": 2,
+    "science": 3,
+    "culture": 2
+  },
+  {
+    "name": "Palácio de Schönbrunn",
+    "cost": 320,
+    "requiredTech": "Administração Imperial",
+    "uniqueTo": "Império Austríaco",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Império Austríaco] event <for [Império Austríaco] Civilizations>"
+    ]
+  },
+  {
+    "name": "Academia de Viena",
+    "cost": 180,
+    "requiredTech": "Educação",
+    "uniqueTo": "Império Austríaco",
+    "maintenance": 2,
+    "science": 3,
+    "culture": 2
+  },
+  {
+    "name": "Palácio de Sanssouci",
+    "cost": 300,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Prússia",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino da Prússia] event <for [Reino da Prússia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Academia Militar de Berlim",
+    "cost": 180,
+    "requiredTech": "Estratégia",
+    "uniqueTo": "Reino da Prússia",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Palácio de Topkapi",
+    "cost": 320,
+    "requiredTech": "Administração Imperial",
+    "uniqueTo": "Império Otomano",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Império Otomano] event <for [Império Otomano] Civilizations>"
+    ]
+  },
+  {
+    "name": "Escola Militar de Istambul",
+    "cost": 180,
+    "requiredTech": "Estratégia",
+    "uniqueTo": "Império Otomano",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2,
+    "uniques": [
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Palácio Real de Madri",
+    "cost": 300,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Espanha",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino da Espanha] event <for [Reino da Espanha] Civilizations>"
+    ]
+  },
+  {
+    "name": "Casa de Contratação de Cádiz",
+    "cost": 180,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "Reino da Espanha",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "[+2 Gold]"
+    ]
+  },
+  {
+    "name": "Palácio da Ajuda",
+    "cost": 280,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino de Portugal",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino de Portugal] event <for [Reino de Portugal] Civilizations>"
+    ]
+  },
+  {
+    "name": "Arsenal Real de Lisboa",
+    "cost": 180,
+    "requiredTech": "Navegação Oceânica",
+    "uniqueTo": "Reino de Portugal",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "[+1 Production]",
+      "Must be next to [Coast]"
+    ]
+  },
+  {
+    "name": "Bolsa de Amsterdã",
+    "cost": 280,
+    "requiredTech": "Banca",
+    "uniqueTo": "Reino dos Países Baixos",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino dos Países Baixos] event <for [Reino dos Países Baixos] Civilizations>"
+    ]
+  },
+  {
+    "name": "Estaleiro de Roterdã",
+    "cost": 180,
+    "requiredTech": "Navegação Oceânica",
+    "uniqueTo": "Reino dos Países Baixos",
+    "maintenance": 2,
+    "science": 1,
+    "culture": 3,
+    "uniques": [
+      "[+1 Production]",
+      "Must be next to [Coast]"
+    ]
+  },
+  {
+    "name": "Palácio Real de Bruxelas",
+    "cost": 280,
+    "requiredTech": "Administração Urbana",
+    "uniqueTo": "Reino da Bélgica",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino da Bélgica] event <for [Reino da Bélgica] Civilizations>"
+    ]
+  },
+  {
+    "name": "Complexo Industrial de Liège",
+    "cost": 200,
+    "requiredTech": "Aço",
+    "uniqueTo": "Reino da Bélgica",
+    "maintenance": 3,
+    "science": 1,
+    "culture": 3,
+    "uniques": [
+      "[+2 Production]"
+    ]
+  },
+  {
+    "name": "Palácio de Estocolmo",
+    "cost": 280,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Suécia",
+    "maintenance": 2,
+    "science": 3,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado do Reino da Suécia] event <for [Reino da Suécia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituto Tecnológico Sueco",
+    "cost": 180,
+    "requiredTech": "Ciência Moderna",
+    "uniqueTo": "Reino da Suécia",
+    "maintenance": 3,
+    "food": 1,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Palácio de Christiansborg",
+    "cost": 280,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Dinamarca",
+    "maintenance": 2,
+    "science": 3,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado do Reino da Dinamarca] event <for [Reino da Dinamarca] Civilizations>"
+    ]
+  },
+  {
+    "name": "Companhia Asiática Dinamarquesa",
+    "cost": 180,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "Reino da Dinamarca",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3
+  },
+  {
+    "name": "Residenz de Munique",
+    "cost": 280,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Baviera",
+    "maintenance": 2,
+    "science": 3,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado do Reino da Baviera] event <for [Reino da Baviera] Civilizations>"
+    ]
+  },
+  {
+    "name": "Academia de Belas-Artes de Munique",
+    "cost": 160,
+    "requiredTech": "Iluminismo",
+    "uniqueTo": "Reino da Baviera",
+    "maintenance": 2,
+    "science": 3,
+    "culture": 1
+  },
+  {
+    "name": "Palácio de Turim",
+    "cost": 280,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Sardenha-Piemonte",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino da Sardenha-Piemonte] event <for [Reino da Sardenha-Piemonte] Civilizations>"
+    ]
+  },
+  {
+    "name": "Arsenal de Turim",
+    "cost": 180,
+    "requiredTech": "Aço",
+    "uniqueTo": "Reino da Sardenha-Piemonte",
+    "maintenance": 3,
+    "science": 1,
+    "culture": 2,
+    "uniques": [
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Palácio Real de Nápoles",
+    "cost": 280,
+    "requiredTech": "Administração Urbana",
+    "uniqueTo": "Reino das Duas Sicílias",
+    "maintenance": 2,
+    "food": 1,
+    "science": 2,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado do Reino das Duas Sicílias] event <for [Reino das Duas Sicílias] Civilizations>"
+    ]
+  },
+  {
+    "name": "Arsenal de Nápoles",
+    "cost": 180,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "Reino das Duas Sicílias",
+    "maintenance": 2,
+    "science": 1,
+    "culture": 2,
+    "uniques": [
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Paço de São Cristóvão",
+    "cost": 300,
+    "requiredTech": "Administração",
+    "uniqueTo": "Império do Brasil",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Império do Brasil] event <for [Império do Brasil] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituto Imperial Agrícola",
+    "cost": 180,
+    "requiredTech": "Agronomia",
+    "uniqueTo": "Império do Brasil",
+    "maintenance": 2,
+    "food": 1,
+    "science": 1,
+    "culture": 2
+  },
+  {
+    "name": "Capitólio de Washington",
+    "cost": 300,
+    "requiredTech": "Administração",
+    "uniqueTo": "Estados Unidos da América",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado dos Estados Unidos da América] event <for [Estados Unidos da América] Civilizations>"
+    ]
+  },
+  {
+    "name": "Arsenal de Springfield",
+    "cost": 180,
+    "requiredTech": "Produção em Massa",
+    "uniqueTo": "Estados Unidos da América",
+    "maintenance": 3,
+    "science": 1,
+    "culture": 2,
+    "uniques": [
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Castelo de Chapultepec",
+    "cost": 280,
+    "requiredTech": "Administração",
+    "uniqueTo": "República do México",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado da República do México] event <for [República do México] Civilizations>"
+    ]
+  },
+  {
+    "name": "Escola de Mineração do México",
+    "cost": 180,
+    "requiredTech": "Mineração",
+    "uniqueTo": "República do México",
+    "maintenance": 1,
+    "science": 1,
+    "culture": 3
+  },
+  {
+    "name": "Capitólio de San Felipe",
+    "cost": 240,
+    "requiredTech": "Administração",
+    "uniqueTo": "República do Texas",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado da República do Texas] event <for [República do Texas] Civilizations>"
+    ]
+  },
+  {
+    "name": "Rangers de San Antonio",
+    "cost": 160,
+    "requiredTech": "Estratégia",
+    "uniqueTo": "República do Texas",
+    "maintenance": 2,
+    "science": 1,
+    "culture": 2
+  },
+  {
+    "name": "Cabildo de Buenos Aires",
+    "cost": 280,
+    "requiredTech": "Administração Urbana",
+    "uniqueTo": "Confederação Argentina",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado da Confederação Argentina] event <for [Confederação Argentina] Civilizations>"
+    ]
+  },
+  {
+    "name": "Estâncias do Prata",
+    "cost": 160,
+    "requiredTech": "Agronomia",
+    "uniqueTo": "Confederação Argentina",
+    "maintenance": 1,
+    "food": 1,
+    "culture": 2,
+    "uniques": [
+      "[+2 Gold]"
+    ],
+    "requiredNearbyImprovedResources": [
+      "Prata"
+    ]
+  },
+  {
+    "name": "Palácio de La Moneda",
+    "cost": 280,
+    "requiredTech": "Administração",
+    "uniqueTo": "República do Chile",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado da República do Chile] event <for [República do Chile] Civilizations>"
+    ]
+  },
+  {
+    "name": "Escola de Mineração de Copiapó",
+    "cost": 180,
+    "requiredTech": "Mineração",
+    "uniqueTo": "República do Chile",
+    "maintenance": 1,
+    "science": 1,
+    "culture": 3
+  },
+  {
+    "name": "Palácio do Governo de Lima",
+    "cost": 280,
+    "requiredTech": "Administração",
+    "uniqueTo": "Confederação Peru-Boliviana",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado da Confederação Peru-Boliviana] event <for [Confederação Peru-Boliviana] Civilizations>"
+    ]
+  },
+  {
+    "name": "Escola Militar de Chuquisaca",
+    "cost": 170,
+    "requiredTech": "Estratégia",
+    "uniqueTo": "Confederação Peru-Boliviana",
+    "maintenance": 2,
+    "science": 1,
+    "culture": 2,
+    "uniques": [
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Palácio Nacional do Haiti",
+    "cost": 240,
+    "requiredTech": "Administração",
+    "uniqueTo": "República do Haiti",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado da República do Haiti] event <for [República do Haiti] Civilizations>"
+    ]
+  },
+  {
+    "name": "Cooperativas Agrícolas Haitianas",
+    "cost": 150,
+    "requiredTech": "Agronomia",
+    "uniqueTo": "República do Haiti",
+    "maintenance": 1,
+    "food": 2,
+    "science": 1,
+    "culture": 2
+  },
+  {
+    "name": "Palácio Imperial de Pequim",
+    "cost": 340,
+    "requiredTech": "Administração Imperial",
+    "uniqueTo": "Grande Qing",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado da Grande Qing] event <for [Grande Qing] Civilizations>"
+    ]
+  },
+  {
+    "name": "Arsenal de Jiangnan",
+    "cost": 200,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "Grande Qing",
+    "maintenance": 2,
+    "science": 1,
+    "culture": 3,
+    "uniques": [
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Castelo de Edo",
+    "cost": 320,
+    "requiredTech": "Administração",
+    "uniqueTo": "Xogunato Tokugawa",
+    "maintenance": 2,
+    "science": 3,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado do Xogunato Tokugawa] event <for [Xogunato Tokugawa] Civilizations>"
+    ]
+  },
+  {
+    "name": "Escola de Artilharia de Nagasaki",
+    "cost": 180,
+    "requiredTech": "Pólvora",
+    "uniqueTo": "Xogunato Tokugawa",
+    "maintenance": 2,
+    "science": 1,
+    "culture": 3
+  },
+  {
+    "name": "Palácio do Golestan",
+    "cost": 280,
+    "requiredTech": "Administração",
+    "uniqueTo": "Pérsia Qajar",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado da Pérsia Qajar] event <for [Pérsia Qajar] Civilizations>"
+    ]
+  },
+  {
+    "name": "Bazar de Tabriz",
+    "cost": 170,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "Pérsia Qajar",
+    "maintenance": 2,
+    "science": 1,
+    "culture": 3,
+    "uniques": [
+      "[+2 Gold]"
+    ]
+  },
+  {
+    "name": "Bala Hissar",
+    "cost": 250,
+    "requiredTech": "Administração",
+    "uniqueTo": "Emirado do Afeganistão",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado do Emirado do Afeganistão] event <for [Emirado do Afeganistão] Civilizations>"
+    ]
+  },
+  {
+    "name": "Arsenal de Cabul",
+    "cost": 160,
+    "requiredTech": "Pólvora",
+    "uniqueTo": "Emirado do Afeganistão",
+    "maintenance": 2,
+    "science": 1,
+    "culture": 2,
+    "uniques": [
+      "[+1 Production]"
+    ]
+  },
+  {
+    "name": "Palácio de Abdeen",
+    "cost": 300,
+    "requiredTech": "Administração",
+    "uniqueTo": "Egito de Muhammad Ali",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Egito de Muhammad Ali] event <for [Egito de Muhammad Ali] Civilizations>"
+    ]
+  },
+  {
+    "name": "Fábrica Têxtil do Nilo",
+    "cost": 180,
+    "requiredTech": "Economia Industrial",
+    "uniqueTo": "Egito de Muhammad Ali",
+    "maintenance": 3,
+    "food": 2,
+    "culture": 3,
+    "uniques": [
+      "[+2 Production]"
+    ]
+  },
+  {
+    "name": "Palácio El Badi",
+    "cost": 270,
+    "requiredTech": "Administração",
+    "uniqueTo": "Sultanato de Marrocos",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Sultanato de Marrocos] event <for [Sultanato de Marrocos] Civilizations>"
+    ]
+  },
+  {
+    "name": "Feira de Fez",
+    "cost": 160,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "Sultanato de Marrocos",
+    "maintenance": 1,
+    "science": 1,
+    "culture": 3,
+    "uniques": [
+      "[+2 Gold]"
+    ]
+  },
+  {
+    "name": "Grande Palácio de Bangkok",
+    "cost": 300,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino do Sião",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino do Sião] event <for [Reino do Sião] Civilizations>"
+    ]
+  },
+  {
+    "name": "Porto de Bangkok",
+    "cost": 180,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "Reino do Sião",
+    "maintenance": 2,
+    "science": 1,
+    "culture": 3,
+    "uniques": [
+      "[+2 Gold]",
+      "Must be next to [Coast]"
+    ]
+  },
+  {
+    "name": "Cidade Imperial de Huế",
+    "cost": 320,
+    "requiredTech": "Administração Imperial",
+    "uniqueTo": "Império de Dai Nam",
+    "maintenance": 2,
+    "food": 1,
+    "science": 2,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado do Império de Dai Nam] event <for [Império de Dai Nam] Civilizations>"
+    ]
+  },
+  {
+    "name": "Celeiro Imperial do Mekong",
+    "cost": 170,
+    "requiredTech": "Agronomia",
+    "uniqueTo": "Império de Dai Nam",
+    "maintenance": 1,
+    "food": 2,
+    "science": 1,
+    "culture": 2
+  },
+  {
+    "name": "Gyeongbokgung",
+    "cost": 300,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino de Joseon",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 3,
+    "uniques": [
+      "Triggers a [Legado do Reino de Joseon] event <for [Reino de Joseon] Civilizations>"
+    ]
+  },
+  {
+    "name": "Seowon Nacional",
+    "cost": 170,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino de Joseon",
+    "maintenance": 1,
+    "science": 3,
+    "culture": 2
+  },
+  {
+    "name": "Harmandir Sahib",
+    "cost": 280,
+    "requiredTech": "Patrimônio Histórico",
+    "uniqueTo": "Império Sikh",
+    "maintenance": 2,
+    "food": 1,
+    "science": 3,
+    "culture": 1,
+    "uniques": [
+      "Triggers a [Legado do Império Sikh] event <for [Império Sikh] Civilizations>"
+    ]
+  },
+  {
+    "name": "Khalsa College de Lahore",
+    "cost": 170,
+    "requiredTech": "Educação",
+    "uniqueTo": "Império Sikh",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Palácio de Gondar",
+    "cost": 260,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Etiópia",
+    "maintenance": 2,
+    "science": 3,
+    "culture": 2,
+    "uniques": [
+      "Triggers a [Legado do Reino da Etiópia] event <for [Reino da Etiópia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Mosteiro de Debre Libanos",
+    "cost": 160,
+    "requiredTech": "Teologia Antiga",
+    "uniqueTo": "Reino da Etiópia",
+    "maintenance": 1,
+    "science": 3,
+    "culture": 1
+  },
+  {
+    "name": "Conselho de Estado",
+    "cost": 150,
+    "requiredTech": "Administração",
+    "science": 1,
+    "culture": 1,
+    "gold": 1,
+    "maintenance": 2,
+    "happiness": 1
+  },
+  {
+    "name": "Parlamento Nacional",
+    "cost": 180,
+    "requiredTech": "Direito",
+    "culture": 3,
+    "gold": 1,
+    "happiness": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Constituição Nacional",
+    "cost": 220,
+    "requiredTech": "Nacionalismo",
+    "culture": 2,
+    "science": 2,
+    "gold": 2,
+    "maintenance": 3
+  },
+  {
+    "name": "Suprema Corte",
+    "cost": 200,
+    "requiredTech": "Direito",
+    "science": 2,
+    "culture": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Ministério da Guerra",
+    "cost": 190,
+    "requiredTech": "Administração Imperial",
+    "production": 2,
+    "gold": 1,
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Tesouro do Estado",
+    "cost": 180,
+    "requiredTech": "Administração",
+    "gold": 3,
+    "maintenance": 2
+  },
+  {
+    "name": "Seminário Religioso",
+    "cost": 120,
+    "requiredTech": "Filosofia Religiosa",
+    "science": 1,
+    "faith": 2,
+    "culture": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Catedral Nacional",
+    "cost": 200,
+    "requiredTech": "Teologia Antiga",
+    "faith": 3,
+    "culture": 2,
+    "happiness": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Sede Patriarcal",
+    "cost": 230,
+    "requiredTech": "Teologia Antiga",
+    "faith": 3,
+    "culture": 2,
+    "science": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Conselho Inter-religioso",
+    "cost": 210,
+    "requiredTech": "Imprensa",
+    "culture": 2,
+    "science": 2,
+    "happiness": 1,
+    "maintenance": 2
+  },
+  {
+    "name": "Casa de Peregrinação",
+    "cost": 160,
+    "requiredTech": "Comércio Internacional",
+    "faith": 2,
+    "gold": 3,
+    "culture": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Ministério das Relações Exteriores",
+    "cost": 190,
+    "requiredTech": "Administração Imperial",
+    "gold": 2,
+    "science": 1,
+    "culture": 2,
+    "maintenance": 2
+  },
+  {
+    "name": "Academia Diplomática",
+    "cost": 210,
+    "requiredTech": "Comércio Internacional",
+    "science": 3,
+    "culture": 2,
+    "maintenance": 2,
+    "uniques": [
+      "Enables establishing embassies"
+    ]
+  },
+  {
+    "name": "Embaixada Permanente",
+    "cost": 170,
+    "requiredTech": "Comércio Internacional",
+    "gold": 2,
+    "culture": 1,
+    "maintenance": 2,
+    "uniques": [
+      "Enables Open Borders agreements"
+    ]
+  },
+  {
+    "name": "Consulado",
+    "cost": 130,
+    "requiredTech": "Direito",
+    "gold": 3,
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Resting point for Influence with City-States is increased by [5]"
+    ]
+  },
+  {
+    "name": "Liga Diplomática",
+    "cost": 240,
+    "requiredTech": "Nacionalismo",
+    "gold": 3,
+    "science": 2,
+    "culture": 2,
+    "maintenance": 3,
+    "uniques": [
+      "Enables Research agreements"
+    ]
+  },
+  {
+    "name": "Tribunal Internacional",
+    "cost": 280,
+    "requiredTech": "Nacionalismo",
+    "science": 3,
+    "culture": 3,
+    "happiness": 1,
+    "maintenance": 3,
+    "uniques": [
+      "Enables Defensive Pacts"
+    ]
+  },
+  {
+    "name": "Congresso das Nações",
+    "cost": 320,
+    "requiredTech": "Nacionalismo",
+    "gold": 3,
+    "science": 2,
+    "culture": 3,
+    "maintenance": 3,
+    "uniques": [
+      "[+1 Happiness]"
+    ],
+    "happiness": 1
+  },
+  {
+    "name": "Instituição Nacional do Grão-Pará",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Grão-Pará",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Grão-Pará",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Grão-Pará",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Grão-Pará",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Grão-Pará",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Grão-Pará.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Grão-Pará] event <for [Grão-Pará] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional da República Rio-Grandense",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "República Rio-Grandense",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica da República Rio-Grandense",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "República Rio-Grandense",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha da República Rio-Grandense",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "República Rio-Grandense",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico da República Rio-Grandense.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado da República Rio-Grandense] event <for [República Rio-Grandense] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional dos Estados Confederados da América",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Estados Confederados da América",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica dos Estados Confederados da América",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Estados Confederados da América",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha dos Estados Confederados da América",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Estados Confederados da América",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico dos Estados Confederados da América.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado dos Estados Confederados da América] event <for [Estados Confederados da América] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Reino da Grécia",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Grécia",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Reino da Grécia",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino da Grécia",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Reino da Grécia",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Reino da Grécia",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Reino da Grécia.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Reino da Grécia] event <for [Reino da Grécia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Reino de Hanôver",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino de Hanôver",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Reino de Hanôver",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino de Hanôver",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Reino de Hanôver",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Reino de Hanôver",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Reino de Hanôver.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Reino de Hanôver] event <for [Reino de Hanôver] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Reino da Saxônia",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Saxônia",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Reino da Saxônia",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino da Saxônia",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Reino da Saxônia",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Reino da Saxônia",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Reino da Saxônia.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Reino da Saxônia] event <for [Reino da Saxônia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Reino de Württemberg",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino de Württemberg",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Reino de Württemberg",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino de Württemberg",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Reino de Württemberg",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Reino de Württemberg",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Reino de Württemberg.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Reino de Württemberg] event <for [Reino de Württemberg] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional da Confederação Suíça",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Confederação Suíça",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica da Confederação Suíça",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Confederação Suíça",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha da Confederação Suíça",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Confederação Suíça",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico da Confederação Suíça.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado da Confederação Suíça] event <for [Confederação Suíça] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional dos Estados Pontifícios",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Estados Pontifícios",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica dos Estados Pontifícios",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Estados Pontifícios",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha dos Estados Pontifícios",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Estados Pontifícios",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico dos Estados Pontifícios.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado dos Estados Pontifícios] event <for [Estados Pontifícios] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Grão-Ducado da Toscana",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Grão-Ducado da Toscana",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Grão-Ducado da Toscana",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Grão-Ducado da Toscana",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Grão-Ducado da Toscana",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Grão-Ducado da Toscana",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Grão-Ducado da Toscana.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Grão-Ducado da Toscana] event <for [Grão-Ducado da Toscana] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional da República da Nova Granada",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "República da Nova Granada",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica da República da Nova Granada",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "República da Nova Granada",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha da República da Nova Granada",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "República da Nova Granada",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico da República da Nova Granada.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado da República da Nova Granada] event <for [República da Nova Granada] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Império de Bornu",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Império de Bornu",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Império de Bornu",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Império de Bornu",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Império de Bornu",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Império de Bornu",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Império de Bornu.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Império de Bornu] event <for [Império de Bornu] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Império de Oió",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Império de Oió",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Império de Oió",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Império de Oió",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Império de Oió",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Império de Oió",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Império de Oió.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Império de Oió] event <for [Império de Oió] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Reino de Daomé",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino de Daomé",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Reino de Daomé",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino de Daomé",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Reino de Daomé",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Reino de Daomé",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Reino de Daomé.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Reino de Daomé] event <for [Reino de Daomé] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Califado de Sokoto",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Califado de Sokoto",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Califado de Sokoto",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Califado de Sokoto",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Califado de Sokoto",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Califado de Sokoto",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Califado de Sokoto.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Califado de Sokoto] event <for [Califado de Sokoto] Civilizations>"
+    ]
+  },
+  {
+    "name": "Instituição Nacional do Reino de Madagascar",
+    "cost": 170,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino de Madagascar",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "uniques": [
+      "[+1 Gold]"
+    ]
+  },
+  {
+    "name": "Academia Histórica do Reino de Madagascar",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino de Madagascar",
+    "maintenance": 2,
+    "science": 2,
+    "culture": 2
+  },
+  {
+    "name": "Maravilha do Reino de Madagascar",
+    "cost": 400,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Reino de Madagascar",
+    "maintenance": 0,
+    "science": 2,
+    "culture": 3,
+    "isWonder": true,
+    "quote": "Um legado histórico do Reino de Madagascar.",
+    "uniques": [
+      "[+1 Gold]",
+      "Triggers a [Legado do Reino de Madagascar] event <for [Reino de Madagascar] Civilizations>"
+    ]
+  },
+  {
+    "name": "Confecção de Roupas",
+    "cost": 115,
+    "requiredTech": "Guildas",
+    "production": 1,
+    "gold": 1,
+    "happiness": 1,
+    "maintenance": 2,
+    "requiredBuilding": "Guilda dos Artesãos",
+    "civilopediaText": [
+      {
+        "text": "Oficinas de vestuário fornecem roupas à população urbana. O bônus de felicidade representa o acesso a bens básicos, sem simular consumo individual."
+      }
+    ],
+    "uniques": [
+      "[+1 Culture]"
+    ]
+  },
+  {
+    "name": "Farmácia",
+    "cost": 180,
+    "requiredTech": "Medicina Moderna",
+    "science": 1,
+    "happiness": 1,
+    "maintenance": 3,
+    "requiredBuilding": "Hospital",
+    "civilopediaText": [
+      {
+        "text": "Estabelecimento de preparação e distribuição de medicamentos, representando a ampliação do acesso à medicina."
+      }
+    ]
+  },
+  {
+    "name": "Indústria Farmacêutica",
+    "cost": 260,
+    "requiredTech": "Medicina Moderna",
+    "production": 2,
+    "gold": 2,
+    "science": 2,
+    "happiness": 1,
+    "maintenance": 3,
+    "requiredBuilding": "Instituto de Química",
+    "civilopediaText": [
+      {
+        "text": "Produção industrial de medicamentos baseada em pesquisa química e medicina moderna."
+      }
+    ]
+  },
+  {
+    "name": "Projeto da Utopia",
+    "cost": 1600,
+    "requiredTech": "Civilização Multiplanetária",
+    "maintenance": 0,
+    "culture": 5,
+    "isWonder": true,
+    "quote": "A maior realização de uma civilização que transformou conhecimento, patrimônio e criatividade em um legado comum.",
+    "civilopediaText": [
+      {
+        "text": "Um projeto monumental que simboliza a influência cultural de uma civilização em escala planetária. Sua construção, junto à conclusão de cinco árvores de políticas, pode assegurar a vitória cultural."
+      }
+    ]
+  },
+  {
+    "name": "Secretaria de Estado",
+    "cost": 180,
+    "requiredTech": "Burocracia",
+    "maintenance": 2,
+    "civilopediaText": [
+      {
+        "text": "Instituição administrativa que amplia a capacidade burocrática e a coordenação do Estado. Representa o pilar de governo e administração."
+      }
+    ],
+    "science": 1,
+    "gold": 1
+  },
+  {
+    "name": "Complexo Metalúrgico",
+    "cost": 220,
+    "requiredTech": "Metalurgia Avançada",
+    "requiredNearbyImprovedResources": [
+      "Ferro"
+    ],
+    "maintenance": 2,
+    "uniques": [
+      "[+2 Production]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Concentra o processamento de ferro e a produção de bens metálicos. É uma etapa de especialização industrial baseada em recurso local; não simula consumo por turno."
+      }
+    ]
+  },
+  {
+    "name": "Centro de Especialização Urbana",
+    "cost": 240,
+    "requiredTech": "Administração Urbana",
+    "maintenance": 2,
+    "uniques": [
+      "[+1 Food]",
+      "[+1 Production]",
+      "[+1 Gold]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Infraestrutura de coordenação econômica que permite à cidade combinar produção, abastecimento e comércio."
+      }
+    ]
+  },
+  {
+    "name": "Chancelaria Diplomática",
+    "cost": 260,
+    "requiredTech": "Comércio Internacional",
+    "maintenance": 2,
+    "civilopediaText": [
+      {
+        "text": "Instituição de relações exteriores, negociação e representação diplomática."
+      }
+    ],
+    "gold": 1,
+    "culture": 1
+  },
+  {
+    "name": "Instituto de Identidade Nacional",
+    "cost": 280,
+    "requiredTech": "Tradição e Identidade",
+    "maintenance": 2,
+    "uniques": [
+      "[+2 Culture]",
+      "[+1 Happiness]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Preserva narrativas, símbolos e práticas compartilhadas que dão continuidade à identidade nacional."
+      }
+    ]
+  },
+  {
+    "name": "Arquivo Nacional e Museu",
+    "cost": 300,
+    "requiredTech": "Educação",
+    "maintenance": 2,
+    "uniques": [
+      "[+2 Culture]",
+      "[+1 Science]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Reúne arquivos, coleções e memória histórica, convertendo preservação cultural em produção de conhecimento."
+      }
+    ]
+  },
+  {
+    "name": "Complexo de Criação de Animais",
+    "cost": 110,
+    "requiredTech": "Criação de Animais",
+    "food": 2,
+    "production": 1,
+    "maintenance": 1,
+    "civilopediaText": [
+      {
+        "text": "Instalação especializada em produção pecuária."
+      }
+    ]
+  },
+  {
+    "name": "Indústria de Processamento de Alimentos",
+    "cost": 190,
+    "requiredTech": "Produção em Massa",
+    "food": 2,
+    "production": 2,
+    "maintenance": 3,
+    "civilopediaText": [
+      {
+        "text": "Processamento e conservação de alimentos em escala industrial."
+      }
+    ],
+    "uniques": [
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "Costs [2] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>"
+    ]
+  },
+  {
+    "name": "Fábrica de Veículos Militares",
+    "cost": 320,
+    "requiredTech": "Automóvel",
+    "production": 3,
+    "maintenance": 4,
+    "requiredBuilding": "Fábrica de Automóveis",
+    "requiredNearbyImprovedResources": [
+      "Ferro",
+      "Petróleo"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Produção especializada de veículos militares."
+      }
+    ]
+  },
+  {
+    "name": "Fábrica de Aeronaves Militares",
+    "cost": 400,
+    "requiredTech": "Aeronáutica",
+    "production": 4,
+    "science": 1,
+    "maintenance": 4,
+    "requiredBuilding": "Indústria Aeronáutica",
+    "requiredNearbyImprovedResources": [
+      "Bauxita",
+      "Petróleo"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Produção especializada de aeronaves militares."
+      }
+    ]
+  },
+  {
+    "name": "Fábrica de Baterias",
+    "cost": 280,
+    "requiredTech": "Eletrônica",
+    "production": 3,
+    "science": 2,
+    "maintenance": 4,
+    "requiredNearbyImprovedResources": [
+      "Lítio"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Fabricação de baterias e componentes eletroquímicos."
+      }
+    ]
+  },
+  {
+    "name": "Centro de Microeletrônica",
+    "cost": 340,
+    "requiredTech": "Eletrônica",
+    "production": 3,
+    "science": 3,
+    "maintenance": 4,
+    "requiredNearbyImprovedResources": [
+      "Silício",
+      "Terras Raras"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Fabricação de componentes eletrônicos avançados."
+      }
+    ]
+  },
+  {
+    "name": "Complexo de Combustíveis Sintéticos",
+    "cost": 300,
+    "requiredTech": "Química Industrial",
+    "production": 3,
+    "gold": 2,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Carvão",
+      "Gás Natural"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Produção industrial de combustíveis sintéticos."
+      }
+    ]
+  },
+  {
+    "name": "Matadouro Industrial",
+    "cost": 180,
+    "requiredTech": "Produção em Massa",
+    "food": 1,
+    "production": 2,
+    "gold": 2,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Bovinos"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Processamento industrial de carne bovina e subprodutos."
+      }
+    ],
+    "uniques": [
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "Costs [2] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>"
+    ]
+  },
+  {
+    "name": "Indústria de Carne Suína",
+    "cost": 180,
+    "requiredTech": "Produção em Massa",
+    "food": 1,
+    "production": 2,
+    "gold": 2,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Porcos"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Processamento industrial de carne suína."
+      }
+    ]
+  },
+  {
+    "name": "Avicultura Industrial",
+    "cost": 180,
+    "requiredTech": "Produção em Massa",
+    "food": 2,
+    "production": 1,
+    "gold": 2,
+    "maintenance": 3,
+    "requiredNearbyImprovedResources": [
+      "Aves Domésticas"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Produção e processamento de aves e ovos em escala industrial."
+      }
+    ],
+    "uniques": [
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "Costs [2] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Industrial]>",
+      "[+1 Production] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>",
+      "Consumes [1] [Pessoas Escravizadas] <after adopting [Economia Escravista]> <before adopting [Abolição]> <during the [Era Contemporânea]>"
+    ]
+  },
+  {
+    "name": "Universidade de Londres",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino da Inglaterra",
+    "maintenance": 2,
+    "culture": 3,
+    "science": 1,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "Representa um grande centro de ensino superior e ciência associado à tradição acadêmica e industrial inglesa."
+      }
+    ]
+  },
+  {
+    "name": "Arsenal de Woolwich",
+    "cost": 180,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "Reino da Inglaterra",
+    "maintenance": 2,
+    "culture": 0,
+    "science": 1,
+    "production": 3,
+    "civilopediaText": [
+      {
+        "text": "Grande complexo de produção militar associado à artilharia, oficinas e engenharia britânicas."
+      }
+    ]
+  },
+  {
+    "name": "Bolsa de Manchester",
+    "cost": 400,
+    "requiredTech": "Economia Industrial",
+    "uniqueTo": "Reino da Inglaterra",
+    "maintenance": 0,
+    "culture": 2,
+    "science": 3,
+    "production": 1,
+    "civilopediaText": [
+      {
+        "text": "Centro simbólico da economia têxtil e mercantil de Manchester, ligando finanças, comércio e indústria."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Reino da Inglaterra.",
+    "uniques": [
+      "Triggers a [Legado do Reino da Inglaterra] event <for [Reino da Inglaterra] Civilizations>"
+    ]
+  },
+  {
+    "name": "Universidade de Edimburgo",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino da Escócia",
+    "maintenance": 2,
+    "culture": 3,
+    "science": 2,
+    "civilopediaText": [
+      {
+        "text": "Instituição de ensino superior que simboliza a tradição intelectual, médica e científica de Edimburgo."
+      }
+    ]
+  },
+  {
+    "name": "Oficinas do Clyde",
+    "cost": 180,
+    "requiredTech": "Máquinas a Vapor",
+    "uniqueTo": "Reino da Escócia",
+    "maintenance": 3,
+    "culture": 1,
+    "science": 1,
+    "production": 3,
+    "civilopediaText": [
+      {
+        "text": "Complexo industrial ligado ao crescimento da engenharia, metalurgia e construção naval do Clyde."
+      }
+    ]
+  },
+  {
+    "name": "Sociedade Real de Edimburgo",
+    "cost": 400,
+    "requiredTech": "Patrimônio Histórico",
+    "uniqueTo": "Reino da Escócia",
+    "maintenance": 0,
+    "culture": 2,
+    "science": 3,
+    "production": 1,
+    "civilopediaText": [
+      {
+        "text": "Centro de ciência e cultura que representa a antiga tradição escocesa de investigação e debate intelectual."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Reino da Escócia.",
+    "uniques": [
+      "Triggers a [Legado do Reino da Escócia] event <for [Reino da Escócia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Salão do Eisteddfod",
+    "cost": 170,
+    "requiredTech": "Tradição e Identidade",
+    "uniqueTo": "Principado de Gales",
+    "maintenance": 2,
+    "culture": 0,
+    "science": 3,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "Sede simbólica de competições de poesia, música e cultura que reforçam a língua e a identidade galesas."
+      }
+    ]
+  },
+  {
+    "name": "Ferrarias de Merthyr",
+    "cost": 190,
+    "requiredTech": "Revolução Industrial",
+    "uniqueTo": "Principado de Gales",
+    "maintenance": 3,
+    "culture": 1,
+    "science": 1,
+    "production": 3,
+    "civilopediaText": [
+      {
+        "text": "Grande complexo siderúrgico inspirado nas ferrarias dos vales do sul do País de Gales."
+      }
+    ]
+  },
+  {
+    "name": "Aqueduto de Pontcysyllte",
+    "cost": 400,
+    "requiredTech": "Engenharia Hidráulica",
+    "uniqueTo": "Principado de Gales",
+    "maintenance": 0,
+    "culture": 2,
+    "science": 2,
+    "production": 2,
+    "civilopediaText": [
+      {
+        "text": "Obra monumental de engenharia que simboliza a capacidade técnica dos vales galeses."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Principado de Gales.",
+    "uniques": [
+      "Triggers a [Legado do Principado de Gales] event <for [Principado de Gales] Civilizations>"
+    ]
+  },
+  {
+    "name": "Custom House de Dublin",
+    "cost": 180,
+    "requiredTech": "Mercantilismo",
+    "uniqueTo": "Reino da Irlanda",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "production": 1,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Centro aduaneiro e mercantil que representa o peso do comércio marítimo de Dublin."
+      }
+    ]
+  },
+  {
+    "name": "Quatro Tribunais de Dublin",
+    "cost": 210,
+    "requiredTech": "Direito",
+    "uniqueTo": "Reino da Irlanda",
+    "maintenance": 2,
+    "culture": 2,
+    "science": 2,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "Complexo jurídico que reforça a administração, a formação legal e a vida cívica irlandesa."
+      }
+    ]
+  },
+  {
+    "name": "Porto de Belfast",
+    "cost": 400,
+    "requiredTech": "Navegação Oceânica",
+    "uniqueTo": "Reino da Irlanda",
+    "maintenance": 0,
+    "culture": 2,
+    "science": 2,
+    "production": 2,
+    "gold": 2,
+    "civilopediaText": [
+      {
+        "text": "Grande entreposto marítimo do norte da ilha, conectando indústria, comércio e navegação."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Reino da Irlanda.",
+    "uniques": [
+      "Triggers a [Legado do Reino da Irlanda] event <for [Reino da Irlanda] Civilizations>"
+    ]
+  },
+  {
+    "name": "Universidade de Varsóvia",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Reino da Polônia",
+    "maintenance": 2,
+    "culture": 3,
+    "science": 2,
+    "civilopediaText": [
+      {
+        "text": "Centro de formação intelectual e científica usado para reconstruir a vida acadêmica polonesa."
+      }
+    ]
+  },
+  {
+    "name": "Banco da Polônia",
+    "cost": 180,
+    "requiredTech": "Banca",
+    "uniqueTo": "Reino da Polônia",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "production": 1,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Instituição financeira criada para fortalecer moeda, crédito e administração econômica nacional."
+      }
+    ]
+  },
+  {
+    "name": "Arsenal de Varsóvia",
+    "cost": 400,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "Reino da Polônia",
+    "maintenance": 0,
+    "culture": 1,
+    "science": 2,
+    "production": 3,
+    "civilopediaText": [
+      {
+        "text": "Complexo militar associado à tradição de artilharia, oficinas e mobilização de Varsóvia."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Reino da Polônia.",
+    "uniques": [
+      "Triggers a [Legado do Reino da Polônia] event <for [Reino da Polônia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Faculdade de Medicina da Bahia",
+    "cost": 210,
+    "requiredTech": "Educação",
+    "uniqueTo": "Estado da Bahia",
+    "maintenance": 2,
+    "culture": 3,
+    "science": 2,
+    "civilopediaText": [
+      {
+        "text": "Principal polo médico do Estado, descendente da Escola de Cirurgia criada em 1808 e elevada a Faculdade em 1832."
+      }
+    ]
+  },
+  {
+    "name": "Arsenal da Marinha da Bahia",
+    "cost": 180,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "Estado da Bahia",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "production": 3,
+    "civilopediaText": [
+      {
+        "text": "Oficinas e instalações navais de Salvador voltadas à construção, reparo e apoio à marinha."
+      }
+    ]
+  },
+  {
+    "name": "Porto de Salvador",
+    "cost": 400,
+    "requiredTech": "Navegação Oceânica",
+    "uniqueTo": "Estado da Bahia",
+    "maintenance": 0,
+    "culture": 2,
+    "science": 2,
+    "production": 1,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Grande porto atlântico de Salvador, eixo do comércio baiano e da ligação com o exterior."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Estado da Bahia.",
+    "uniques": [
+      "Triggers a [Legado do Estado da Bahia] event <for [Estado da Bahia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Curso Jurídico de Olinda",
+    "cost": 210,
+    "requiredTech": "Direito",
+    "uniqueTo": "Estado de Pernambuco",
+    "maintenance": 2,
+    "culture": 3,
+    "science": 2,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "Centro de formação jurídica criado em 1827 e instalado em Olinda, símbolo da vida intelectual pernambucana."
+      }
+    ]
+  },
+  {
+    "name": "Arsenal de Pernambuco",
+    "cost": 180,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "Estado de Pernambuco",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "production": 3,
+    "civilopediaText": [
+      {
+        "text": "Oficinas militares e navais de Pernambuco voltadas à defesa do litoral e das vias comerciais."
+      }
+    ]
+  },
+  {
+    "name": "Porto do Recife",
+    "cost": 400,
+    "requiredTech": "Navegação Oceânica",
+    "uniqueTo": "Estado de Pernambuco",
+    "maintenance": 0,
+    "culture": 2,
+    "science": 2,
+    "production": 2,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Grande entreposto do Nordeste, ligado ao açúcar, ao algodão e ao comércio internacional de Recife."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Estado de Pernambuco.",
+    "uniques": [
+      "Triggers a [Legado do Estado de Pernambuco] event <for [Estado de Pernambuco] Civilizations>"
+    ]
+  },
+  {
+    "name": "Porto de Jaraguá",
+    "cost": 180,
+    "requiredTech": "Navegação",
+    "uniqueTo": "Estado de Alagoas",
+    "maintenance": 1,
+    "culture": 0,
+    "science": 1,
+    "production": 2,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Principal porta de saída do comércio de Maceió, especialmente ligado ao açúcar e às zonas agrícolas do interior."
+      }
+    ]
+  },
+  {
+    "name": "Engenhos do Mundaú",
+    "cost": 170,
+    "requiredTech": "Agronomia",
+    "uniqueTo": "Estado de Alagoas",
+    "maintenance": 2,
+    "culture": 2,
+    "science": 0,
+    "production": 1,
+    "gold": 2,
+    "civilopediaText": [
+      {
+        "text": "Rede de engenhos que simboliza a base açucareira dos vales do Mundaú e do Paraíba."
+      }
+    ]
+  },
+  {
+    "name": "Empório de Maceió",
+    "cost": 400,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "Estado de Alagoas",
+    "maintenance": 0,
+    "culture": 2,
+    "science": 2,
+    "production": 1,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Centro mercantil alternativo para uma Maceió que conquista cedo o papel de capital e entreposto regional."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Estado de Alagoas.",
+    "uniques": [
+      "Triggers a [Legado do Estado de Alagoas] event <for [Estado de Alagoas] Civilizations>"
+    ]
+  },
+  {
+    "name": "Alfândega de Laranjeiras",
+    "cost": 180,
+    "requiredTech": "Mercantilismo",
+    "uniqueTo": "Estado de Sergipe",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 1,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Centro aduaneiro que sustenta o comércio e as exportações de Laranjeiras."
+      }
+    ]
+  },
+  {
+    "name": "Engenhos do Cotinguiba",
+    "cost": 170,
+    "requiredTech": "Agronomia",
+    "uniqueTo": "Estado de Sergipe",
+    "maintenance": 2,
+    "culture": 2,
+    "science": 0,
+    "production": 1,
+    "gold": 2,
+    "civilopediaText": [
+      {
+        "text": "Conjunto de engenhos do vale do Cotinguiba, base da produção açucareira e do comércio fluvial."
+      }
+    ]
+  },
+  {
+    "name": "Porto de Laranjeiras",
+    "cost": 400,
+    "requiredTech": "Navegação",
+    "uniqueTo": "Estado de Sergipe",
+    "maintenance": 0,
+    "culture": 1,
+    "science": 2,
+    "production": 2,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Entreposto fluvial que articula açúcar, comércio e circulação pelo vale do Cotinguiba."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Estado de Sergipe.",
+    "uniques": [
+      "Triggers a [Legado do Estado de Sergipe] event <for [Estado de Sergipe] Civilizations>"
+    ]
+  },
+  {
+    "name": "Fazendas de Gado do Piauí",
+    "cost": 150,
+    "requiredTech": "Criação de Animais",
+    "uniqueTo": "Estado do Piauí",
+    "maintenance": 1,
+    "culture": 2,
+    "science": 0,
+    "production": 2,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "Grandes propriedades pecuárias que sustentam a riqueza do interior e a circulação de rebanhos pelo sertão."
+      }
+    ]
+  },
+  {
+    "name": "Casa do Governo de Oeiras",
+    "cost": 180,
+    "requiredTech": "Administração",
+    "uniqueTo": "Estado do Piauí",
+    "maintenance": 2,
+    "culture": 2,
+    "science": 2,
+    "civilopediaText": [
+      {
+        "text": "Centro administrativo da antiga capital, preservando a tradição política de Oeiras."
+      }
+    ]
+  },
+  {
+    "name": "Mercado do Parnaíba",
+    "cost": 400,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "Estado do Piauí",
+    "maintenance": 0,
+    "culture": 2,
+    "science": 2,
+    "production": 1,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Entreposto que liga a produção do interior às rotas comerciais do vale do Parnaíba."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Estado do Piauí.",
+    "uniques": [
+      "Triggers a [Legado do Estado do Piauí] event <for [Estado do Piauí] Civilizations>"
+    ]
+  },
+  {
+    "name": "Porto de Cabedelo",
+    "cost": 180,
+    "requiredTech": "Navegação",
+    "uniqueTo": "Estado da Paraíba",
+    "maintenance": 1,
+    "culture": 1,
+    "science": 1,
+    "production": 2,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Porto estratégico da entrada marítima da Paraíba, conectando a capital e os engenhos ao comércio atlântico."
+      }
+    ]
+  },
+  {
+    "name": "Engenhos do Brejo",
+    "cost": 170,
+    "requiredTech": "Agronomia",
+    "uniqueTo": "Estado da Paraíba",
+    "maintenance": 2,
+    "culture": 2,
+    "science": 0,
+    "production": 1,
+    "gold": 2,
+    "civilopediaText": [
+      {
+        "text": "Engenhos e propriedades do Brejo que sustentam produção agrícola, abastecimento e comércio regional."
+      }
+    ]
+  },
+  {
+    "name": "Mosteiro de São Bento da Paraíba",
+    "cost": 400,
+    "requiredTech": "Patrimônio Histórico",
+    "uniqueTo": "Estado da Paraíba",
+    "maintenance": 0,
+    "culture": 4,
+    "science": 2,
+    "civilopediaText": [
+      {
+        "text": "Patrimônio religioso e cultural ligado à longa presença beneditina na cidade da Paraíba."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional do Estado da Paraíba.",
+    "uniques": [
+      "Triggers a [Legado do Estado da Paraíba] event <for [Estado da Paraíba] Civilizations>"
+    ]
+  },
+  {
+    "name": "Fortaleza dos Reis Magos",
+    "cost": 180,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "República Rio-Grandense do Norte",
+    "maintenance": 2,
+    "culture": 2,
+    "science": 1,
+    "production": 1,
+    "civilopediaText": [
+      {
+        "text": "Fortaleza histórica que guarda a entrada do litoral e representa a tradição militar de Natal."
+      }
+    ]
+  },
+  {
+    "name": "Salinas de Macau",
+    "cost": 170,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "República Rio-Grandense do Norte",
+    "maintenance": 2,
+    "culture": 1,
+    "science": 0,
+    "production": 1,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Salinas da foz do Açu que dão ao Estado um recurso comercial associado ao sal e ao transporte costeiro."
+      }
+    ]
+  },
+  {
+    "name": "Oficinas de Sal do Açu",
+    "cost": 400,
+    "requiredTech": "Mercantilismo",
+    "uniqueTo": "República Rio-Grandense do Norte",
+    "maintenance": 0,
+    "culture": 2,
+    "science": 1,
+    "production": 2,
+    "gold": 3,
+    "civilopediaText": [
+      {
+        "text": "Complexo simbólico das salinas e das antigas oficinas de carne e comércio do baixo Açu."
+      }
+    ],
+    "isWonder": true,
+    "quote": "Um legado nacional da República Rio-Grandense do Norte.",
+    "uniques": [
+      "Triggers a [Legado da República Rio-Grandense do Norte] event <for [República Rio-Grandense do Norte] Civilizations>"
+    ]
+  },
+  {
+    "name": "Mausoléu de Lenin",
+    "cost": 260,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "União Soviética",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Mausoléu de Lenin — monumento histórico da União Soviética.",
+    "uniques": [
+      "Triggers a [Religião da União Soviética] event <for [União Soviética] Civilizations>",
+      "Triggers a [Legado da União Soviética] event <for [União Soviética] Civilizations>"
+    ]
+  },
+  {
+    "name": "Kremlin de Moscou",
+    "cost": 280,
+    "requiredTech": "Burocracia",
+    "uniqueTo": "União Soviética",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Kremlin de Moscou — legado da União Soviética.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico da União Soviética",
+    "cost": 130,
+    "requiredTech": "Administração",
+    "uniqueTo": "União Soviética",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança da União Soviética] event <for [União Soviética] Civilizations>"
+    ]
+  },
+  {
+    "name": "Praça da Paz Celestial",
+    "cost": 265,
+    "requiredTech": "Educação",
+    "uniqueTo": "China Comunista",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Praça da Paz Celestial — monumento histórico da China Comunista.",
+    "uniques": [
+      "Triggers a [Religião da China Comunista] event <for [China Comunista] Civilizations>",
+      "Triggers a [Legado da China Comunista] event <for [China Comunista] Civilizations>"
+    ]
+  },
+  {
+    "name": "Mausoléu de Mao",
+    "cost": 285,
+    "requiredTech": "Filosofia Religiosa",
+    "uniqueTo": "China Comunista",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Mausoléu de Mao — legado da China Comunista.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico da China Comunista",
+    "cost": 133,
+    "requiredTech": "Administração",
+    "uniqueTo": "China Comunista",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança da China Comunista] event <for [China Comunista] Civilizations>"
+    ]
+  },
+  {
+    "name": "Palácio Celestial de Nanjing",
+    "cost": 270,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino Celestial da China",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Palácio Celestial de Nanjing — monumento histórico do Reino Celestial da China.",
+    "uniques": [
+      "Triggers a [Religião do Reino Celestial da China] event <for [Reino Celestial da China] Civilizations>",
+      "Triggers a [Legado do Reino Celestial da China] event <for [Reino Celestial da China] Civilizations>"
+    ]
+  },
+  {
+    "name": "Muralhas de Nanjing",
+    "cost": 290,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "Reino Celestial da China",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Muralhas de Nanjing — legado do Reino Celestial da China.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico do Reino Celestial da China",
+    "cost": 136,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino Celestial da China",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança do Reino Celestial da China] event <for [Reino Celestial da China] Civilizations>"
+    ]
+  },
+  {
+    "name": "Catedral de Winchester",
+    "cost": 275,
+    "requiredTech": "Burocracia",
+    "uniqueTo": "Wessex",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Catedral de Winchester — monumento histórico de Wessex.",
+    "uniques": [
+      "Triggers a [Religião de Wessex] event <for [Wessex] Civilizations>",
+      "Triggers a [Legado de Wessex] event <for [Wessex] Civilizations>"
+    ]
+  },
+  {
+    "name": "Sistema de Burhs",
+    "cost": 295,
+    "requiredTech": "Pólvora",
+    "uniqueTo": "Wessex",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Sistema de Burhs — legado de Wessex.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico de Wessex",
+    "cost": 139,
+    "requiredTech": "Administração",
+    "uniqueTo": "Wessex",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança de Wessex] event <for [Wessex] Civilizations>"
+    ]
+  },
+  {
+    "name": "Abadia de Repton",
+    "cost": 280,
+    "requiredTech": "Filosofia Religiosa",
+    "uniqueTo": "Mercia",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Abadia de Repton — monumento histórico de Mercia.",
+    "uniques": [
+      "Triggers a [Religião da Mercia] event <for [Mercia] Civilizations>",
+      "Triggers a [Legado da Mercia] event <for [Mercia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Fortificações de Tamworth",
+    "cost": 300,
+    "requiredTech": "Revolução Industrial",
+    "uniqueTo": "Mercia",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Fortificações de Tamworth — legado de Mercia.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico de Mercia",
+    "cost": 142,
+    "requiredTech": "Administração",
+    "uniqueTo": "Mercia",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança da Mercia] event <for [Mercia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Mosteiro de Lindisfarne",
+    "cost": 285,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "Northumbria",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Mosteiro de Lindisfarne — monumento histórico de Northumbria.",
+    "uniques": [
+      "Triggers a [Religião da Northumbria] event <for [Northumbria] Civilizations>",
+      "Triggers a [Legado da Northumbria] event <for [Northumbria] Civilizations>"
+    ]
+  },
+  {
+    "name": "Biblioteca de Jarrow",
+    "cost": 305,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "Northumbria",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Biblioteca de Jarrow — legado de Northumbria.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico de Northumbria",
+    "cost": 145,
+    "requiredTech": "Administração",
+    "uniqueTo": "Northumbria",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança da Northumbria] event <for [Northumbria] Civilizations>"
+    ]
+  },
+  {
+    "name": "Sutton Hoo",
+    "cost": 290,
+    "requiredTech": "Pólvora",
+    "uniqueTo": "Anglia Oriental",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Sutton Hoo — monumento histórico da Anglia Oriental.",
+    "uniques": [
+      "Triggers a [Religião da Anglia Oriental] event <for [Anglia Oriental] Civilizations>",
+      "Triggers a [Legado da Anglia Oriental] event <for [Anglia Oriental] Civilizations>"
+    ]
+  },
+  {
+    "name": "Salão Real de Rendlesham",
+    "cost": 310,
+    "requiredTech": "Retórica",
+    "uniqueTo": "Anglia Oriental",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Salão Real de Rendlesham — legado da Anglia Oriental.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico da Anglia Oriental",
+    "cost": 148,
+    "requiredTech": "Administração",
+    "uniqueTo": "Anglia Oriental",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança da Anglia Oriental] event <for [Anglia Oriental] Civilizations>"
+    ]
+  },
+  {
+    "name": "Basílica de Saint-Sernin",
+    "cost": 295,
+    "requiredTech": "Revolução Industrial",
+    "uniqueTo": "Occitânia",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Basílica de Saint-Sernin — monumento histórico da Occitânia.",
+    "uniques": [
+      "Triggers a [Religião da Occitânia] event <for [Occitânia] Civilizations>",
+      "Triggers a [Legado da Occitânia] event <for [Occitânia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Cité de Carcassonne",
+    "cost": 315,
+    "requiredTech": "Arquitetura",
+    "uniqueTo": "Occitânia",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Cité de Carcassonne — legado da Occitânia.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico da Occitânia",
+    "cost": 151,
+    "requiredTech": "Administração",
+    "uniqueTo": "Occitânia",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança da Occitânia] event <for [Occitânia] Civilizations>"
+    ]
+  },
+  {
+    "name": "Catedral de Saint-Corentin",
+    "cost": 300,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "Bretanha",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Catedral de Saint-Corentin — monumento histórico da Bretanha.",
+    "uniques": [
+      "Triggers a [Religião da Bretanha] event <for [Bretanha] Civilizations>",
+      "Triggers a [Legado da Bretanha] event <for [Bretanha] Civilizations>"
+    ]
+  },
+  {
+    "name": "Castelo de Fougères",
+    "cost": 320,
+    "requiredTech": "Educação",
+    "uniqueTo": "Bretanha",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Castelo de Fougères — legado da Bretanha.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico da Bretanha",
+    "cost": 154,
+    "requiredTech": "Administração",
+    "uniqueTo": "Bretanha",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança da Bretanha] event <for [Bretanha] Civilizations>"
+    ]
+  },
+  {
+    "name": "Alcázar de Segóvia",
+    "cost": 305,
+    "requiredTech": "Retórica",
+    "uniqueTo": "Castela",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Alcázar de Segóvia — monumento histórico de Castela.",
+    "uniques": [
+      "Triggers a [Religião de Castela] event <for [Castela] Civilizations>",
+      "Triggers a [Legado de Castela] event <for [Castela] Civilizations>"
+    ]
+  },
+  {
+    "name": "Scriptorium de Toledo",
+    "cost": 325,
+    "requiredTech": "Administração",
+    "uniqueTo": "Castela",
+    "culture": 3,
+    "gold": 1,
+    "maintenance": 0,
+    "isWonder": true,
+    "quote": "Scriptorium de Toledo — legado de Castela.",
+    "uniques": []
+  },
+  {
+    "name": "Centro Histórico de Castela",
+    "cost": 157,
+    "requiredTech": "Administração",
+    "uniqueTo": "Castela",
+    "culture": 2,
+    "maintenance": 1,
+    "uniques": [
+      "Triggers a [Herança de Castela] event <for [Castela] Civilizations>"
+    ]
+  },
+  {
+    "name": "Palazzo del Quirinale",
+    "cost": 290,
+    "requiredTech": "Administração",
+    "uniqueTo": "Reino da Itália",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Religião do Reino da Itália] event <for [Reino da Itália] Civilizations>"
+    ],
+    "quote": "Palazzo del Quirinale — monumento histórico do Reino da Itália.",
+    "civilopediaText": [
+      {
+        "text": "Sede da monarquia italiana e símbolo da continuidade do Estado nacional."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Galleria Vittorio Emanuele II",
+    "cost": 300,
+    "requiredTech": "Economia Industrial",
+    "uniqueTo": "Reino da Itália",
+    "culture": 3,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Legado do Reino da Itália] event <for [Reino da Itália] Civilizations>"
+    ],
+    "quote": "Galleria Vittorio Emanuele II — monumento histórico do Reino da Itália.",
+    "civilopediaText": [
+      {
+        "text": "Monumento à urbanização, ao comércio e à cultura cívica do novo reino."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Grande Via Ferrata do Reino da Itália",
+    "cost": 190,
+    "requiredTech": "Ferrovias",
+    "uniqueTo": "Reino da Itália",
+    "culture": 1,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Herança do Reino da Itália] event <for [Reino da Itália] Civilizations>"
+    ],
+    "quote": "Grande Via Ferrata do Reino da Itália — monumento histórico do Reino da Itália.",
+    "civilopediaText": [
+      {
+        "text": "Instituição nacional que representa a integração ferroviária da península."
+      }
+    ]
+  },
+  {
+    "name": "Palácio Imperial de Tóquio",
+    "cost": 320,
+    "requiredTech": "Administração Imperial",
+    "uniqueTo": "Império do Japão",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Religião do Império do Japão] event <for [Império do Japão] Civilizations>"
+    ],
+    "quote": "Palácio Imperial de Tóquio — monumento histórico do Império do Japão.",
+    "civilopediaText": [
+      {
+        "text": "Centro simbólico do Estado imperial e da restauração da autoridade da Casa Imperial."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Santuário Meiji",
+    "cost": 305,
+    "requiredTech": "Patrimônio Histórico",
+    "uniqueTo": "Império do Japão",
+    "culture": 3,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Legado do Império do Japão] event <for [Império do Japão] Civilizations>"
+    ],
+    "quote": "Santuário Meiji — monumento histórico do Império do Japão.",
+    "civilopediaText": [
+      {
+        "text": "Monumento do culto imperial e da memória nacional japonesa."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Arsenal de Kure",
+    "cost": 210,
+    "requiredTech": "Produção em Massa",
+    "uniqueTo": "Império do Japão",
+    "culture": 1,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Herança do Império do Japão] event <for [Império do Japão] Civilizations>"
+    ],
+    "quote": "Arsenal de Kure — monumento histórico do Império do Japão.",
+    "civilopediaText": [
+      {
+        "text": "Complexo naval que representa a industrialização militar do Japão moderno."
+      }
+    ]
+  },
+  {
+    "name": "Congresso de Cúcuta",
+    "cost": 295,
+    "requiredTech": "Direito",
+    "uniqueTo": "Gran Colombia",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Religião da Gran Colombia] event <for [Gran Colombia] Civilizations>"
+    ],
+    "quote": "Congresso de Cúcuta — monumento histórico da Gran Colombia.",
+    "civilopediaText": [
+      {
+        "text": "Centro constitucional da fundação da República de Colombia em 1821."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Quinta de Bolívar",
+    "cost": 285,
+    "requiredTech": "Patrimônio Histórico",
+    "uniqueTo": "Gran Colombia",
+    "culture": 3,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Legado da Gran Colombia] event <for [Gran Colombia] Civilizations>"
+    ],
+    "quote": "Quinta de Bolívar — monumento histórico da Gran Colombia.",
+    "civilopediaText": [
+      {
+        "text": "Monumento à memória política de Simón Bolívar e à independência."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Estrada Real dos Andes",
+    "cost": 180,
+    "requiredTech": "Engenharia Hidráulica",
+    "uniqueTo": "Gran Colombia",
+    "culture": 1,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Herança da Gran Colombia] event <for [Gran Colombia] Civilizations>"
+    ],
+    "quote": "Estrada Real dos Andes — monumento histórico da Gran Colombia.",
+    "civilopediaText": [
+      {
+        "text": "Rede estratégica de circulação entre planaltos andinos, vales e centros administrativos."
+      }
+    ]
+  },
+  {
+    "name": "Fernsehturm de Berlim",
+    "cost": 310,
+    "requiredTech": "Eletrônica",
+    "uniqueTo": "Alemanha Oriental",
+    "culture": 3,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Religião da Alemanha Oriental] event <for [Alemanha Oriental] Civilizations>"
+    ],
+    "quote": "Fernsehturm de Berlim — monumento histórico da Alemanha Oriental.",
+    "civilopediaText": [
+      {
+        "text": "Torre-símbolo do Estado socialista e da engenharia de Berlim Oriental."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Palácio da República",
+    "cost": 300,
+    "requiredTech": "Estado Social",
+    "uniqueTo": "Alemanha Oriental",
+    "culture": 2,
+    "faith": 2,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Legado da Alemanha Oriental] event <for [Alemanha Oriental] Civilizations>"
+    ],
+    "quote": "Palácio da República — monumento histórico da Alemanha Oriental.",
+    "civilopediaText": [
+      {
+        "text": "Centro cívico que representa a vida pública e os serviços do Estado socialista."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Complexo Industrial de Leuna",
+    "cost": 200,
+    "requiredTech": "Química Industrial",
+    "uniqueTo": "Alemanha Oriental",
+    "culture": 1,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Herança da Alemanha Oriental] event <for [Alemanha Oriental] Civilizations>"
+    ],
+    "quote": "Complexo Industrial de Leuna — monumento histórico da Alemanha Oriental.",
+    "civilopediaText": [
+      {
+        "text": "Núcleo químico-industrial da economia planejada e da autonomia produtiva."
+      }
+    ]
+  },
+  {
+    "name": "Bundestag de Bonn",
+    "cost": 315,
+    "requiredTech": "Mídia de Massa",
+    "uniqueTo": "Alemanha Ocidental",
+    "culture": 3,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Religião da Alemanha Ocidental] event <for [Alemanha Ocidental] Civilizations>"
+    ],
+    "quote": "Bundestag de Bonn — monumento histórico da Alemanha Ocidental.",
+    "civilopediaText": [
+      {
+        "text": "Centro parlamentar da República Federal durante a era de Bonn."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Aço de Duisburgo",
+    "cost": 305,
+    "requiredTech": "Aço",
+    "uniqueTo": "Alemanha Ocidental",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Legado da Alemanha Ocidental] event <for [Alemanha Ocidental] Civilizations>"
+    ],
+    "quote": "Aço de Duisburgo — monumento histórico da Alemanha Ocidental.",
+    "civilopediaText": [
+      {
+        "text": "Complexo simbólico da reconstrução pesada e da indústria ocidental alemã."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Plano de Reconstrução do Reno",
+    "cost": 195,
+    "requiredTech": "Economia Industrial",
+    "uniqueTo": "Alemanha Ocidental",
+    "culture": 1,
+    "faith": 2,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Herança da Alemanha Ocidental] event <for [Alemanha Ocidental] Civilizations>"
+    ],
+    "quote": "Plano de Reconstrução do Reno — monumento histórico da Alemanha Ocidental.",
+    "civilopediaText": [
+      {
+        "text": "Instituição econômica que representa investimento, logística e recuperação produtiva."
+      }
+    ]
+  },
+  {
+    "name": "Palácio Federal de San Salvador",
+    "cost": 285,
+    "requiredTech": "Administração",
+    "uniqueTo": "América Central",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Religião da América Central] event <for [América Central] Civilizations>"
+    ],
+    "quote": "Palácio Federal de San Salvador — monumento histórico da América Central.",
+    "civilopediaText": [
+      {
+        "text": "Sede simbólica do projeto federal centro-americano."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Universidade de León",
+    "cost": 290,
+    "requiredTech": "Educação",
+    "uniqueTo": "América Central",
+    "culture": 3,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Legado da América Central] event <for [América Central] Civilizations>"
+    ],
+    "quote": "Universidade de León — monumento histórico da América Central.",
+    "civilopediaText": [
+      {
+        "text": "Centro de formação política e intelectual da federação."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Estrada Federal Centro-Americana",
+    "cost": 175,
+    "requiredTech": "Comércio Internacional",
+    "uniqueTo": "América Central",
+    "culture": 1,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Herança da América Central] event <for [América Central] Civilizations>"
+    ],
+    "quote": "Estrada Federal Centro-Americana — monumento histórico da América Central.",
+    "civilopediaText": [
+      {
+        "text": "Rede de integração econômica e militar entre as províncias federais."
+      }
+    ]
+  },
+  {
+    "name": "Paço Real do Rio de Janeiro",
+    "cost": 330,
+    "requiredTech": "Administração Imperial",
+    "uniqueTo": "Reino Unido do Brasil e Portugal",
+    "culture": 3,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Religião do Reino Unido do Brasil e Portugal] event <for [Reino Unido do Brasil e Portugal] Civilizations>"
+    ],
+    "quote": "Paço Real do Rio de Janeiro — monumento histórico do Reino Unido do Brasil e Portugal.",
+    "civilopediaText": [
+      {
+        "text": "Centro da Corte portuguesa no Rio de Janeiro e símbolo da monarquia transcontinental."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Real Teatro de São João",
+    "cost": 300,
+    "requiredTech": "Patrimônio Histórico",
+    "uniqueTo": "Reino Unido do Brasil e Portugal",
+    "culture": 3,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Legado do Reino Unido do Brasil e Portugal] event <for [Reino Unido do Brasil e Portugal] Civilizations>"
+    ],
+    "quote": "Real Teatro de São João — monumento histórico do Reino Unido do Brasil e Portugal.",
+    "civilopediaText": [
+      {
+        "text": "Monumento à vida cultural, teatral e cortesã do Reino Unido."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Arsenal Real do Rio de Janeiro",
+    "cost": 205,
+    "requiredTech": "Engenharia Militar",
+    "uniqueTo": "Reino Unido do Brasil e Portugal",
+    "culture": 1,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Herança do Reino Unido do Brasil e Portugal] event <for [Reino Unido do Brasil e Portugal] Civilizations>"
+    ],
+    "quote": "Arsenal Real do Rio de Janeiro — monumento histórico do Reino Unido do Brasil e Portugal.",
+    "civilopediaText": [
+      {
+        "text": "Instituição naval e militar que sustenta a defesa atlântica do reino."
+      }
+    ]
+  },
+  {
+    "name": "Pedras de Jelling",
+    "cost": 280,
+    "requiredTech": "Patrimônio Histórico",
+    "uniqueTo": "Império do Mar do Norte",
+    "culture": 3,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Religião do Império do Mar do Norte] event <for [Império do Mar do Norte] Civilizations>"
+    ],
+    "quote": "Pedras de Jelling — monumento histórico do Império do Mar do Norte.",
+    "civilopediaText": [
+      {
+        "text": "Monumento dinástico ligado à afirmação da monarquia dinamarquesa e à cristianização."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Grande Salão de Winchester",
+    "cost": 290,
+    "requiredTech": "Feudalismo",
+    "uniqueTo": "Império do Mar do Norte",
+    "culture": 2,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Legado do Império do Mar do Norte] event <for [Império do Mar do Norte] Civilizations>"
+    ],
+    "quote": "Grande Salão de Winchester — monumento histórico do Império do Mar do Norte.",
+    "civilopediaText": [
+      {
+        "text": "Centro simbólico da administração régia no coração inglês do império."
+      }
+    ],
+    "isWonder": true
+  },
+  {
+    "name": "Frota do Mar do Norte",
+    "cost": 180,
+    "requiredTech": "Navegação Oceânica",
+    "uniqueTo": "Império do Mar do Norte",
+    "culture": 1,
+    "faith": 1,
+    "maintenance": 0,
+    "uniques": [
+      "Triggers a [Herança do Império do Mar do Norte] event <for [Império do Mar do Norte] Civilizations>"
+    ],
+    "quote": "Frota do Mar do Norte — monumento histórico do Império do Mar do Norte.",
+    "civilopediaText": [
+      {
+        "text": "Instituição naval que mantém rotas, tributos e tropas ligadas pelos portos."
+      }
+    ]
+  }
+]
